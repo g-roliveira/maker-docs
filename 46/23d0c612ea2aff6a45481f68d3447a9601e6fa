@@ -1,0 +1,14 @@
+docs.json
+  h_d18abb67a63ae6 3-4,72
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4623d0c612ea2aff6a45481f68d3447a9601e6fa",
+  "prompts": {},
+  "humans": {
+    "h_d18abb67a63ae6": {
+      "author": "Gustavo Oliveira <gustavo@groliveira.com.br>"
+    }
+  }
+}
