@@ -1,0 +1,21 @@
+.github/workflows/docs.yml
+  s_c451a297373eef::t_b3f2e971e2513d 32-34,119-121
+playwright.config.ts
+  s_c451a297373eef::t_b3f2e971e2513d 39
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d580de0573ddd2bb89474212e81917b8d6e4a136",
+  "prompts": {},
+  "sessions": {
+    "s_c451a297373eef": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a194ff-3ed2-7450-95b7-b9807a8d0b29",
+        "model": "gpt-6-luna"
+      },
+      "human_author": "Gustavo Oliveira <gustavo@groliveira.com.br>"
+    }
+  }
+}
