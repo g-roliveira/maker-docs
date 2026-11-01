@@ -29,7 +29,9 @@ jobs:
         run: npm ci
 
       - name: Install Mintlify CLI
-        run: npm install --global mint
+        run: |
+          npm install --global mint@4.2.1184
+          mint --version
 
       - name: Run Markdown/MDX AST audit
         run: npm run docs:lint -- --report reports/markdown-ast-audit.json
@@ -114,7 +116,9 @@ jobs:
         run: npm ci
 
       - name: Install Mintlify CLI
-        run: npm install --global mint
+        run: |
+          npm install --global mint@4.2.1184
+          mint --version
 
       - name: Full Markdownlint audit
         run: |
