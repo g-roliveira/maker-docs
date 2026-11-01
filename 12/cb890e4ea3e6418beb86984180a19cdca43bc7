@@ -1,0 +1,19 @@
+.github/workflows/docs.yml
+  s_c451a297373eef::t_eff19682e225b9 25,93
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "12cb890e4ea3e6418beb86984180a19cdca43bc7",
+  "prompts": {},
+  "sessions": {
+    "s_c451a297373eef": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a194ff-3ed2-7450-95b7-b9807a8d0b29",
+        "model": "gpt-6-luna"
+      },
+      "human_author": "Gustavo Oliveira <gustavo@groliveira.com.br>"
+    }
+  }
+}
