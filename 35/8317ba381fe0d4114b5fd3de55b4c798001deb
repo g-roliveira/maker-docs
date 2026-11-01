@@ -1,0 +1,700 @@
+.github/workflows/docs.yml
+  h_d18abb67a63ae6 12-14,26-29,40-42,44-115,117-127
+.gitignore
+  h_d18abb67a63ae6 1-5
+.markdownlint-changed.yaml
+  h_d18abb67a63ae6 1-14
+.markdownlint-cli2.yaml
+  h_d18abb67a63ae6 1-15
+.prettierignore
+  h_d18abb67a63ae6 1-3
+.prettierrc.json
+  h_d18abb67a63ae6 1-6
+AGENTS.md
+  h_d18abb67a63ae6 3,22-23,37-38
+README.md
+  h_d18abb67a63ae6 55
+docs.json
+  h_d18abb67a63ae6 6,14,52,291,295,299,303,307,319,323,327,331,335,339,1512,1533,1537,1564,1568,1572,1576,1580,1668,1727,2033,2037,2041,2045,2049,2060,2064,2068,2072,2076,2080,3238,3260,3264,3292,3296,3300,3304,3308,3341,3398,3699,3899,4025,4666,4713,6020,6024,6028,6032,6036,6047,6051,6055,6059,6063,7246,7267,7271,7298,7302,7306,7310,7314,7320,7562
+maker-26/ReleaseNote.md
+  h_d18abb67a63ae6 63,72,120,147,158,171,183,190,195,206,214,223
+maker-26/bem_vindo.md
+  h_d18abb67a63ae6 8
+maker-26/dicas_e_truques/banco_de_dados/configurando_banco_db2_para_que_possa_ser_utilizado_no_Maker.md
+  h_d18abb67a63ae6 14,18
+maker-26/dicas_e_truques/componente/utilizando_dois_filtros_de_pesquisa_lista_dinamica_em_relatorio.md
+  h_d18abb67a63ae6 14,16,20,29,33,37
+maker-26/dicas_e_truques/diversos/acesso_duplo_utilizando_identificador_biometrico.md
+  h_d18abb67a63ae6 10
+maker-26/dicas_e_truques/maker/como_utilizar_o_postgresql_8.3_no_maker.md
+  h_d18abb67a63ae6 10,16
+maker-26/dicas_e_truques/maker/formulario_do_serial.md
+  h_d18abb67a63ae6 22,29,37,45
+maker-26/maker_2/fluxos_e_acoes/Relacao_de_funcoes/funcoes/funcoes_categoria_sql/concatenar.md
+  h_d18abb67a63ae6 19
+maker-26/maker_2/fluxos_e_acoes/Relacao_de_funcoes/funcoes/funcoes_categoria_sql/contendo.md
+  h_d18abb67a63ae6 15
+maker-26/maker_2/fluxos_e_acoes/Relacao_de_funcoes/funcoes/funcoes_categoria_sql/divisao.md
+  h_d18abb67a63ae6 19
+maker-26/maker_2/fluxos_e_acoes/Relacao_de_funcoes/funcoes/funcoes_categoria_sql/e.md
+  h_d18abb67a63ae6 17
+maker-26/maker_2/fluxos_e_acoes/Relacao_de_funcoes/funcoes/funcoes_categoria_sql/iniciando.md
+  h_d18abb67a63ae6 21
+maker-26/maker_2/fluxos_e_acoes/Relacao_de_funcoes/funcoes/funcoes_categoria_sql/media.md
+  h_d18abb67a63ae6 16
+maker-26/maker_2/fluxos_e_acoes/Relacao_de_funcoes/funcoes/funcoes_categoria_sql/multiplicacao.md
+  h_d18abb67a63ae6 19
+maker-26/maker_2/fluxos_e_acoes/Relacao_de_funcoes/funcoes/funcoes_categoria_sql/nao.md
+  h_d18abb67a63ae6 16
+maker-26/maker_2/fluxos_e_acoes/Relacao_de_funcoes/funcoes/funcoes_categoria_sql/ou.md
+  h_d18abb67a63ae6 16
+maker-26/maker_2/fluxos_e_acoes/Relacao_de_funcoes/funcoes/funcoes_categoria_sql/soma.md
+  h_d18abb67a63ae6 14
+maker-26/maker_2/fluxos_e_acoes/Relacao_de_funcoes/funcoes/funcoes_categoria_sql/somatorio.md
+  h_d18abb67a63ae6 15
+maker-26/maker_2/fluxos_e_acoes/Relacao_de_funcoes/funcoes/funcoes_categoria_sql/subtracao.md
+  h_d18abb67a63ae6 18
+maker-26/maker_2/fluxos_e_acoes/Relacao_de_funcoes/funcoes/funcoes_categoria_sql/terminando.md
+  h_d18abb67a63ae6 17
+maker-26/maker_2/formulario/assistente_sql/funcao_limit_e_offset.md
+  h_d18abb67a63ae6 8,12,18,22
+maker-26/webrun_2/depurador.md
+  h_d18abb67a63ae6 18,21,23,25,27,29,37,50-51
+maker-26/webrun_2/trabalhando_modo_projeto.md
+  h_d18abb67a63ae6 14,18,21,24,28
+maker-27/bem_vindo.md
+  h_d18abb67a63ae6 8,12
+maker-27/dicas_e_truques/banco_de_dados/conectando_banco_oracle_via_service_name_pelo_maker.md
+  h_d18abb67a63ae6 15,21,25,31,35,43,47,55,61,65,77
+maker-27/dicas_e_truques/componente/utilizando_dois_filtros_de_pesquisa_lista_dinamica_em_relatorio.md
+  h_d18abb67a63ae6 14,16,20,29,33,37
+maker-27/dicas_e_truques/diversos/acesso_duplo_utilizando_identificador_biometrico.md
+  h_d18abb67a63ae6 10
+maker-27/dicas_e_truques/funcoes/exemplo_de_como_criar_uma_funcao.md
+  h_d18abb67a63ae6 14,17,45,139,143,165,184,198,205,207,211,215,219,224
+maker-27/dicas_e_truques/maker/como_utilizar_o_postgresql_8.3_no_maker.md
+  h_d18abb67a63ae6 10,16
+maker-27/dicas_e_truques/maker/formulario_do_serial.md
+  h_d18abb67a63ae6 43,47,53,57,61,65,69,75,81,87,91,95,99,103,107,111,113-114
+maker-27/dicas_e_truques/maker/old_formulario_do_serial.md
+  h_d18abb67a63ae6 24,31,39,47
+maker-27/erros/banco_de_dados/erros_solucoes_banco_de_dados.md
+  h_d18abb67a63ae6 58,60
+maker-27/erros/banco_de_dados/erros_solucoes_banco_de_dados3.md
+  h_d18abb67a63ae6 58,60
+maker-27/maker_2/relatorio/novas_funcionalidades_report_builder.md
+  h_d18abb67a63ae6 18,24,28,32,38,57,59,63,65,75,77,79,95
+maker-ai/docs/FAQ/erros_solucoes_banco_de_dados.md
+  h_d18abb67a63ae6 141,145
+maker-ai/docs/dicas-e-truques/banco_de_dados/conectando_banco_oracle_via_service_name_pelo_maker.md
+  h_d18abb67a63ae6 15,21,25,31,35,43,47,55,61,65,77
+maker-ai/docs/dicas-e-truques/card.md
+  h_d18abb67a63ae6 6,16,20,75,80,91,97,101,110,114,123-124,131-132,149
+maker-ai/docs/dicas-e-truques/componente/como_criar_tabela_em_uma_moldura.md
+  h_d18abb67a63ae6 24,28,32,36,40,44,48,52
+maker-ai/docs/dicas-e-truques/componente/como_criar_tabela_em_uma_moldura_partir_de_uma_lista.md
+  h_d18abb67a63ae6 24,32,36,40,44,48,52,56
+maker-ai/docs/dicas-e-truques/componente/como_utilizar_cor_condicional_grades_atraves_fluxograma.md
+  h_d18abb67a63ae6 31
+maker-ai/docs/dicas-e-truques/diversos/acesso_duplo_utilizando_identificador_biometrico.md
+  h_d18abb67a63ae6 10
+maker-ai/docs/dicas-e-truques/diversos/arquivo_firebase.md
+  h_d18abb67a63ae6 10,13,16,19,27,32,40,45,48,55
+maker-ai/docs/dicas-e-truques/funcoes/Utilizando_a_Funcao_Criar_Novo_Arquivo.md
+  h_d18abb67a63ae6 10,18,30,35
+maker-ai/docs/dicas-e-truques/funcoes/Utilizando_a__Funcao_Remover_Arquivo.md
+  h_d18abb67a63ae6 10,18,30,46,51
+maker-ai/docs/dicas-e-truques/funcoes/exemplo_de_como_criar_uma_funcao.md
+  h_d18abb67a63ae6 47,104,193,195,199,201,203,205,207,211,217
+maker-ai/docs/dicas-e-truques/maker/como_obter_detalhes_de_erros_inesperados.md
+  h_d18abb67a63ae6 12
+maker-ai/docs/dicas-e-truques/maker/criando_um_formulario.md
+  h_d18abb67a63ae6 7,11,28,36,38
+maker-ai/docs/dicas-e-truques/maker/exemplo_de_como_transportar_dados_do_arquivo_para_tabela.md
+  h_d18abb67a63ae6 16,20,48
+maker-ai/docs/dicas-e-truques/maker/formulario_do_serial.md
+  h_d18abb67a63ae6 41,45,50,54,58,62,66,72,77,82,86,90,94,98,102,105,107
+maker-ai/docs/dicas-e-truques/maker/importando_dados_de_arquivos_dbf.md
+  h_d18abb67a63ae6 60,69,73,91,95,104,108
+maker-ai/docs/dicas-e-truques/maker/refatoracao.md
+  h_d18abb67a63ae6 12
+maker-ai/docs/maker-mobile/como_acessar.md
+  h_d18abb67a63ae6 10,13,19,22,27
+maker-ai/docs/maker-mobile/como_fazer/adicionando_formularios_ao_menu_principal.md
+  h_d18abb67a63ae6 8,13
+maker-ai/docs/maker-mobile/como_fazer/alterando_icones_e_a_imagem_principal_de_aplicativos_do_maker_mobile.md
+  h_d18abb67a63ae6 10,12,14,17,20,23,28
+maker-ai/docs/maker-mobile/como_fazer/autenticacao_via_sms.md
+  h_d18abb67a63ae6 10,13,16,19,22,25,28
+maker-ai/docs/maker-mobile/como_fazer/banco_de_dadosreal.md
+  h_d18abb67a63ae6 10,14,17,20,23,26,29
+maker-ai/docs/maker-mobile/como_fazer/como_alterar_nome_de_um_sistema_no_maker_mobile.md
+  h_d18abb67a63ae6 10,13,16
+maker-ai/docs/maker-mobile/como_fazer/como_alterar_os_skins_do_seu_projeto.md
+  h_d18abb67a63ae6 8,13,15,17,19,21,23
+maker-ai/docs/maker-mobile/como_fazer/como_compilar_projetos_gerados_para_ios_no_mac.md
+  h_d18abb67a63ae6 35,39
+maker-ai/docs/maker-mobile/como_fazer/como_obter_as_coordenadas_de_um_dispositivo_movel_com_gps.md
+  h_d18abb67a63ae6 11,14,19,29,38
+maker-ai/docs/maker-mobile/como_fazer/como_obter_imagem_da_camera.md
+  h_d18abb67a63ae6 12,15,18,25,29,38,41
+maker-ai/docs/maker-mobile/como_fazer/como_selecionar_tabelas_para_sincronismo.md
+  h_d18abb67a63ae6 8,12,16
+maker-ai/docs/maker-mobile/como_fazer/criando_consumindo_webservice.md
+  h_d18abb67a63ae6 10,15,18,21,24,28,34,37,40,58,62
+maker-ai/docs/maker-mobile/como_fazer/criando_fluxo.md
+  h_d18abb67a63ae6 10,16,19,22,25,31,35,38
+maker-ai/docs/maker-mobile/como_fazer/criando_formulario.md
+  h_d18abb67a63ae6 10,13,16,19,22,25
+maker-ai/docs/maker-mobile/como_fazer/filtrando_componente_por_outro_que_nao_possui_vinculo_com_o_banco.md
+  h_d18abb67a63ae6 8,10,14,18,24
+maker-ai/docs/maker-mobile/como_fazer/gerar_qrcode.md
+  h_d18abb67a63ae6 8,11,14,17
+maker-ai/docs/maker-mobile/como_fazer/incluindo_deletando_dados.md
+  h_d18abb67a63ae6 8,11,14,18,20,24,30,33,36,39,42,45,48,51,54,57,60,63,66,69,72
+maker-ai/docs/maker-mobile/como_fazer/integracao_facebook.md
+  h_d18abb67a63ae6 9,19,24,27,30,35
+maker-ai/docs/maker-mobile/como_fazer/leitura_cartao_credito.md
+  h_d18abb67a63ae6 8,13
+maker-ai/docs/maker-mobile/como_fazer/ler_qrcode.md
+  h_d18abb67a63ae6 10,13,16
+maker-ai/docs/maker-mobile/como_fazer/lista_filtrando_lista.md
+  h_d18abb67a63ae6 10,13,16,21,27
+maker-ai/docs/maker-mobile/como_fazer/notificacao_status.md
+  h_d18abb67a63ae6 9,12-13,16
+maker-ai/docs/maker-mobile/como_fazer/push_notification.md
+  h_d18abb67a63ae6 12,15,18,21,26,39,42
+maker-ai/docs/maker-mobile/como_fazer/push_notification_v1.md
+  h_d18abb67a63ae6 15,18,23,40,42,44,46,51,54
+maker-ai/docs/maker-mobile/como_fazer/validacao_biometrica.md
+  h_d18abb67a63ae6 9,12,15
+maker-ai/docs/maker-mobile/como_fazer/webservice_no_makermobile.md
+  h_d18abb67a63ae6 12,16,19,22,25,33,41,48,55,62,65,73
+maker-ai/docs/maker-mobile/como_sincronizar.md
+  h_d18abb67a63ae6 12,16,25,37,41,49,53,57,61,74
+maker-ai/docs/maker-mobile/comprando_creditos_para_exportacao_de_projetos.md
+  h_d18abb67a63ae6 6,16,20,24,28,32,36
+maker-ai/docs/maker-mobile/exportando_projetos/como_exportar.md
+  h_d18abb67a63ae6 13,18,21,24,31,34,38,41,53-58
+maker-ai/docs/maker-mobile/exportando_projetos/lista_exportacao.md
+  h_d18abb67a63ae6 10,14
+maker-ai/docs/maker-mobile/informacoes_adicionais/tela_notificacao.md
+  h_d18abb67a63ae6 10,14,18
+maker-ai/docs/maker-mobile/informacoes_adicionais/utilizando_texto_formatado_no_webservice.md
+  h_d18abb67a63ae6 18,22,26,32,36,42,46,56,60,64,72,76,80,84,88,90,94,100,106,113,115
+maker-ai/docs/maker-mobile/mobile.md
+  h_d18abb67a63ae6 25,32,34,41,43,50
+maker-ai/docs/maker-mobile/mudanca_de_comportamento/comportamento_caixa_data.md
+  h_d18abb67a63ae6 8,12,14
+maker-ai/docs/maker-mobile/mudanca_de_comportamento/comportamento_do_componente_grade.md
+  h_d18abb67a63ae6 9,11,17,19
+maker-ai/docs/maker-mobile/mudanca_de_comportamento/comportamento_formulario.md
+  h_d18abb67a63ae6 10,14,18,33,39
+maker-ai/docs/maker-mobile/nome_do_pacote.md
+  h_d18abb67a63ae6 8
+maker-ai/docs/maker/aba_dados_-_definindo_dados_para_relatorio.md
+  h_d18abb67a63ae6 56,67,76
+maker-ai/docs/maker/assistente_banco_dados.md
+  h_d18abb67a63ae6 40-43
+maker-ai/docs/maker/atualizacoes_do_maker.md
+  h_d18abb67a63ae6 6,8,12,15,19,25-27
+maker-ai/docs/maker/atualizacoes_maker.md
+  h_d18abb67a63ae6 6,8,12,15,19,25-27,29
+maker-ai/docs/maker/componentes/aba.md
+  h_d18abb67a63ae6 8,42
+maker-ai/docs/maker/componentes/acao.md
+  h_d18abb67a63ae6 8
+maker-ai/docs/maker/componentes/accordion.md
+  h_d18abb67a63ae6 6,10,43
+maker-ai/docs/maker/componentes/caixa_de_texto.md
+  h_d18abb67a63ae6 12
+maker-ai/docs/maker/componentes/calendario.md
+  h_d18abb67a63ae6 10,72,77,82,87,92,98,103,108,119
+maker-ai/docs/maker/componentes/chat.md
+  h_d18abb67a63ae6 10,14,18,22
+maker-ai/docs/maker/componentes/colorpicker.md
+  h_d18abb67a63ae6 10
+maker-ai/docs/maker/componentes/consulta.md
+  h_d18abb67a63ae6 36
+maker-ai/docs/maker/componentes/faq.md
+  h_d18abb67a63ae6 6,10,48,57
+maker-ai/docs/maker/componentes/galeria_de_imagens.md
+  h_d18abb67a63ae6 57
+maker-ai/docs/maker/componentes/grade.md
+  h_d18abb67a63ae6 20,23,26,29,31,34,39,42,44,296,300,304,308,312,316,334,337,347
+maker-ai/docs/maker/componentes/integracao.md
+  h_d18abb67a63ae6 47,57,63,69,75,81
+maker-ai/docs/maker/componentes/lista_dupla.md
+  h_d18abb67a63ae6 84
+maker-ai/docs/maker/componentes/listagem.md
+  h_d18abb67a63ae6 24
+maker-ai/docs/maker/componentes/menu.md
+  h_d18abb67a63ae6 60,62,66,68,76,91,97,99,105
+maker-ai/docs/maker/componentes/organograma.md
+  h_d18abb67a63ae6 8
+maker-ai/docs/maker/componentes/player.md
+  h_d18abb67a63ae6 8,55,59,65
+maker-ai/docs/maker/componentes/rss.md
+  h_d18abb67a63ae6 8,51
+maker-ai/docs/maker/componentes/slider.md
+  h_d18abb67a63ae6 8
+maker-ai/docs/maker/componentes/slider_panel.md
+  h_d18abb67a63ae6 8,40
+maker-ai/docs/maker/componentes/tabela.md
+  h_d18abb67a63ae6 65,87,91,94,97,100
+maker-ai/docs/maker/componentes/timer.md
+  h_d18abb67a63ae6 8
+maker-ai/docs/maker/componentes/upload.md
+  h_d18abb67a63ae6 12,16,20
+maker-ai/docs/maker/definicao_do_formulario.md
+  h_d18abb67a63ae6 45,49-57,63-64,68,70,72-75,120
+maker-ai/docs/maker/exportando_relatorios_para_jasper.md
+  h_d18abb67a63ae6 16
+maker-ai/docs/maker/instalacoes/instalacao_maker.md
+  h_d18abb67a63ae6 31
+maker-ai/docs/maker/instalacoes/instalacao_servidor_licencas.md
+  h_d18abb67a63ae6 81
+maker-ai/docs/maker/objetos_comuns_formulario/novo_componente.md
+  h_d18abb67a63ae6 8
+maker-ai/docs/maker/tradutor.md
+  h_d18abb67a63ae6 10
+maker-ai/docs/topicos-de-erros/banco_de_dados/erros_solucoes_banco_de_dados.md
+  h_d18abb67a63ae6 123,127
+maker-ai/docs/webrun/acessando_sistema_webrun.md
+  h_d18abb67a63ae6 15
+maker-ai/docs/webrun/como_adicionar_componentes_bibliotecas_terceiros.md
+  h_d18abb67a63ae6 128,134,144,150,156,162,168,174,180,186,192,198,204,230,232
+maker-ai/docs/webrun/efetuando_logoff_usuario_sistema.md
+  h_d18abb67a63ae6 13,17
+maker-ai/docs/webrun/estrutura_de_pastas_e_arquivos/Pasta_CONFIG/pasta_config_do_webrun.md
+  h_d18abb67a63ae6 8
+maker-ai/docs/webrun/estrutura_de_pastas_e_arquivos/Pasta_CONFIG/pasta_saved_do_webrun.md
+  h_d18abb67a63ae6 10
+maker-ai/docs/webrun/estrutura_de_pastas_e_arquivos/estrutura_de_pastas_do_webrun.md
+  h_d18abb67a63ae6 33,43
+maker-ai/docs/webrun/tela_de_configuracoes/Parametros_de_configuracao/parametro_de_configuracao.md
+  h_d18abb67a63ae6 23
+maker-ai/docs/webrun/tela_de_configuracoes/Parametros_de_configuracao/parametro_de_configuracao_agendador.md
+  h_d18abb67a63ae6 8,10,14-17
+maker-ai/docs/webrun/tela_de_configuracoes/Parametros_de_configuracao/parametro_de_configuracao_autocarregar.md
+  h_d18abb67a63ae6 8,10,12-15
+maker-ai/docs/webrun/tela_de_configuracoes/Parametros_de_configuracao/parametro_de_configuracao_codeexport.md
+  h_d18abb67a63ae6 10,14-17
+maker-ai/docs/webrun/tela_de_configuracoes/Parametros_de_configuracao/parametro_de_configuracao_componentes.md
+  h_d18abb67a63ae6 8,10,12-15
+maker-ai/docs/webrun/tela_de_configuracoes/Parametros_de_configuracao/parametro_de_configuracao_idioma.md
+  h_d18abb67a63ae6 13
+maker-ai/docs/webrun/tela_de_configuracoes/Parametros_de_configuracao/parametro_de_configuracao_proxy.md
+  h_d18abb67a63ae6 8,10,12-15
+maker-ai/docs/webrun/tela_de_configuracoes/Parametros_de_configuracao/parametro_de_configuracao_relatorio.md
+  h_d18abb67a63ae6 8,10,12-15
+maker-ai/docs/webrun/tela_de_configuracoes/Parametros_de_configuracao/parametro_de_configuracao_seguranca.md
+  h_d18abb67a63ae6 8,10,12-15
+maker-ai/docs/webrun/tela_de_configuracoes/Parametros_de_configuracao/parametro_de_configuracao_servidor_digital.md
+  h_d18abb67a63ae6 13
+maker-ai/docs/webrun/tela_de_configuracoes/Parametros_de_configuracao/parametro_de_configuracao_sessao.md
+  h_d18abb67a63ae6 8,10,12-15
+maker-ai/docs/webrun/tela_de_configuracoes/pwa.md
+  h_d18abb67a63ae6 14-15,33,41-42,45,54,62
+maker-ai/docs/webrun/webrun_enterprise_reports_webrun_enterprise_utf8.md
+  h_d18abb67a63ae6 10
+maker-ai/docs/webrun/websocket.md
+  h_d18abb67a63ae6 26
+maker-studio/Ametista.md
+  h_d18abb67a63ae6 8
+maker-studio/dicas_e_truques/banco_de_dados/conectando_banco_oracle_via_service_name_pelo_maker.md
+  h_d18abb67a63ae6 17,23,27,33,37,45,49,57,63,67,79
+maker-studio/dicas_e_truques/banco_de_dados/utilizando_tabela_fr_sessao_com_mysql_e_oracle.md
+  h_d18abb67a63ae6 18,36,53
+maker-studio/dicas_e_truques/componente/criar_componentes_Maker3.md
+  h_d18abb67a63ae6 22,36,42,46,48,54,84-86,129,184,188,196,208,214,222,228
+maker-studio/dicas_e_truques/diversos/acesso_duplo_utilizando_identificador_biometrico.md
+  h_d18abb67a63ae6 12
+maker-studio/dicas_e_truques/funcoes/exemplo_de_como_criar_uma_funcao.md
+  h_d18abb67a63ae6 46,205,207,211,215,219,223,229
+maker-studio/dicas_e_truques/maker/como_utilizar_o_postgresql_8.3_no_maker.md
+  h_d18abb67a63ae6 10,16
+maker-studio/dicas_e_truques/maker/formulario_do_serial.md
+  h_d18abb67a63ae6 43,47,53,57,61,65,69,75,81,87,91,95,99,103,107,111,113-114
+maker-studio/erros/banco_de_dados/erros_solucoes_banco_de_dados.md
+  h_d18abb67a63ae6 126,128
+maker-studio/estrutura_maker_e_webrun/arquivo_words.dic.md
+  h_d18abb67a63ae6 28
+maker-studio/maker_3/agendador_de_tarefas/agendador_de_tarefas.md
+  h_d18abb67a63ae6 38
+maker-studio/maker_3/empacotando_projetos/empacotando_projetos.md
+  h_d18abb67a63ae6 41
+maker-studio/maker_3/fluxos_e_acoes/editor_de_fluxo_de_acoes.md
+  h_d18abb67a63ae6 26
+maker-studio/maker_3/formulario/assistente_banco_dados.md
+  h_d18abb67a63ae6 161
+maker-studio/maker_3/formulario/assistente_criacao_novo_formulario.md
+  h_d18abb67a63ae6 37
+maker-studio/maker_3/formulario/assistente_sql/adicionando_um_objeto_a_consulta.md
+  h_d18abb67a63ae6 28
+maker-studio/maker_3/formulario/assistente_sql/adicionando_uma_tabela_derivada.md
+  h_d18abb67a63ae6 30
+maker-studio/maker_3/formulario/assistente_sql/controles_da_grade_do_assistente_sql.md
+  h_d18abb67a63ae6 24
+maker-studio/maker_3/formulario/assistente_sql/iniciando_com_o_assistente_sql.md
+  h_d18abb67a63ae6 69
+maker-studio/maker_3/formulario/associacao_acoes.md
+  h_d18abb67a63ae6 77
+maker-studio/maker_3/formulario/associando_fluxos_aos_eventos.md
+  h_d18abb67a63ae6 80,93
+maker-studio/maker_3/formulario/barra_de_ferramentas_da_tela.md
+  h_d18abb67a63ae6 34
+maker-studio/maker_3/formulario/componentes/Chat.md
+  h_d18abb67a63ae6 15,20,55,61,76,85,90,104,119
+maker-studio/maker_3/formulario/componentes/aba.md
+  h_d18abb67a63ae6 10,22,37
+maker-studio/maker_3/formulario/componentes/acao.md
+  h_d18abb67a63ae6 8,12,54
+maker-studio/maker_3/formulario/componentes/accordion.md
+  h_d18abb67a63ae6 8,12,47,79
+maker-studio/maker_3/formulario/componentes/arvore.md
+  h_d18abb67a63ae6 293
+maker-studio/maker_3/formulario/componentes/botao.md
+  h_d18abb67a63ae6 246
+maker-studio/maker_3/formulario/componentes/caixa_de_texto.md
+  h_d18abb67a63ae6 252
+maker-studio/maker_3/formulario/componentes/calendario.md
+  h_d18abb67a63ae6 10,16,40
+maker-studio/maker_3/formulario/componentes/check.md
+  h_d18abb67a63ae6 233
+maker-studio/maker_3/formulario/componentes/componentes.md
+  h_d18abb67a63ae6 47
+maker-studio/maker_3/formulario/componentes/consulta.md
+  h_d18abb67a63ae6 16,28,38,49,53
+maker-studio/maker_3/formulario/componentes/container.md
+  h_d18abb67a63ae6 26
+maker-studio/maker_3/formulario/componentes/csssprite.md
+  h_d18abb67a63ae6 14,18,24,46,50
+maker-studio/maker_3/formulario/componentes/faq.md
+  h_d18abb67a63ae6 12,16,85,96,107
+maker-studio/maker_3/formulario/componentes/galeria_imagens.md
+  h_d18abb67a63ae6 15,19,25,31,59,65,84
+maker-studio/maker_3/formulario/componentes/grade.md
+  h_d18abb67a63ae6 20,23,26,29,31,34,39,42,44,305,308,311,314,317,320,336,339,349,365
+maker-studio/maker_3/formulario/componentes/grafico.md
+  h_d18abb67a63ae6 290
+maker-studio/maker_3/formulario/componentes/graficomaker3.md
+  h_d18abb67a63ae6 12,16,70,120,124
+maker-studio/maker_3/formulario/componentes/imagem.md
+  h_d18abb67a63ae6 332
+maker-studio/maker_3/formulario/componentes/lista.md
+  h_d18abb67a63ae6 245
+maker-studio/maker_3/formulario/componentes/lista_dinamica.md
+  h_d18abb67a63ae6 332
+maker-studio/maker_3/formulario/componentes/lista_dupla.md
+  h_d18abb67a63ae6 349
+maker-studio/maker_3/formulario/componentes/menu.md
+  h_d18abb67a63ae6 12,16,20,22,26,38,42,46
+maker-studio/maker_3/formulario/componentes/moldura.md
+  h_d18abb67a63ae6 247
+maker-studio/maker_3/formulario/componentes/multiselect.md
+  h_d18abb67a63ae6 16,36,45
+maker-studio/maker_3/formulario/componentes/opcoes.md
+  h_d18abb67a63ae6 242
+maker-studio/maker_3/formulario/componentes/organograma.md
+  h_d18abb67a63ae6 12,88
+maker-studio/maker_3/formulario/componentes/player.md
+  h_d18abb67a63ae6 10,14,37,41,47,55
+maker-studio/maker_3/formulario/componentes/rss.md
+  h_d18abb67a63ae6 10,15,30,34
+maker-studio/maker_3/formulario/componentes/slider.md
+  h_d18abb67a63ae6 10,31
+maker-studio/maker_3/formulario/componentes/sliderpainel.md
+  h_d18abb67a63ae6 10,18,30
+maker-studio/maker_3/formulario/componentes/subformulario.md
+  h_d18abb67a63ae6 244
+maker-studio/maker_3/formulario/componentes/tabela.md
+  h_d18abb67a63ae6 16,36,42,76,99,103,106,109,112,124
+maker-studio/maker_3/formulario/componentes/texto.md
+  h_d18abb67a63ae6 233
+maker-studio/maker_3/formulario/componentes/texto_longo.md
+  h_d18abb67a63ae6 308
+maker-studio/maker_3/formulario/componentes/timer.md
+  h_d18abb67a63ae6 10,14,34,42
+maker-studio/maker_3/formulario/criacao_multiplos_formularios.md
+  h_d18abb67a63ae6 30
+maker-studio/maker_3/formulario/definicao_de_formulario.md
+  h_d18abb67a63ae6 289
+maker-studio/maker_3/formulario/opcoes_comuns_para_os_objetos_em_um_formulario/alinhamento.md
+  h_d18abb67a63ae6 28
+maker-studio/maker_3/formulario/opcoes_comuns_para_os_objetos_em_um_formulario/campos_de_ligacao.md
+  h_d18abb67a63ae6 41
+maker-studio/maker_3/formulario/opcoes_comuns_para_os_objetos_em_um_formulario/controles.md
+  h_d18abb67a63ae6 50
+maker-studio/maker_3/formulario/opcoes_comuns_para_os_objetos_em_um_formulario/edicao.md
+  h_d18abb67a63ae6 20
+maker-studio/maker_3/formulario/opcoes_comuns_para_os_objetos_em_um_formulario/novo_componente.md
+  h_d18abb67a63ae6 8,12
+maker-studio/maker_3/formulario/opcoes_comuns_para_os_objetos_em_um_formulario/opcoes_comuns_para_os_objetos_em_um_formulario.md
+  h_d18abb67a63ae6 19
+maker-studio/maker_3/formulario/opcoes_comuns_para_os_objetos_em_um_formulario/susbstituindo_componentes.md
+  h_d18abb67a63ae6 14
+maker-studio/maker_3/formulario/propriedade_do_formulario.md
+  h_d18abb67a63ae6 122
+maker-studio/maker_3/formulario/propriedades_e_eventos.md
+  h_d18abb67a63ae6 778
+maker-studio/maker_3/historico_sql/historico_sql.md
+  h_d18abb67a63ae6 31
+maker-studio/maker_3/instalacoes/instalacao_do_servidor_de_licencas.md
+  h_d18abb67a63ae6 81
+maker-studio/maker_3/lista_de_sistemas/lista_de_sistemas.md
+  h_d18abb67a63ae6 23
+maker-studio/maker_3/tradutor/tradutor.md
+  h_d18abb67a63ae6 10
+maker-studio/maker_3/versoes/versionamento_de_sistema.md
+  h_d18abb67a63ae6 51
+maker-studio/makermaps/makerMaps.md
+  h_d18abb67a63ae6 36,40,44,48,54,60,66,70,74,80,84,88,94,98,102,108,112,116,122,126,130,144,148,152,163,167,171,177,181,185,189
+maker-studio/makermobile/adicionando_formularios_ao_menu_principal.md
+  h_d18abb67a63ae6 8,13
+maker-studio/makermobile/alterando_icones_e_a_imagem_principal_de_aplicativos_do_maker_mobile.md
+  h_d18abb67a63ae6 12,14,16,19,22,25,30
+maker-studio/makermobile/arquivo_firebase.md
+  h_d18abb67a63ae6 12,15,18,21,28,33,40,45,48,53
+maker-studio/makermobile/autenticacao_via_sms.md
+  h_d18abb67a63ae6 10,13,16,19,22,25-26,29
+maker-studio/makermobile/banco_de_dadosreal.md
+  h_d18abb67a63ae6 10,14,17,20,23,26,29
+maker-studio/makermobile/como_acessar.md
+  h_d18abb67a63ae6 12,15,21,24,28-29
+maker-studio/makermobile/como_alterar_nome_de_um_sistema_no_maker_mobile.md
+  h_d18abb67a63ae6 10,13-14,17
+maker-studio/makermobile/como_alterar_os_skins_do_seu_projeto.md
+  h_d18abb67a63ae6 8,13,15,17,19,21,23
+maker-studio/makermobile/como_compilar_projetos_gerados_para_ios_no_mac.md
+  h_d18abb67a63ae6 42-43,47
+maker-studio/makermobile/como_exportar.md
+  h_d18abb67a63ae6 13,18,21,24,30,33,37,40,52-57
+maker-studio/makermobile/como_obter_as_coordenadas_de_um_dispositivo_movel_com_gps.md
+  h_d18abb67a63ae6 11,14,18,28,37
+maker-studio/makermobile/como_obter_imagem_da_camera.md
+  h_d18abb67a63ae6 12,15,18,25,29,38,41
+maker-studio/makermobile/como_selecionar_tabelas_para_sincronismo.md
+  h_d18abb67a63ae6 8,12-13,17
+maker-studio/makermobile/como_sincronizar.md
+  h_d18abb67a63ae6 14,18,27,39,43,51,55,59,63,76
+maker-studio/makermobile/comportamento_caixa_data.md
+  h_d18abb67a63ae6 10,14,16
+maker-studio/makermobile/comportamento_do_componente_grade.md
+  h_d18abb67a63ae6 11,17,19
+maker-studio/makermobile/comportamento_formulario.md
+  h_d18abb67a63ae6 12,16,20,35,41
+maker-studio/makermobile/comprando_creditos_para_exportacao_de_projetos.md
+  h_d18abb67a63ae6 8,17,21,25,29,33,37
+maker-studio/makermobile/criando_consumindo_webservice.md
+  h_d18abb67a63ae6 12,17,20,23,26,30,36,39,42,61,65
+maker-studio/makermobile/criando_fluxo.md
+  h_d18abb67a63ae6 12,18,21,24,27,33,37,40
+maker-studio/makermobile/criando_formulario.md
+  h_d18abb67a63ae6 10,13,16,19,22,25
+maker-studio/makermobile/filtrando_componente_por_outro_que_nao_possui_vinculo_com_o_banco.md
+  h_d18abb67a63ae6 8,10,14,18,24
+maker-studio/makermobile/gerar_qrcode.md
+  h_d18abb67a63ae6 8,11,14,17
+maker-studio/makermobile/incluindo_deletando_dados.md
+  h_d18abb67a63ae6 8,11,14,18,20,24,30,33,36,39,42,45,48,51,54,57,60,63,66,69,72
+maker-studio/makermobile/integracao_facebook.md
+  h_d18abb67a63ae6 9,20,23,26,31
+maker-studio/makermobile/leitura_cartao_credito.md
+  h_d18abb67a63ae6 8,13
+maker-studio/makermobile/ler_qrcode.md
+  h_d18abb67a63ae6 10,13,16
+maker-studio/makermobile/lista_exportacao.md
+  h_d18abb67a63ae6 10,14
+maker-studio/makermobile/lista_filtrando_lista.md
+  h_d18abb67a63ae6 10,13,16,21,27
+maker-studio/makermobile/melhorando_o_aspecto_visual_de_um_fluxo_utilizando_o_objeto_comentario.md
+  h_d18abb67a63ae6 16,21
+maker-studio/makermobile/melhorar_desempenho_na_execucao_regras.md
+  h_d18abb67a63ae6 32,36,40,59
+maker-studio/makermobile/mobile.md
+  h_d18abb67a63ae6 31,39-40,42,50-52,54,62-64
+maker-studio/makermobile/nome_do_pacote.md
+  h_d18abb67a63ae6 10
+maker-studio/makermobile/notificacao_status.md
+  h_d18abb67a63ae6 11,14-15,18
+maker-studio/makermobile/organizacao_de_fluxos_atraves_de_subfluxos.md
+  h_d18abb67a63ae6 19,31,39,42,45,48,51,54
+maker-studio/makermobile/push_notification.md
+  h_d18abb67a63ae6 11,14,17,20,25,38,41
+maker-studio/makermobile/tela_notificacao.md
+  h_d18abb67a63ae6 10,14,18
+maker-studio/makermobile/utilizando_texto_formatado_no_webservice.md
+  h_d18abb67a63ae6 18,22,26,32,36,42,46,56,60,64,73,77,81,85,89,91,95,102,109,117,119
+maker-studio/makermobile/validacao_biometrica.md
+  h_d18abb67a63ae6 9,12,15
+maker-studio/makermobile/webservice_no_makermobile.md
+  h_d18abb67a63ae6 12,16,19,22,25,33,41,48,55,62,65,71
+maker-studio/novidades/EventoAoSelecionarGaleriaDeImagens.md
+  h_d18abb67a63ae6 8
+maker-studio/novidades/Formulario_Principal.md
+  h_d18abb67a63ae6 10,13
+maker-studio/novidades/Mapa_Importar_Callback.md
+  h_d18abb67a63ae6 14,18,22,26
+maker-studio/novidades/Nova_funcionalidade_no_componente_imagem.md
+  h_d18abb67a63ae6 14
+maker-studio/novidades/Nova_propriedade_para_o_componente_aba.md
+  h_d18abb67a63ae6 12,14
+maker-studio/novidades/OCR2.md
+  h_d18abb67a63ae6 32,35,39,42-44,48,54
+maker-studio/novidades/Objeto_FIM.md
+  h_d18abb67a63ae6 14,18,24
+maker-studio/novidades/Parametros_de_configuracao_do_projeto.md
+  h_d18abb67a63ae6 12,14
+maker-studio/novidades/PesquisaMenu.md
+  h_d18abb67a63ae6 8
+maker-studio/novidades/PlayerDeFluxos.md
+  h_d18abb67a63ae6 8
+maker-studio/novidades/PluginEstatisticasSistema.md
+  h_d18abb67a63ae6 12
+maker-studio/novidades/PropriedadeClasseCss.md
+  h_d18abb67a63ae6 10
+maker-studio/novidades/PropriedadeEstiloCss.md
+  h_d18abb67a63ae6 12
+maker-studio/novidades/PropriedadeFormularioMoldura.md
+  h_d18abb67a63ae6 10
+maker-studio/novidades/Relatorios_com_customizacao_de_erros.md
+  h_d18abb67a63ae6 14
+maker-studio/novidades/Rest_Callback_Error.md
+  h_d18abb67a63ae6 14,18,22,26,30
+maker-studio/novidades/TabelaCrudNovidades.md
+  h_d18abb67a63ae6 12,17,19,21,23
+maker-studio/novidades/TemplateAurora.md
+  h_d18abb67a63ae6 10
+maker-studio/novidades/TemplatePortalLight.md
+  h_d18abb67a63ae6 15,20
+maker-studio/novidades/Template_Uranus.md
+  h_d18abb67a63ae6 13,18,23,31-32
+maker-studio/novidades/accordion_classes.md
+  h_d18abb67a63ae6 22,26,30,34,38,42,46,50,54,58,62
+maker-studio/novidades/biometria.md
+  h_d18abb67a63ae6 9
+maker-studio/novidades/busca_tela_exportacao_importacao.md
+  h_d18abb67a63ae6 10,16,22
+maker-studio/novidades/captcha_funcoes.md
+  h_d18abb67a63ae6 12,16,20,24,28,32,36,44,51,55,59,63,67,71,75,80,84,88,92,96,100,104
+maker-studio/novidades/cargaantecipada.md
+  h_d18abb67a63ae6 19,23,31
+maker-studio/novidades/configuracao_biometria.md
+  h_d18abb67a63ae6 25,29,33,42
+maker-studio/novidades/configuracao_impressao.md
+  h_d18abb67a63ae6 19,23,27,35,39,43
+maker-studio/novidades/drag_and_dock.md
+  h_d18abb67a63ae6 10,14
+maker-studio/novidades/encerrarsessao.md
+  h_d18abb67a63ae6 8,12
+maker-studio/novidades/esquema_de_cores.md
+  h_d18abb67a63ae6 8,14,18,22,26
+maker-studio/novidades/fonte_da_descricao.md
+  h_d18abb67a63ae6 8,12,16
+maker-studio/novidades/formintoide.md
+  h_d18abb67a63ae6 12
+maker-studio/novidades/formulariolocalizar.md
+  h_d18abb67a63ae6 10,14,22
+maker-studio/novidades/funcoes_excel.md
+  h_d18abb67a63ae6 25,29,33,37,41,45,49,55,59,63
+maker-studio/novidades/funcoes_json.md
+  h_d18abb67a63ae6 10
+maker-studio/novidades/funcoes_websocket.md
+  h_d18abb67a63ae6 35,40,45,49,53,57,61,68,74,81,85,89,93,97,104,108,112,116,125,129,133,137,150,157,162,174,179,183,189
+maker-studio/novidades/funcoes_word.md
+  h_d18abb67a63ae6 25,29,33,37,41,45,49,53
+maker-studio/novidades/grafico_areautil.md
+  h_d18abb67a63ae6 12,16,20
+maker-studio/novidades/grafico_cor.md
+  h_d18abb67a63ae6 12,16
+maker-studio/novidades/grafico_maker3.md
+  h_d18abb67a63ae6 6,40,51,55,86
+maker-studio/novidades/iconedaaplicacao.md
+  h_d18abb67a63ae6 19,23,31
+maker-studio/novidades/identificacao_params.md
+  h_d18abb67a63ae6 13
+maker-studio/novidades/interromper_fluxo_agendado.md
+  h_d18abb67a63ae6 10,14,22,26,30
+maker-studio/novidades/listadinamica_novo.md
+  h_d18abb67a63ae6 10,14,18,22,26,30,32,36,40,44
+maker-studio/novidades/makerplanet.md
+  h_d18abb67a63ae6 10,12
+maker-studio/novidades/menu_arrastaratalho.md
+  h_d18abb67a63ae6 14
+maker-studio/novidades/menu_definir_permissao.md
+  h_d18abb67a63ae6 10,14,16,20,22,24,26,30,34
+maker-studio/novidades/menu_textopesquisa.md
+  h_d18abb67a63ae6 14,18
+maker-studio/novidades/menuaba.md
+  h_d18abb67a63ae6 8,14,22,26
+maker-studio/novidades/nova_api_message.md
+  h_d18abb67a63ae6 24,38,56,76
+maker-studio/novidades/novatabela.md
+  h_d18abb67a63ae6 8
+maker-studio/novidades/novo_componente_integracao.md
+  h_d18abb67a63ae6 37,47,53,59,65,71,77
+maker-studio/novidades/novo_componente_listagem.md
+  h_d18abb67a63ae6 50,54
+maker-studio/novidades/organograma.md
+  h_d18abb67a63ae6 6,34,38,43,48,52,56,81
+maker-studio/novidades/responsivo.md
+  h_d18abb67a63ae6 16
+maker-studio/novidades/tabelaCampo.md
+  h_d18abb67a63ae6 8
+maker-studio/novidades/templatemetro.md
+  h_d18abb67a63ae6 11,14,16,19,22,26,28
+maker-studio/novidades/templates_de_fluxos.md
+  h_d18abb67a63ae6 8,16,22,28,34,40
+maker-studio/novidades/timer_obter_horario.md
+  h_d18abb67a63ae6 8,12,14,20,22,24
+maker-studio/recursos_avancados/como_adicionar_componentes_bibliotecas_terceiros.md
+  h_d18abb67a63ae6 148,154,164,170,176,182,188,194,200,206,212,218,224,262,264
+maker-studio/redessociais/facebook/add.md
+  h_d18abb67a63ae6 18,22,26,34,38
+maker-studio/redessociais/facebook/facebook.md
+  h_d18abb67a63ae6 34,38,42,50,54,82,101,123,154,188,206,232,264,272,278
+maker-studio/selectmultiple.md
+  h_d18abb67a63ae6 12,15,18,21
+maker-studio/skinsresponsivos.md
+  h_d18abb67a63ae6 10,14,18,22,26,30,34,38,42,46,50,54,58
+maker-studio/utilizando_funcoes_chatapi_whatsapp.md
+  h_d18abb67a63ae6 12,17,20
+maker-studio/videos/video_aula_funcoes.md
+  h_d18abb67a63ae6 6,13,21,29,37,45,53,61,69,83,91,99,107,115,123,131,139,147,155,163,171,179,187,195,203,211,219,227,235,243,251,259,267,275,283,291,299,307,315,323,331,345,353,361,369,377,385,393,401,409,417,425,433,441,449,457,465,473,481,489,497,505,513,521,529,537,545,553,561,569
+maker-studio/videos/video_aula_maker.md
+  h_d18abb67a63ae6 8,28,35,43,51,59,67,75,83,91,99,107,115,123,131,139,147,155,163,171,179,187,195,203,211,219,227,235,243,251,259,267,275,283,291,299,307,315,323,331
+maker-studio/videos/video_aula_novidades.md
+  h_d18abb67a63ae6 6,14,22,30
+maker-studio/videos/video_aula_outros.md
+  h_d18abb67a63ae6 6,14
+maker-studio/videos/video_aula_relatorio.md
+  h_d18abb67a63ae6 6,14,22,30,38,46,54,62,70,78
+maker-studio/videos/video_aula_webrun.md
+  h_d18abb67a63ae6 12,20,28,36,44
+maker-studio/whatisnew.md
+  h_d18abb67a63ae6 68,72,163,167,171,175,273,284,759,765,771,777,783,789,795,799,803,807,811,824,828,834,836,850,852,866,872,878,887,891,896,900,909,915,945,949,953,955,959,963,967,973,979,983,989,995,1001,1007,1011,1017,1023,1029,1033,1037,1039,1041,1099,1103,1107,1111,1130,1148,1154,1162,1170,1179,1183,1397,1403,1405
+package-lock.json
+  h_d18abb67a63ae6 1-1481
+package.json
+  h_d18abb67a63ae6 1-23
+playwright.config.ts
+  h_d18abb67a63ae6 1-36
+scripts/check-md-links.sh
+  h_d18abb67a63ae6 1-18
+scripts/lint-changed.sh
+  h_d18abb67a63ae6 1-21
+tests/quality.spec.ts
+  h_d18abb67a63ae6 1-52
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "358317ba381fe0d4114b5fd3de55b4c798001deb",
+  "prompts": {},
+  "humans": {
+    "h_d18abb67a63ae6": {
+      "author": "Gustavo Oliveira <gustavo@groliveira.com.br>"
+    }
+  }
+}
