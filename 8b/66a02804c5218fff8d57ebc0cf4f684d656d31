@@ -1,0 +1,177 @@
+maker-studio/maker_3/formulario/componentes/Chat.md
+  s_c451a297373eef::t_007b2b858512db 65
+maker-ai/docs/webrun/geracao_de_codigo_fonte.md
+  s_c451a297373eef::t_007b2b858512db 6,8,10,12,14,16
+maker-ai/docs/dicas-e-truques/funcoes.md
+  s_c451a297373eef::t_007b2b858512db 6,8,10,12,14,16,18,20,22,24,26,28,30,32,34,36,38,40,42,44,46,48,50,52,54,56,58,60,62,64,66,68,70,72,74,76,78,80,82,84,86,88,90,92,94,96,98,100,102,104
+tests/fixtures/markdown/valid-examples.mdx
+  s_c451a297373eef::t_7e175b92283f3b 1-8,11-21
+  s_c451a297373eef::t_5441dc302bded0 9-10
+maker-ai/docs/topicos-de-erros/relatorio.md
+  s_c451a297373eef::t_007b2b858512db 6,8,10,12
+maker-ai/docs/maker/estruturas_de_pastas_e_arquivos/pasta_resources.md
+  s_c451a297373eef::t_007b2b858512db 6,8,10,12
+.github/workflows/docs.yml
+  s_c451a297373eef::t_bfaeb687e6aeb2 34-39,67-76
+  s_c451a297373eef::t_c09fe7283963b9 66
+maker-ai/docs/maker-mobile/boas_praticas.md
+  s_c451a297373eef::t_007b2b858512db 6,8,10,12,14,16
+maker-ai/docs/maker-mobile/como_fazer.md
+  s_c451a297373eef::t_007b2b858512db 6,8,10,12,14,16,18,20,22,24,26,28,30,32,34,36,38,40,42,44,46,48,50,52,54,56,58,60,62,64,66,68,70,72,74,76,78,80,82,84,86,88,90,92,94,96,98,100,102,104
+maker-ai/docs/webrun/servidores_de_aplicacoes.md
+  s_c451a297373eef::t_007b2b858512db 6,8,10,12,14,16,18,20
+.mintignore
+  s_c451a297373eef::t_d1854177d3d488 14,22-25
+  s_c451a297373eef::t_ceb83fb70e4459 18-21
+  s_c451a297373eef::t_979b5e94797066 15-17
+maker-ai/docs/dicas-e-truques/componente.md
+  s_c451a297373eef::t_007b2b858512db 6,8,10,12,14,16,18,20,22,24,26,28,30,32,34,36,38,40,42,44,46,48,50,52,54,56,58,60,62,64,66,68,70,72,74,76,78,80,82,84,86,88
+maker-ai/docs/dicas-e-truques/relatorio.md
+  s_c451a297373eef::t_007b2b858512db 6,8,10,12,14,16,18,20,22,24,26,28,30,32,34,36,38,40,42,44,46,48,50,52,54,56,58,60,62,64,66,68,70,72,74,76,78,80,82,84
+maker-ai/docs/banco-de-dados.md
+  s_c451a297373eef::t_007b2b858512db 6,8,10,12,14,16,18,20,22,24,26,28,30,32
+maker-ai/docs/maker-mobile/restricao_formulario.md
+  s_c451a297373eef::t_007b2b858512db 6,8,10,12,14,16,18,20
+skills-lock.json
+  s_c451a297373eef::t_dd11420a23c170 1-12
+maker-ai/docs/topicos-de-erros/webrun.md
+  s_c451a297373eef::t_007b2b858512db 6,8,10,12,14,16
+maker-ai/docs/historico_de_alteracoes.md
+  s_c451a297373eef::t_007b2b858512db 6,8,10,12
+.markdownlint-cli2.yaml
+  s_c451a297373eef::t_065ca918a21441 14-16
+maker-ai/docs/ai.md
+  s_c451a297373eef::t_007b2b858512db 6,8,10,12,14,16,18,20
+scripts/markdown-ast-audit.mjs
+  s_c451a297373eef::t_4b5ffbfc4aef15 9,183-185
+  s_c451a297373eef::t_d5f925aa2d82dc 2-8,10-11,13-18,20-37,39-93,96-105,107-147,156-182,186-256,258-266,271-277,282-283
+  s_c451a297373eef::t_065ca918a21441 12
+  s_c451a297373eef::t_f40ebddeabc5bf 1,19,106,150-155,257
+  s_c451a297373eef::t_2c29b65dc4c7b6 38,267-270,278-281
+  s_c451a297373eef::t_0354112694129a 94-95,148-149
+maker-studio/novidades/busca_tela_exportacao_importacao.md
+  s_c451a297373eef::t_007b2b858512db 6
+maker-ai/docs/dicas-e-truques/maker.md
+  s_c451a297373eef::t_007b2b858512db 6,8,10,12,14,16,18,20,22,24,26,28,30,32,34,36,38,40,42,44,46,48,50,52,54,56,58,60,62,64,66,68,70,72,74,76,78,80,82,84,86,88,90,92,94,96,98,100,102,104,106,108,110,112,114,116,118,120,122,124
+maker-studio/whatisnew.md
+  s_c451a297373eef::t_007b2b858512db 327,874,1400-1401,1422,1426,1430
+maker-ai/docs/dicas-e-truques.md
+  s_c451a297373eef::t_007b2b858512db 6,8,10,12,14,16,18,20,22,24,26,28,30,32,34,36,38,40,42,44,46,48,50,52,54,56,58,60,62,64,66,68,70,72,74,76,78,80,82,84,86,88
+.markdownlint-changed.yaml
+  s_c451a297373eef::t_4610bef909bc31 1
+maker-ai/docs/maker/boas_praticas.md
+  s_c451a297373eef::t_007b2b858512db 6,8,10,12,14,16,18,20,22,24
+maker-ai/docs/maker-mobile/informacoes_adicionais.md
+  s_c451a297373eef::t_007b2b858512db 6,8,10,12,14,16,18,20
+maker-ai/docs/webrun/estrutura_de_pastas_e_arquivos/pasta_config.md
+  s_c451a297373eef::t_007b2b858512db 6,8,10,12,14,16,18,20,22,24
+maker-ai/docs/webrun/estrutura_de_pastas_e_arquivos.md
+  s_c451a297373eef::t_dbf9f326bd09f4 6-28
+maker-ai/docs/webrun.md
+  s_c451a297373eef::t_007b2b858512db 6,8,10,12,14,16,18,20,22,24,26,28,30,32,34,36,38,40,42,44,46,48,50,52,54,56,58,60,62,64,66,68,70,72,74,76,78,80,82,84,86,88,90,92,94,96,98,100,102,104,106,108,110,112,114,116,118,120,122,124,126,128,130,132,134,136,138,140,142,144,146,148,150,152,154,156,158,160,162,164,166,168,170,172,174,176,178,180,182,184,186,188
+playwright.config.ts
+  s_c451a297373eef::t_27e4f08b7660cf 7
+  s_c451a297373eef::t_3038cad77beeed 3-4,25,40
+  s_c451a297373eef::t_bfaeb687e6aeb2 19-20,22-23
+  s_c451a297373eef::t_c09fe7283963b9 21
+maker-ai/docs/dicas-e-truques/webrun.md
+  s_c451a297373eef::t_007b2b858512db 6,8,10,12,14,16,18,20,22,24,26,28,30,32,34,36,38,40,42,44,46,48
+maker-ai/docs/mindsoft.md
+  s_c451a297373eef::t_007b2b858512db 6,8
+maker-ai/docs/maker-mobile.md
+  s_c451a297373eef::t_007b2b858512db 6,8,10,12,14,16,18,20,22,24,26,28,30,32,34,36,38,40,42,44,46,48,50,52,54,56,58,60
+package.json
+  s_c451a297373eef::t_57bfda02fb2336 12,14-15
+  s_c451a297373eef::t_948f1235eec9ea 13
+  s_c451a297373eef::t_56e9a1bf049753 29-30
+  s_c451a297373eef::t_e94e267203f2ee 24-28
+maker-ai/docs/maker/gerador_de_codigo.md
+  s_c451a297373eef::t_007b2b858512db 6,8,10,12
+.agents/skills/mintlify/SKILL.md
+  s_c451a297373eef::t_dd11420a23c170 1-307
+maker-ai/docs/dicas-e-truques/diversos.md
+  s_c451a297373eef::t_007b2b858512db 6,8,10,12,14,16,18,20,22,24,26,28,30,32,34,36,38,40,42,44,46,48,50,52,54,56,58,60
+scripts/check-md-links.sh
+  s_c451a297373eef::t_e33cf8846875e3 8
+maker-ai/docs/maker/objetos_comuns_formulario.md
+  s_c451a297373eef::t_007b2b858512db 6,8,10,12,14,16,18,20,22,24,26,28,30,32,34,36
+maker-ai/docs/dicas-e-truques/banco-de-dados.md
+  s_c451a297373eef::t_007b2b858512db 6,8,10,12,14,16,18,20,22,24,26,28,30,32,34,36,38,40,42,44
+tests/markdown-ast-audit.test.mjs
+  s_c451a297373eef::t_918ff846220d00 29
+  s_c451a297373eef::t_7e175b92283f3b 1-5,7-13,15-23,28,33,36-47,65-74,76-78
+  s_c451a297373eef::t_e768dddf02a9e0 14,30-32,34-35
+  s_c451a297373eef::t_2c29b65dc4c7b6 24-27,75
+  s_c451a297373eef::t_0e8725d9d8f750 6,48-64
+maker-ai/docs/webrun/servidores_de_aplicacoes/tomcat.md
+  s_c451a297373eef::t_007b2b858512db 6,8,10,12,14,16
+maker-ai/docs/maker/aba_calculo.md
+  s_c451a297373eef::t_007b2b858512db 6,8,10,12,14,16,18,20,22,24
+maker-ai/docs/webrun/tela_de_configuracoes/parametros_de_configuracao.md
+  s_c451a297373eef::t_007b2b858512db 6,8,10,12,14,16,18,20,22,24,26,28,30,32,34,36,38,40,42,44,46,48,50,52,54,56,58,60
+maker-ai/docs/webrun/tela_de_configuracoes.md
+  s_c451a297373eef::t_007b2b858512db 6,8,10,12,14,16,18,20,22,24
+maker-ai/docs/maker/estruturas_de_pastas_e_arquivos.md
+  s_c451a297373eef::t_007b2b858512db 6,8,10,12,14,16,18,20,22,24,26,28,30,32,34,36,38,40
+maker-ai/docs/topicos-de-erros.md
+  s_c451a297373eef::t_007b2b858512db 6,8,10,12,14,16
+maker-ai/docs/maker-mobile/exportando_projetos.md
+  s_c451a297373eef::t_007b2b858512db 6,8,10,12
+maker-ai/docs/maker-mobile/mudanca_de_comportamento.md
+  s_c451a297373eef::t_007b2b858512db 6,8,10,12,14,16
+maker-ai/docs/maker.md
+  s_c451a297373eef::t_007b2b858512db 6,8,10,12,14,16,18,20,22,24,26,28,30,32,34,36,38,40,42,44,46,48,50,52,54,56,58,60,62,64,66,68,70,72,74,76,78,80,82,84,86,88,90,92,94,96,98,100,102,104,106,108,110,112,114,116,118,120,122,124,126,128,130,132,134,136,138,140,142,144,146,148,150,152,154,156,158,160,162,164,166,168,170,172,174,176,178,180,182,184,186,188,190,192,194,196,198,200,202,204,206,208,210,212,214,216,218,220,222,224,226,228,230,232,234,236,238,240,242,244,246,248,250,252,254,256,258,260,262,264,266,268,270,272,274,276,278,280,282,284,286,288,290,292,294,296,298,300,302,304,306,308,310,312,314,316,318,320,322,324,326,328,330,332,334,336,338,340,342,344,346,348,350,352,354,356,358,360,362,364,366,368,370,372,374,376,378,380,382,384,386,388,390,392,394,396,398,400,402,404,406,408,410,412,414,416,418,420,422
+maker-ai/docs/maker/instalacoes.md
+  s_c451a297373eef::t_007b2b858512db 6,8,10,12,14,16,18,20,22,24
+scripts/lint-changed.sh
+  s_c451a297373eef::t_4610bef909bc31 25
+  s_c451a297373eef::t_c7ef4eb941c892 5,11,13,22-24,26-35
+tests/fixtures/markdown/broken-webrun.mdx
+  s_c451a297373eef::t_7e175b92283f3b 1-7
+maker-ai/docs/geral.md
+  s_c451a297373eef::t_007b2b858512db 6,8
+maker-ai/docs/maker/componentes.md
+  s_c451a297373eef::t_007b2b858512db 6,8,10,12,14,16,18,20,22,24,26,28,30,32,34,36,38,40,42,44,46,48,50,52,54,56,58,60,62,64,66,68,70,72,74,76,78,80,82,84,86,88,90,92,94,96,98,100,102,104,106,108,110,112,114,116,118,120,122,124,126,128,130,132,134,136,138,140,142,144,146,148,150,152,154,156
+maker-ai/docs/topicos-de-erros/banco_de_dados.md
+  s_c451a297373eef::t_007b2b858512db 6,8,10,12,14,16,18,20,22,24
+maker-ai/docs/FAQ.md
+  s_c451a297373eef::t_007b2b858512db 6,8,10,12,14,16,18,20,22,24,26,28,30,32,34,36,38,40
+scripts/repair-migration-markdown.mjs
+  s_c451a297373eef::t_0bfe7b9f03e20b 7
+  s_c451a297373eef::t_90d83c5c839869 9,62-65,67-68
+  s_c451a297373eef::t_cfdb2271265014 6,8,10,48-49,66
+  s_c451a297373eef::t_948f1235eec9ea 1-5,12-33,37-47,53-61,69-77,81-93,99-126,131-132
+  s_c451a297373eef::t_2c29b65dc4c7b6 11,34-36,50-52,78-80,94-98,127-130
+maker-ai/docs/webrun/webrun_NET.md
+  s_c451a297373eef::t_007b2b858512db 6,8,10,12,14,16
+maker-ai/docs/webrun/webrun_no_linux.md
+  s_c451a297373eef::t_007b2b858512db 6,8,10,12,14,16,18,20
+maker-27/maker_2/relatorio/novas_funcionalidades_report_builder.md
+  s_c451a297373eef::t_797c85bf549aed 10,40,49,81
+maker-studio/novidades/TemplatePortalLight.md
+  s_c451a297373eef::t_76d6877af3331b 12,17,22
+maker-studio/novidades/Template_Uranus.md
+  s_c451a297373eef::t_03d9a16f5ed845 10,15,20,25,29,34
+maker-studio/novidades/captcha_funcoes.md
+  s_c451a297373eef::t_ba118689912aaf 6,46
+maker-studio/redessociais/facebook/facebook.md
+  s_c451a297373eef::t_cec66fd0f3cac5 56,86,103,127,156,190,208,234
+package-lock.json
+  s_c451a297373eef::t_c0d8d5ced3cc4a 13-19,99-125,133-142,157-179,200-210,224-234,246-256,358-410,438-451,465-473,626-638,716-726,772-782,848-1170,1281-1318,1357-1375,1394-1534,1538,1540,1542,1544-1546,1598-1625,1797-1819,1857-1889,2166-2249,2328-2342,2372-2382,2402-2591
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "8b66a02804c5218fff8d57ebc0cf4f684d656d31",
+  "prompts": {},
+  "sessions": {
+    "s_c451a297373eef": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a194ff-3ed2-7450-95b7-b9807a8d0b29",
+        "model": "gpt-6-luna"
+      },
+      "human_author": "Gustavo Oliveira <gustavo@groliveira.com.br>"
+    }
+  }
+}
