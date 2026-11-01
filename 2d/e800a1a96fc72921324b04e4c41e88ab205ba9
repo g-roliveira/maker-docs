@@ -1,0 +1,19 @@
+playwright.config.ts
+  s_c451a297373eef::t_a329ad73763b63 39
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "2de800a1a96fc72921324b04e4c41e88ab205ba9",
+  "prompts": {},
+  "sessions": {
+    "s_c451a297373eef": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a194ff-3ed2-7450-95b7-b9807a8d0b29",
+        "model": "gpt-6-luna"
+      },
+      "human_author": "Gustavo Oliveira <gustavo@groliveira.com.br>"
+    }
+  }
+}
