@@ -11,5 +11,8 @@ config:
 
 ignores:
   - "node_modules/**"
+  - ".agents/**"
+  - "tests/**"
+  - "scripts/**"
   - ".mintlify/**"
   - ".git/**"

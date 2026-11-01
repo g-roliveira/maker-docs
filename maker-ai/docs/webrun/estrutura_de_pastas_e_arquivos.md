@@ -3,30 +3,26 @@ title: "Estrutura de pastas e arquivos"
 source_url: "https://manual.softwell.com.br/docs/webrun/estrutura_de_pastas_e_arquivos"
 ---
 
-[## 🗃️ Pasta CONFIG
-
-5 items](estrutura_de_pastas_e_arquivos/pasta_config)
-
-[## 📄️ Estrutura de pastas do Webrun
-
-A estrutura de pastas de configuração do Webrun é composta pelas pastas CONFIG, JAVA, REPORTS, SYSTEMS, TEMP, TOMCAT e UPDATES, localizadas em C:\Arquivos de Programas\Softwell Solutions\Maker Studio Bootstrap\Webrun Studio Bootstrap .](estrutura_de_pastas_e_arquivos/estrutura_de_pastas_do_webrun)
-
-[## 📄️ Pasta JAVA do Webrun
-
-Pasta da máquina virtual JAVA. Versão 8. Caso o usuário queira utilizar outra versão, deve substituir o conteúdo desta.](estrutura_de_pastas_e_arquivos/pasta_java_do_webrun)
-
-[## 📄️ Pasta REPORTS do Webrun
-
-A pasta REPORTS é o diretório que contém os arquivos necessários para a geração do relatório, tendo como principal arquivo o WFRReports.exe.](estrutura_de_pastas_e_arquivos/pasta_reports_do_webrun)
-
-[## 📄️ Pasta \_subConnections do Webrun
-
-A pasta Systems (C:\Arquivos de programas\Softwell Solutions\Maker Studio Bootstrap\Webrun Studio Bootstrap\systems) armazena todos os wfre dos sistemas desenvolvidos no Maker. Se em ao menos um sistema houver conexões adicionais, será criada uma pasta chamada _subConnections que servirá para armazenar outras subpastas, nomeadas com a sigla de cada sistema, contendo arquivos wfre que apontam para as conexões adcionais configuradas.](estrutura_de_pastas_e_arquivos/pasta_subconnections_do_webrun)
-
-[## 📄️ Pasta SYSTEMS do Webrun
-
-Pasta onde encontramos os arquivos \*.WFRE, arquivos de projetos criados no Maker.](estrutura_de_pastas_e_arquivos/pasta_systems_do_webrun)
-
-[## 📄️ Pasta UPDATES
-
-Localizada em C:\\Arquivos de programas\\Softwell Solutions\\Maker Studio Bootstrap\\Webrun Studio Bootstrap\\updates, é o diretório onde encontramos a atualização automática do Webrun. Ele está composto pelos arquivos update.exe, update.URS, update.Lang, e pelo arquivo de atualização webrun.war.](estrutura_de_pastas_e_arquivos/pasta_updates)
+<CardGroup cols={2}>
+  <Card title="Pasta CONFIG (5 itens)" href="/maker-ai/docs/webrun/estrutura_de_pastas_e_arquivos/pasta_config">
+    Consulte os arquivos e subpastas de configuração do Webrun.
+  </Card>
+  <Card title="Estrutura de pastas do Webrun" href="/maker-ai/docs/webrun/estrutura_de_pastas_e_arquivos/estrutura_de_pastas_do_webrun">
+    A estrutura de pastas de configuração do Webrun inclui CONFIG, JAVA, REPORTS, SYSTEMS, TEMP, TOMCAT e UPDATES.
+  </Card>
+  <Card title="Pasta JAVA do Webrun" href="/maker-ai/docs/webrun/estrutura_de_pastas_e_arquivos/pasta_java_do_webrun">
+    Conheça a pasta da máquina virtual JAVA e a versão incluída no Webrun.
+  </Card>
+  <Card title="Pasta REPORTS do Webrun" href="/maker-ai/docs/webrun/estrutura_de_pastas_e_arquivos/pasta_reports_do_webrun">
+    Veja os arquivos usados para gerar relatórios, incluindo o WFRReports.exe.
+  </Card>
+  <Card title="Pasta _subConnections do Webrun" href="/maker-ai/docs/webrun/estrutura_de_pastas_e_arquivos/pasta_subconnections_do_webrun">
+    Saiba onde o Webrun armazena arquivos de conexões adicionais dos sistemas.
+  </Card>
+  <Card title="Pasta SYSTEMS do Webrun" href="/maker-ai/docs/webrun/estrutura_de_pastas_e_arquivos/pasta_systems_do_webrun">
+    Encontre os arquivos WFRE dos projetos criados no Maker.
+  </Card>
+  <Card title="Pasta UPDATES" href="/maker-ai/docs/webrun/estrutura_de_pastas_e_arquivos/pasta_updates">
+    Consulte os arquivos usados pela atualização automática do Webrun.
+  </Card>
+</CardGroup>

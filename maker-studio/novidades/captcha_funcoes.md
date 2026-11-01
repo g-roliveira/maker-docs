@@ -3,7 +3,7 @@ title: "Captcha"
 source_url: "https://suporte.softwell.com.br/Manual/MakerStudio/novidades/captcha_funcoes.html"
 ---
 
-#
+
 
 A função "Captcha - Criar" gera uma sequência de números e letras com cores para maior segurança da sua aplicação, o captcha do Maker é case-sensitive (difere de minúsculas e maiúsculas), vejamos como utilizar a função em um exemplo abaixo:
 
@@ -43,7 +43,7 @@ O formulário irá ficar da seguinte forma.
 
 ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/captcha9.png)
 
-#
+
 
 A função "Captcha - Validar" serve para a validação do captcha gerado no exemplo anterior sobre a função onde o mesmo deve ser implementado da seguinte forma.
 

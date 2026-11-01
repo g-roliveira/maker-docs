@@ -3,38 +3,38 @@ title: "FAQ - Perguntas Frequentes"
 source_url: "https://manual.softwell.com.br/docs/FAQ"
 ---
 
-[## 📄️ Banco de Dados
+## [📄️ Banco de Dados](FAQ/banco_de_dados)
 
-Quais os bancos de dados suportados?](FAQ/banco_de_dados)
+Quais os bancos de dados suportados?
 
-[## 📄️ Bibliotecas e Frameworks
+## [📄️ Bibliotecas e Frameworks](FAQ/bibliotecas_e_frameworks)
 
-De que forma é implementada a Persistência?](FAQ/bibliotecas_e_frameworks)
+De que forma é implementada a Persistência?
 
-[## 📄️ Componentes de Hardware
+## [📄️ Componentes de Hardware](FAQ/componentes_de_hardware)
 
-Comunicação com o Hardware, acessando dispositivos?](FAQ/componentes_de_hardware)
+Comunicação com o Hardware, acessando dispositivos?
 
-[## 📄️ Desenvolvimento no Maker
+## [📄️ Desenvolvimento no Maker](FAQ/desenvolvimento_no_maker)
 
-Como integrar aplicações desenvolvidas no Maker com sistemas existentes?](FAQ/desenvolvimento_no_maker)
+Como integrar aplicações desenvolvidas no Maker com sistemas existentes?
 
-[## 📄️ Erros & Soluções - Banco de dados
+## [📄️ Erros & Soluções - Banco de dados](FAQ/erros_solucoes_banco_de_dados)
 
-A Softwell Solutions busca através deste guia, apresentar ao usuário uma lista de erros mais comuns no Banco de dados e sua solução. Este tópico estará em constante atualização.](FAQ/erros_solucoes_banco_de_dados)
+A Softwell Solutions busca através deste guia, apresentar ao usuário uma lista de erros mais comuns no Banco de dados e sua solução. Este tópico estará em constante atualização.
 
-[## 📄️ Estruturas do Maker
+## [📄️ Estruturas do Maker](FAQ/estruturas_do_maker)
 
-Como o Maker permite Implementação de Funções para fluxos?](FAQ/estruturas_do_maker)
+Como o Maker permite Implementação de Funções para fluxos?
 
-[## 📄️ Instalação e execução do Maker
+## [📄️ Instalação e execução do Maker](FAQ/instalacao_e_execucao_do_maker)
 
-Qual a configuração mínima exigida pelo Maker?](FAQ/instalacao_e_execucao_do_maker)
+Qual a configuração mínima exigida pelo Maker?
 
-[## 📄️ Recursos Avançados
+## [📄️ Recursos Avançados](FAQ/recursos_avancados)
 
-Este tópico apresenta informações avançadas sobre:](FAQ/recursos_avancados)
+Este tópico apresenta informações avançadas sobre:
 
-[## 📄️ Versões Homologadas
+## [📄️ Versões Homologadas](FAQ/versoes_homologadas)
 
-Banco de dados](FAQ/versoes_homologadas)
+Banco de dados

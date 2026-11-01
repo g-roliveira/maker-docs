@@ -31,6 +31,12 @@ jobs:
       - name: Install Mintlify CLI
         run: npm install --global mint
 
+      - name: Run Markdown/MDX AST audit
+        run: npm run docs:lint -- --report reports/markdown-ast-audit.json
+
+      - name: Run validator regression tests
+        run: npm run test:unit
+
       - name: Validate MDX, frontmatter and build
         run: mint validate
 
@@ -57,7 +63,17 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: playwright-report
-          path: playwright-report/
+          path: reports/playwright-report/
+          if-no-files-found: ignore
+
+      - name: Upload validation reports and failure screenshots
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: docs-validation-reports
+          path: |
+            reports/
+            test-results/
           if-no-files-found: ignore
 
   changed-files:

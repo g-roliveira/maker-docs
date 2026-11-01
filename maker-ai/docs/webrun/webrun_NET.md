@@ -3,14 +3,14 @@ title: "Webrun .NET"
 source_url: "https://manual.softwell.com.br/docs/webrun/webrun_NET"
 ---
 
-[## 📄️ Configurações do Webrun.Net
+## [📄️ Configurações do Webrun.Net](webrun_NET/instalacao_do_webrun_dotnet)
 
-Para que a configuração seja realizado com sucesso, precisamos seguir os passos abaixo:](webrun_NET/instalacao_do_webrun_dotnet)
+Para que a configuração seja realizado com sucesso, precisamos seguir os passos abaixo:
 
-[## 📄️ Instalação e Configuração IIS - Internet Information Services
+## [📄️ Instalação e Configuração IIS - Internet Information Services](webrun_NET/instalacao_e_configuracao_iis)
 
-O IIS é o servidor web da Microsoft necessário para rodar aplicações ASP ou ASP.NET. O Webrun.Net está configurado para rodar a partir da versão 6.0 do IIS.](webrun_NET/instalacao_e_configuracao_iis)
+O IIS é o servidor web da Microsoft necessário para rodar aplicações ASP ou ASP.NET. O Webrun.Net está configurado para rodar a partir da versão 6.0 do IIS.
 
-[## 📄️ Publicando um sistema
+## [📄️ Publicando um sistema](webrun_NET/publicando_um_sistema_net)
 
-A publicação para a plataforma.net é bastante simples, seguindo o mesmo padrão de publicação do Webrun java. Abaixo serão exemplificados o passo a passo para conseguirmos realizar uma publicação utilizando a versão .net:](webrun_NET/publicando_um_sistema_net)
+A publicação para a plataforma.net é bastante simples, seguindo o mesmo padrão de publicação do Webrun java. Abaixo serão exemplificados o passo a passo para conseguirmos realizar uma publicação utilizando a versão .net:

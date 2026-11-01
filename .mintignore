@@ -11,3 +11,15 @@ drafts/
 
 # Scaffold
 AGENTS.md
+
+# Project-local agent skill metadata
+skills-lock.json
+
+# Project tooling and test fixtures
+scripts/
+tests/
+
+# Generated quality-check artifacts
+playwright-report/
+test-results/
+reports/

@@ -1,7 +1,10 @@
 import { defineConfig, devices } from "@playwright/test";
 
+const docsBaseURL = process.env.DOCS_BASE_URL || "http://localhost:3000";
+
 export default defineConfig({
   testDir: "./tests",
+  testMatch: "**/*.spec.ts",
   timeout: 90_000,
   workers: 1,
   retries: 1,
@@ -13,8 +16,13 @@ export default defineConfig({
       caret: "hide",
     },
   },
+  reporter: [
+    ["list"],
+    ["html", { outputFolder: "reports/playwright-report", open: "never" }],
+    ["json", { outputFile: "reports/playwright-results.json" }],
+  ],
   use: {
-    baseURL: process.env.DOCS_BASE_URL || "http://localhost:3000",
+    baseURL: docsBaseURL,
     trace: "retain-on-failure",
   },
   projects: [
@@ -29,7 +37,7 @@ export default defineConfig({
   ],
   webServer: {
     command: "mint dev --no-open",
-    url: "http://localhost:3000",
+    url: docsBaseURL,
     reuseExistingServer: true,
     timeout: 120_000,
   },

@@ -132,5 +132,3 @@ Conforme mostrado nos tópicos anteriores, o propósito do Maker engloba todas e
 ![image6.jpg](https://manual.softwell.com.br/assets/images/image6-685c25f1fea87ff30db79aac3f609a25.jpg)
 
 #### Compatibilidade com versões homologadas veja em: ["Versões Homologadas"](../FAQ/versoes_homologadas)
-
-####

@@ -5,6 +5,7 @@ if grep -RIn \
   --include='*.md' \
   --exclude-dir=node_modules \
   --exclude-dir=.git \
+  --exclude-dir=.agents \
   --exclude-dir=.mintlify \
   --exclude-dir=test-results \
   --exclude-dir=reports \

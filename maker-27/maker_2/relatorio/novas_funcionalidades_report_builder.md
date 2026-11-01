@@ -7,7 +7,7 @@ source_url: "https://suporte.softwell.com.br/Manual/Maker2_7/maker_2/relatorio/n
 
 Neste guia vamos conhecer as novas implementações, os novos componentes do Editor de relatórios e como fazer uso dos mesmos. Estas funcionalidades estão disponíveis a partir da versão do Maker 2.7.0.10 e facilitarão o desenvolvimento de relatórios. Veja abaixo.
 
-##
+
 
 Grupos
 
@@ -37,7 +37,7 @@ Ex: MeuRelatório_100.pdf; Meu Relatório_200.pdf.
 
 ![Imagem do manual](imagens_rp14/b14grupo16.jpg)
 
-####
+
 
 Arquitetura de Arquivos
 
@@ -46,7 +46,7 @@ Vamos falar agora das arquiteturas de arquivos que foram modificadas:
 - PDF: Essa arquitetura foi redesenhada para suportar fontes incorporadas e fornecer alta qualidade na impressão de “Texto Formatado”, “Gráfico”, “Código de Barra” e o “PaintBox”.
 - Texto: Essa arquitetura foi aprimorada para dar suporte a sub-relatório, tabelas de referência cruzada, texto longo.
 
-###
+
 
 Propriedade e Componentes
 
@@ -78,7 +78,7 @@ Neste tópico vamos falar das novas propriedades e dos novos componentes adicion
 
 ![Imagem do manual](imagens_rp14/b14grupo10.jpg)
 
-###
+
 
 Eventos
 

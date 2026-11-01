@@ -62,7 +62,7 @@ Nesta janela, o usuário poderá enviar uma mensagem para todos os usuários ou 
 
 Imagem 4 - Enviar Mensagem para todos
 
-###
+
 
 Utilizando o componente Chat com a opção Deslizante "Sim"
 

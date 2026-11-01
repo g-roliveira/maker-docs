@@ -53,7 +53,7 @@ Configurando as propriedades do formulário.
 
 ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/redessociais/facebook/apiFb/form_d.png)
 
-##
+
 
 Esta função abre uma caixa de comentários no componente moldura.
 
@@ -83,7 +83,7 @@ Não possui.
 
 -Facebook Comentários
 
-##
+
 
 Esta função habilita a opção de compartilhar um determinado link/página.
 
@@ -100,7 +100,7 @@ Não Possui.
 A altura do botão "compartilhar" é determinada pelo layout escolhido no 2º parâmetro. A largura do botão será determinada pela largura do componente moldura.
 ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/redessociais/facebook/apiFb/form_5.png)
 
-##
+
 
 Esta função exibe uma postagem do Facebook no componente moldura passado como parâmetro.
 
@@ -124,7 +124,7 @@ Não possui.
 
 Facebook - Exibir Postagem
 
-##
+
 
 Esta função habilita a opção de curtir/recomendar para uma determinada página/link.
 **Parâmetros**:
@@ -153,7 +153,7 @@ Não possui.
 
 ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/redessociais/facebook/apiFb/form_8.png)
 
-##
+
 
 Esta função habilita a opção de login/logout no Facebook.
 
@@ -187,7 +187,7 @@ Não possui.
 
 ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/redessociais/facebook/apiFb/form_9.png)
 
-##
+
 
 Esta função verifica o estado do aplicativo e se a sessão do usuário está definida como logado ou não no Facebook.
 
@@ -205,7 +205,7 @@ Não possui.
 
 ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/redessociais/facebook/apiFb/form_10.png)
 
-##
+
 
 Substitui um componente Moldura por uma quadro de recomendações padrão do Facebook, onde o usuário poderá sugerir postagens de sites externos através de links.  **Os parâmetros requeridos são:**
 
@@ -231,7 +231,7 @@ Não possui.
 
 ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/redessociais/facebook/apiFb/form_11.png)
 
-##
+
 
 Esta função permite a visualização das últimas publicações da página e/ou os usuários do Facebook que curtem a página.
 

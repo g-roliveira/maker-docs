@@ -3,42 +3,42 @@ title: "Banco de Dados"
 source_url: "https://manual.softwell.com.br/docs/dicas-e-truques/banco-de-dados"
 ---
 
-[## 📄️ Acesso remoto em uma nova Instância no MS SQL Server 2008R2/2012/2014
+## [📄️ Acesso remoto em uma nova Instância no MS SQL Server 2008R2/2012/2014](banco_de_dados/acesso_remoto_em_uma_nova_instancia_no_sql_server_2005)
 
-Para compartilhar projetos que utilizem banco de dados MS SQL Server, com instância, em uma rede, são necessárias algumas configurações:](banco_de_dados/acesso_remoto_em_uma_nova_instancia_no_sql_server_2005)
+Para compartilhar projetos que utilizem banco de dados MS SQL Server, com instância, em uma rede, são necessárias algumas configurações:
 
-[## 📄️ Como configurar Conexão Remota no SQL Server 2005/2008/2008R2/2012
+## [📄️ Como configurar Conexão Remota no SQL Server 2005/2008/2008R2/2012](banco_de_dados/como_configurar_conexao_remota_sqlserver2005)
 
-1º Passo:](banco_de_dados/como_configurar_conexao_remota_sqlserver2005)
+1º Passo:
 
-[## 📄️ Como utilizar o Maker/Webrun com o SQL Server em porta diferente da 1433
+## [📄️ Como utilizar o Maker/Webrun com o SQL Server em porta diferente da 1433](banco_de_dados/como_utilizar_o_maker_webrun_com_o_sql_server_em_porta_diferente_da_1433)
 
-Para utilizar o Maker/Webrun com uma porta diferente da convencional no banco SQL server, os seguintes passos devem ser tomados:](banco_de_dados/como_utilizar_o_maker_webrun_com_o_sql_server_em_porta_diferente_da_1433)
+Para utilizar o Maker/Webrun com uma porta diferente da convencional no banco SQL server, os seguintes passos devem ser tomados:
 
-[## 📄️ Conectando banco ORACLE via SERVICE\_NAME pelo Maker
+## [📄️ Conectando banco ORACLE via SERVICE\\_NAME pelo Maker](banco_de_dados/conectando_banco_oracle_via_service_name_pelo_maker)
 
-Para conectar o banco de dados oracle via service\name pelo Maker_, é necessário fazer algumas configurações:](banco_de_dados/conectando_banco_oracle_via_service_name_pelo_maker)
+Para conectar o banco de dados oracle via service\name pelo Maker_, é necessário fazer algumas configurações:
 
-[## 📄️ Configuração do Banco de Dados PostgreSQL para Acesso Externo
+## [📄️ Configuração do Banco de Dados PostgreSQL para Acesso Externo](banco_de_dados/configuracao_banco_dados_postgresql_para_acesso_externo)
 
-Observe a seguinte situação:](banco_de_dados/configuracao_banco_dados_postgresql_para_acesso_externo)
+Observe a seguinte situação:
 
-[## 📄️ Configurando instâncias para projetos no SQL Server
+## [📄️ Configurando instâncias para projetos no SQL Server](banco_de_dados/configurando_instancias_para_projetos_no_sql_server)
 
-Para utilizar as configurações não usuais, por exemplo, porta diferente, múltiplas instâncias, entre outras, é necessário personalizar o seu arquivo database.xml.](banco_de_dados/configurando_instancias_para_projetos_no_sql_server)
+Para utilizar as configurações não usuais, por exemplo, porta diferente, múltiplas instâncias, entre outras, é necessário personalizar o seu arquivo database.xml.
 
-[## 📄️ Configurando uma fonte de dados ODBC
+## [📄️ Configurando uma fonte de dados ODBC](banco_de_dados/configurando_uma_fonte_de_dados_odbc)
 
-O serviço do Webrun possui um usuário padrão que é SYSTEM. Quando um usuário desejar criar uma conexão ODBC para que todos possam acessar, deve-se criar na aba Fonte de dados de sistema da tela Administrador de fonte de dados ODBC.](banco_de_dados/configurando_uma_fonte_de_dados_odbc)
+O serviço do Webrun possui um usuário padrão que é SYSTEM. Quando um usuário desejar criar uma conexão ODBC para que todos possam acessar, deve-se criar na aba Fonte de dados de sistema da tela Administrador de fonte de dados ODBC.
 
-[## 📄️ Excluindo o usuário postgres\_webrun no Windows Vista
+## [📄️ Excluindo o usuário postgres\\_webrun no Windows Vista](banco_de_dados/excluindo_usuario_postgres_webrun_windows_vista)
 
-Siga os passos:](banco_de_dados/excluindo_usuario_postgres_webrun_windows_vista)
+Siga os passos:
 
-[## 📄️ Problema com permissão ao empacotar projeto com banco SQL Server 2005?
+## [📄️ Problema com permissão ao empacotar projeto com banco SQL Server 2005?](banco_de_dados/problema_com_permissao_empacotar_em_sql_server_2005)
 
-Execute o comando abaixo para dar a permissão necessária para Empacotar projetos:](banco_de_dados/problema_com_permissao_empacotar_em_sql_server_2005)
+Execute o comando abaixo para dar a permissão necessária para Empacotar projetos:
 
-[## 📄️ Utilizando a tabela FR\_SESSAO em sistemas com MySQL e Oracle
+## [📄️ Utilizando a tabela FR\\_SESSAO em sistemas com MySQL e Oracle](banco_de_dados/utilizando_tabela_fr_sessao_com_mysql_e_oracle)
 
-MSQL:](banco_de_dados/utilizando_tabela_fr_sessao_com_mysql_e_oracle)
+MSQL:

@@ -3,22 +3,22 @@ title: "Webrun"
 source_url: "https://manual.softwell.com.br/docs/webrun/tela_de_configuracoes"
 ---
 
-[## 🗃️ Parâmetros de configuração
+## [🗃️ Parâmetros de configuração](tela_de_configuracoes/parametros_de_configuracao)
 
-14 items](tela_de_configuracoes/parametros_de_configuracao)
+14 items
 
-[## 📄️ Tela de Configurações do Sistema
+## [📄️ Tela de Configurações do Sistema](tela_de_configuracoes/configuracoes_do_sistema)
 
-Na Tela de Configurações do Sistema é possível alterar os parâmetros do arquivo WFRE dos sistemas que estão no Webrun.](tela_de_configuracoes/configuracoes_do_sistema)
+Na Tela de Configurações do Sistema é possível alterar os parâmetros do arquivo WFRE dos sistemas que estão no Webrun.
 
-[## 📄️ MasterSkin
+## [📄️ MasterSkin](tela_de_configuracoes/master_skin)
 
-O MasterSkin é a solução de personalização visual para sistemas desenvolvidos dentro da plataforma Maker, a partir da personalização das propriedades nativas do framework Bootstrap. Focado em agilidade, padronização e controle, ele permite configurar toda a identidade visual de uma aplicação de forma centralizada e segura, sem a necessidade de editar diretamente o código fonte.](tela_de_configuracoes/master_skin)
+O MasterSkin é a solução de personalização visual para sistemas desenvolvidos dentro da plataforma Maker, a partir da personalização das propriedades nativas do framework Bootstrap. Focado em agilidade, padronização e controle, ele permite configurar toda a identidade visual de uma aplicação de forma centralizada e segura, sem a necessidade de editar diretamente o código fonte.
 
-[## 📄️ Progressive Web App - PWA
+## [📄️ Progressive Web App - PWA](tela_de_configuracoes/pwa)
 
-O Progressive Web App (PWA) é uma maneira de trazer a sensação de aplicativo nativo para um aplicativo da Web tradicional, dando capacidade de instalá-lo na tela inicial de um dispositivo móvel ou desktop, para acessar a câmera do dispositivo, receber notificações push e fazer a sincronização em segundo plano.](tela_de_configuracoes/pwa)
+O Progressive Web App (PWA) é uma maneira de trazer a sensação de aplicativo nativo para um aplicativo da Web tradicional, dando capacidade de instalá-lo na tela inicial de um dispositivo móvel ou desktop, para acessar a câmera do dispositivo, receber notificações push e fazer a sincronização em segundo plano.
 
-[## 📄️ Tela de Configurações do Webrun
+## [📄️ Tela de Configurações do Webrun](tela_de_configuracoes/tela_configuracoes)
 
-Na Tela de Configurações do Webrun é possível definir parâmetros de configuração, adicionar e remover sistemas da lista, recarregar sistemas, visualizar a lista de Web Services e estilizar a interface visual do Webrun.](tela_de_configuracoes/tela_configuracoes)
+Na Tela de Configurações do Webrun é possível definir parâmetros de configuração, adicionar e remover sistemas da lista, recarregar sistemas, visualizar a lista de Web Services e estilizar a interface visual do Webrun.

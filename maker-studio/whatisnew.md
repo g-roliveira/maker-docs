@@ -324,7 +324,7 @@ API de Funções:
 - Mapa para JSON
 - Validar Email
 
-[**### Baixe o sistema exemplo com as funcionalidades.**](http://download.softwell.com.br/suporte/exemplos/ExemploNovidadesMakerStudio.mkr)
+### [**Baixe o sistema exemplo com as funcionalidades.**](http://download.softwell.com.br/suporte/exemplos/ExemploNovidadesMakerStudio.mkr)
 
 #### Novidades Maker Studio 1.0.0.17 e Webrun Studio 1.0.0.17
 
@@ -871,7 +871,7 @@ Permite acesso ao fórum, manual e outras opções dentro da própria IDE.
 
 ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/imagem_212.png)
 
-####
+
 
 O Maker e Webrun nunca foram tão unidos, a partir desta versão as configurações do Webrun poderão ser feitas na própria IDE e o status de conexão será apresentado continuamente.
 
@@ -1396,9 +1396,9 @@ Nesta versão é possível configurar todo o ambiente externo da aplicação, po
 
 ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/tela_login_webrun.jpg)
 
-##
 
-##
+
+
 
 ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/m1.png)
 
@@ -1419,14 +1419,14 @@ Nesta versão é possível configurar todo o ambiente externo da aplicação, po
 [- Galeria de Imagens](maker_3/formulario/componentes/galeria_imagens)
 [- Tabela](maker_3/formulario/componentes/tabela)
 [- Timer](#)
-[## Criando novos Componentes](maker_3/formulario/componentes/componentes)
+## [Criando novos Componentes](maker_3/formulario/componentes/componentes)
 
 [Topo](#top)
 
-[## Release Notes - Changelog](novidades/releasecompleto)
+## [Release Notes - Changelog](novidades/releasecompleto)
 
 [Topo](#top)
 
-[## Menu com Aba](novidades/menuaba)
+## [Menu com Aba](novidades/menuaba)
 
 [Topo](#top)

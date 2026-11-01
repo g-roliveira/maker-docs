@@ -3,7 +3,7 @@ title: "Busca na tela de importação e exportação"
 source_url: "https://suporte.softwell.com.br/Manual/MakerStudio/novidades/busca_tela_exportacao_importacao.html"
 ---
 
-#
+
 
 A nova implementação de busca nas telas de importação e exportação ajudam na organização das boas praticas.
 

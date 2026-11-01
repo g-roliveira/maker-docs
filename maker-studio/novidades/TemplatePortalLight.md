@@ -9,16 +9,16 @@ source_url: "https://suporte.softwell.com.br/Manual/MakerStudio/novidades/Templa
 
 **Obs.:** Para um perfeito funcionamento, é necessário que o Skin do projeto seja definido como "PortalLight".
 
-##
+
 
 - **Tela de login.**
 ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/TemplatePortalLightLogin.png)
 
-##
+
 
 - **Tela principal do novo template.**
 ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/TemplatePortalLight.png)
 
-##
+
 
 - **Confira mais sobre o template Portal Light abaixo!**
