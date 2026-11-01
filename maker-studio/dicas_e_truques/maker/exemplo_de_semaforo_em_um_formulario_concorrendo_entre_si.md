@@ -1,0 +1,91 @@
+---
+title: "Exemplo de Semáforo em um formulário concorrendo entre si"
+source_url: "https://suporte.softwell.com.br/Manual/MakerStudio/dicas_e_truques/maker/exemplo_de_semaforo_em_um_formulario_concorrendo_entre_si.htm"
+---
+
+O recurso que será apresentado abaixo demonstrará o controle de alteração de um registro, quando acessado por mais de um usuário, por meio de fluxograma. O primeiro usuário, entrando no modo de alteração do registro, trava a possibilidade de alteração para outros usuários até a sua liberação. Será utilizada a função Semáforo - Adquirir. Essa função bloqueia uma ocorrência por um tempo determinado e recebe um valor lógico que define se apenas o proprietário do semáforo pode liberá-lo.
+
+Observe abaixo o formulário aberto pelo primeiro usuário: está em modo de Alteração.
+
+![image591.jpg](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image591.jpg)
+
+Quando um outro usuário acessar o mesmo formulário e ativar o modo de Alteração, o fluxo acionará a função Semáforo para bloquear o registro até a liberação programada.
+
+![image592.jpg](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image592.jpg)
+
+Como aplicar a função:
+
+1. Ative o Editor de Fluxo de ações;
+2. Desenvolva o seguinte fluxo:
+
+   1. Determine, como Parâmetro de Entrada, uma variável do Tipo Variante (aqui chamada Chave Primária). Este parâmetro irá auxiliar na identificação do registro;
+
+![image593.jpg](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/sema1.png)
+
+2. Insira um objeto Decisão. Este objeto controlará a execução da função Semáforo: será executada, quando o registro estiver em modo de Alteração. Observe que está sendo utilizanda a função Modo de Alteração (categoria Formulário) para checar o status do formulário. Esta função retorna Verdadeiro ou Falso;
+
+![image594.jpg](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/sema2.png)
+
+3. Insira um objeto Processamento. Informe Sim para o Tipo da Conexão. Defina como componente principal a função Semáforo - Adquirir:
+
+![image595.jpg](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/sema3.png)
+
+Defina os parâmetros da função:
+
+1. Parâmetro 1: Identificador único para representação do Semáforo;
+
+![image726.gif](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/sema4.png)
+
+Por meio da função Concatenação (contendo dois parâmetros), utilize a função Código do Formulário como primeiro parâmetro e utilize o Parâmetro de Entrada denominado Chave Primária como segundo parâmetro. Com isso temos uma identificação segura do registro.
+
+2. Parâmetro 2: Tempo (em milissegundos) de funcionamento do semáforo;
+
+![image727.gif](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/sema5.png)
+
+3. Parâmetro 3: Define se apenas o proprietário do semáforo pode liberá-lo;
+
+![image728.gif](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/sema6.png)
+
+O retorno dessa função é um GUID da conexão.
+
+4. Insira um objeto Processamento. Este automaticamente representará Não para o Tipo da Conexão. Defina como componente principal a função Semáforo- Liberar:
+
+![image596.jpg](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/sema7.png)
+
+Defina o parâmetro da função:
+
+1. Parâmetro 1: Identificador do Semáforo (o mesmo utilizado para a aquisição do semáforo);
+
+![image729.gif](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/sema8.png)
+
+Por meio da função Concatenação (contendo dois parâmetros), utilize a função Código do Formulário como primeiro parâmetro e utilize o Parâmetro de Entrada denominado Chave Primária como segundo parâmetro. Com isso temos uma identificação segura do registro.
+
+O retorno desta função será Verdadeiro, se foi possível liberar o semáforo. Caso contrário, Falso.
+
+5. Ligue os processamentos ao componente Fim e Salve o fluxo (como exemplo, Ativando Semáforo). Utilize este fluxo no Evento Ao Navegar do formulário. Aponte o campo da chave primária da tabela, como Parâmetro de Entrada.
+
+3. Desenvolva um segundo fluxo:
+
+   1. Determine como Parâmetro de Entrada, uma variável do Tipo Variante (aqui chamada Chave Primária). Este parâmetro irá auxiliar na identificação do registro;
+
+   ![image597.jpg](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/sema9.png)
+
+   2. Insira um objeto Processamento. Defina como componente principal a função Semáforo- Liberar:
+
+![image598.jpg](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/sema10.png)
+
+Defina o parâmetro da função:
+
+1. Parâmetro 1: Identificador do Semáforo (o mesmo utilizado para a aquisição do semáforo);
+
+![image730.gif](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/sema11.png)
+
+Pela função Concatenação (contendo dois parâmetros), utilize a função Código do Formulário como primeiro parâmetro e utilizou o Parâmetro de Entrada denominado Chave Primária como segundo parâmetro. Com isto temos uma identificação segura do registro.
+
+O retorno desta função será Verdadeiro se foi possível liberar o semáforo. Caso contrário, Falso.
+
+3. Ligue o processamento ao componente Fim e Salve o fluxo (como exemplo, Desativando Semáforo). Utilize este fluxo no Evento Ao Sair do formulário. Aponte o campo da chave primária da tabela, como Parâmetro de Entrada.
+
+Em modo de execução da aplicação, perceba que, se o segundo usuário acessar o mesmo registro que esteja sendo alterado, o Semáforo será ativado, bloqueando até a sua liberação programada.
+
+Observação: O usos destas funções (Adquirir/Liberar Semáforo) impedem qualquer tipo de alteração a outros usuários. Após uma atualização ser feita, não serão atualizada as informações para os outros usuários, sendo necessário que os registros sejam recarregados pelos outros usuários, caso queiram obter os registros que tenham sofrido alteração.

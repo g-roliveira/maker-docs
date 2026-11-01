@@ -1,0 +1,349 @@
+---
+title: "Lista Dupla"
+source_url: "https://suporte.softwell.com.br/Manual/Maker2_7/maker_2/formulario/componentes/lista_dupla.htm"
+---
+
+# image476.gif   Lista Dupla
+
+O componente Lista Dupla é utilizado para suporte à relação de muitos para muitos entre tabelas. Devem ser envolvidas no processo de configuração do componente três tabelas: duas contendo identificadores únicos (chaves primárias) e uma terceira armazenando a relação das duas anteriores por meio de seus identificadores (chaves estrangeiras).
+
+Neste componente é possível selecionar um ou mais registros ao mesmo tempo para serem inseridos na tabela que relaciona as tabelas que contêm os identificadores únicos.
+
+O componente só é manipulável se o formulário estiver em modo de inserção ou alteração:
+
+![image321.jpg](../../../image321.jpg)
+
+Todos os componentes possuem Propriedades e Eventos. Para conhecê-los [clique aqui](../propriedades_e_eventos).
+
+Observações:
+
+1. O componente Lista Dupla não suporta a utilização de chave composta
+2. Não é possível selecionar uma conexão adicional a este componente.
+3. Este componente não registra Log, ou seja, não aparecerá nos Logs do webrun as ações de inserções, alterações ou deletações deste componente (Lista Dupla).
+4. O número de vezes que o evento será executado está relacionado em quantos registros foram selecionados para inserção ou remoção ao mesmo tempo;
+5. Todo fluxo de ação, uma vez vinculado a qualquer um dos eventos do componente Lista Dupla, recebe dois parâmetros automáticos. Para que esses parâmetros sejam obtidos corretamente pelo fluxo de ação, quando executados no Webrun, é necessária a criação de dois Parâmetros de Entrada: o primeiro parâmetro pode ser chamado de Campo Chave (nome opcional - correspondendo ao código do registro (ou registros) que participará do evento); e o segundo parâmetro pode ser chamado de Campo Lista (nome opcional - correspondendo à descrição do registro (ou registros) que participará do evento).
+6. Caso um registro (nome do registro) contido na área direita ou esquerda do componente exceda a largura de uma das áreas, basta posicionar o ponteiro do mouse sobre o registro para que apareça um hint (dica) demonstrado o nome completo do registro.
+7. Este recurso está disponível apenas para a versão Enterprise.
+8. O hint (Dica) só será exibido ao passar o mouse sobre a moldura que envolve o componente.
+
+Acesse o exemplo [Utilizando o componente Lista Dupla](../../../dicas_e_truques/componente/utilizando_o_componente_lista_dupla_).
+
+Propriedades
+
+- Adicionar Item
+
+Ao selecionar a opção Não, o botão ![direita.png](../../../direita.png) ficará invisível. O botão ![direita.png](../../../direita.png) é utilizado para a retirada de um registro que está contido na área esquerda do componente (disponível) e, em seguida, inclusão do mesmo registro na área direita do componente (selecionado). Por padrão, esta propriedade vem configurada como Sim.
+
+- Adicionar Todos
+
+Ao selecionar a opção Não, o botão ![direita2.png](../../../direita2.png) ficará invisível. O botão ![direita2.png](../../../direita2.png) é utilizado para a retirada de vários registros que estão contidos na área esquerda do componente (disponíveis) e, em seguida, inclusão dos mesmos registros na área direita do componente (selecionados). Por padrão, esta propriedade vem configurada como Sim.
+
+- Campo-Chave Principal
+
+Esta propriedade representa o campo-chave (identificador único) selecionado durante a configuração da propriedade SQL Principal, o qual identifica a tabela que se quer relacionar com a tabela associada ao formulário no qual está contido o componente.
+
+- Campo-Chave Selecionados
+
+Esta propriedade representa o campo ao qual será atribuído o código do registro que é selecionado na área esquerda do componente.
+
+- Campo Lista Principal
+
+Exibe a descrição do campo-chave selecionado na propriedade Campo-Chave Principal.
+
+- Campo Lista Selecionados
+
+Exibe a descrição do campo-chave selecionado na propriedade Campo-Chave Selecionados. Normalmente é feita uma junção entre a tabela que contém os registros que aparecem na área esquerda do componente (registros disponíveis) e a tabela que relaciona as tabelas do formulário e dos registros disponíveis para projetar o campo da descrição do registro selecionado.
+
+- Descrição Principal
+
+Descrição que identifica a área dos registros que estão disponíveis para seleção.
+
+- Descrição Selecionados
+
+Descrição que identifica a área dos registros que foram selecionados e estão relacionados com o registro corrente no formulário.
+
+- Duplo Clique
+
+Selecionando a opção:
+
+- Sim - após a efetuação de clique duplo sobre um registro que esteja na área esquerda do componente (registro disponível), este passará para a área direita do componente (registro selecionado);
+- Não - um registro que esteja na área esquerda do componente (registro disponível) só poderá passar para a área direita do componente (registro selecionado) através dos botões de seleção posicionados entre a área esquerda e direita do componente.
+
+- Fonte Descrição Principal
+
+Utilizada para edição da fonte contida na expressão definida para a propriedade Descrição Principal. Esta propriedade é idêntica à propriedade Fonte.
+
+- Fonte Descrição Selecionados
+
+Utilizada para edição da fonte contida na expressão definida para a propriedade Descrição Selecionados. É semelhante à propriedade Fonte.
+
+- Parâmetro Principal
+
+Esta propriedade identifica a relação entre os registros da área Principal do componente Lista Dupla com o formulário principal ou com outros componentes.
+
+Caso se queira filtrar os dados da área esquerda do componente, deve ser relacionado um (ou mais) campo da tabela associada ao formulário a um (ou mais) campo correspondente na tabela que contém os registros que poderão ser selecionados. Esta propriedade é idêntica à propriedade [Parâmetros](../opcoes_comuns_para_os_objetos_em_um_formulario/campos_de_ligacao).
+
+- Parâmetros Selecionados
+
+Esta propriedade tem o mesmo objetivo da propriedade Parâmetros Principal, sendo que o filtro será realizado para a área Selecionados do componente. Deve ser relacionado o campo-chave da tabela associada ao formulário ao campo correspondente (chave estrangeira) na tabela que contém os campos que relacionam as tabelas. Esta propriedade é idêntica à propriedade Parâmetros.
+
+- Remover Item
+
+Ao selecionar a opção Não, o botão ![esquerda.png](../../../esquerda.png) ficará invisível. O botão ![esquerda.png](../../../esquerda.png) é utilizado para a retirada de um registro que estava contido na área direita do componente (selecionado) e, em seguida, inclusão do mesmo registro na área direita do componente (disponível). Por padrão, esta propriedade vem configurada como Sim.
+
+- Remover Todos
+
+Ao selecionar a opção Não, o botão ![esquerda2.png](../../../esquerda2.png) ficará invisível. O botão ![esquerda2.png](../../../esquerda2.png) é utilizado para a retirada de vários registros que estavam contidos na área direita do componente (selecionados) e, em seguida, inclusão dos mesmos registros na área esquerda do componente (disponíveis). Por padrão, esta propriedade vem configurada como Sim.
+
+- SQL Principal
+
+Consulta que contém a tabela que se quer relacionar com a tabela associada ao formulário no qual está contido o componente. Esta propriedade tem o mesmo comportamento da propriedade SQL.
+
+- SQL Selecionados
+
+Consulta que contém a tabela que possui os campos que relacionam registros da tabela associada ao formulário e a tabela selecionada na consulta da propriedade SQL Principal (registros disponíveis). Esta propriedade tem o mesmo comportamento da propriedade SQL.
+
+Eventos
+
+- Antes de Adicionar Todos
+
+O evento ocorre entre o momento em que o usuário clica sobre o botão ![direita2.png](../../../direita2.png) para adicionar todos os registros na área Selecionados.
+
+- Antes de Adicionar Item
+
+O evento ocorre entre o momento que o usuário clica sobre o botão ![direita.png](../../../direita.png) para adicionar o registro selecionado na área Principal para a área Selecionados.
+
+- Antes de Remover Item
+
+O evento ocorre entre o momento em que o usuário clica sobre o botão ![esquerda.png](../../../esquerda.png) para retirada de um registro selecionado na área Selecionados para a área Principal.
+
+- Antes de Remover Todos
+
+O evento ocorre entre o momento em que o usuário clica sobre o botão ![esquerda2.png](../../../esquerda2.png) para mover todos os registros contidos na área Selecionados para área Principal.
+
+- Depois de Adicionar Item
+
+O evento ocorre após o momento que o usuário clica sobre o botão ![direita.png](../../../direita.png) (Adicionar item).
+
+- Depois de Adicionar Todos
+
+O evento ocorre após o momento em que o usuário clica sobre o botão ![direita2.png](../../../direita2.png) (Adicionar todos).
+
+- Depois de Remover Item
+
+O evento ocorre após o momento em que o usuário clica sobre o botão ![esquerda.png](../../../esquerda.png) (Remover item).
+
+- Depois de Remover Todos
+
+O evento ocorre após o momento que o usuário clica sobre o botão ![esquerda2.png](../../../esquerda2.png) (Remover todos).
+
+- Ao Duplo Clicar
+
+O evento ocorre no momento em que o usuário efetua um Duplo-Clique sobre qualquer registro contido na área esquerda ou direita do componente.
+
+Propriedades
+
+- Ajuda
+
+Ver descrição da propriedade Dica.
+
+- Altura
+
+Esta propriedade determina a altura do componente/formulário.
+
+- Apenas Leitura
+
+Ao selecionar a opção Sim, o componente aparece somente em modo de leitura, não podendo ser editado. Por padrão esta propriedade vem configurada como Não.
+
+Esta propriedade não se aplica aos componentes Subformulário, Botão, Árvore e Moldura.
+
+- Campo
+
+Esta propriedade representa a coluna da tabela selecionada como fonte de dados do formulário. São disponibilizados para seleção todos os campos da fonte de dados vinculada. Quanto ao componente:
+
+- [Imagem](imagem) - O campo no banco de dados deve ser de um tipo que dê suporte à imagem ou de um tipo texto (campo que suporte alta precisão). Utilizando a primeira opção, o byte da imagem será gravado no campo da tabela vinculada ao formulário; já na segunda opção, o Webrun copiará a imagem para a pasta C:\Arquivos de programas\Softwell Solutions\Maker 2.6\Webrun 2\tomcat\webapps\&lt;contexto do Webrun&gt;\files, guardando o caminho do arquivo no campo.
+
+Esta propriedade não se aplica aos componentes Lista Dupla, Botão, Árvore, Subformulário, Gráfico e Moldura.
+
+- Código
+
+Aplicado a todos os componentes e formulário. Esta propriedade representa o identificador do objeto, seja ele componente ou formulário. É utilizado para armazenar as propriedades de cada objeto no banco de dados. Esta propriedade é gerenciada automaticamente pelo Maker.
+
+- Cor
+
+Esta propriedade altera a cor de fundo do componente/formulário. São disponibilizadas várias cores para que o usuário possa alterar a cor de fundo-padrão (branco) do objeto desejado.
+
+Observações:
+
+1. Os componentes [Caixa de Texto](caixa_de_texto), [Grade](grade), [Lista dinâmica](lista_dinamica), [Lista](lista), [Texto Longo](texto_longo), [Árvore](arvore) e [Texto](texto) aplicam a cor de fundo selecionada independente da propriedade Habilitado (de cada componente) estiver marcada como Sim ou Não. Já os componentes [Lista dupla](lista_dupla), [Check](check), [Opções](opcoes) e [Botão](botao) só aplicam a cor de fonte selecionada quando a propriedade Habilitado estiver marcada como Sim.
+2. Especificamente para o componente Texto, fica definido que o valor -1 na propriedade definirá Transparente para cor de fundo. Dessa forma, o componente não ficará com fundo cinza.
+
+Esta propriedade não se aplica aos componentes Subformulário, Árvore, Imagem e Botão.
+
+- Descrição
+
+Esta propriedade aplica uma legenda que aparece sobre  o componente para identificar (resumidamente) qual a sua função.
+
+Esta propriedade não se aplica aos componentes Árvore, Grade, Moldura, Imagem e para o objeto formulário.
+
+Ao selecionar um campo, o Maker sugere uma descrição obtida no dicionário de dados e, caso o usuário deseje deixar o campo da descrição em branco basta apagá-lo e clicar fora do componente.
+
+- Dica
+
+Esta propriedade permite que seja configurada uma mensagem com explicação sobre a finalidade do componente/formulário. Clicando sobre o botão   nessa opção (Dica/Ajuda), aparece uma janela para que o usuário possa descrever qual a função do componente/formulário. No Webrun, para visualizar a descrição, o usuário deve selecionar o componente com um clique sobre ele e pressionar a tecla F1.
+
+Esta propriedade não se aplica ao componente Subformulário.
+
+- Fonte
+
+Aplicada aos componentes [Botão](botao), [Caixa de Texto](caixa_de_texto), [Check](check), [Grade](grade), [Lista](lista), [Opções](opcoes), [Texto](texto) e [Texto Longo](texto_longo) - clicando sobre o botão ![reticencias.png](../../../reticencias.png) nesta opção, aparece a janela Fonte para que o usuário possa editar as configurações relativas à fonte que aparece no componente. São elas:
+
+- - a Fonte - lista todos os tipos de fonte passíveis de escolha;
+  - o Estilo da fonte - lista todos os tipos de layout que podem ser selecionados;
+  - o Tamanho - espaço para especificação do tamanho da fonte;
+  - o agrupamento Efeitos - a opção Riscado insere uma linha horizontal no meio da fonte; a opção Sublinhado insere uma linha horizontal sob a fonte; e a caixa de seleção Cor, na qual é possível modificar a cor da fonte;
+- Os componentes [Botão](botao), [Check](check), [Lista Dinâmica](lista_dinamica), [Lista](lista), [Lista Dupla](lista_dupla) e [Opções](opcoes) aplicam a cor de fonte selecionada quando a propriedade Habilitado (de cada componente) estiver marcada como Sim.
+- - o Exemplo - local que permite a pré-visualização das configurações adotadas;
+  - o Script - convenções de grupos de fontes adotadas por continentes e/ou países para expressar sua língua na forma escrita.
+
+Observações:
+
+1. Os componentes [Caixa de Texto](caixa_de_texto), [Grade](grade), [Texto Longo](texto_longo), [Árvore](arvore) e [Texto](texto) aplicam a cor de fonte selecionada independente da propriedade Habilitado (de cada componente) estiver marcada como Sim ou Não.
+2. Para confirmar as alterações, o usuário deve clicar no botão OK, caso contrário, deve clicar no botão Cancelar.
+
+- Formulário:
+
+Esta propriedade permite a seleção de um formulário que poderá ser aberto dentro de uma situação pré-determinada. É aplicada aos componentes Botão, Grade, Lista Dinâmica e Subformulário - Quando selecionada a opção:
+
+- [Botão](botao) - selecionando o nome de um formulário nesta opção, em seguida, deve-se utilizar a propriedade Parâmetro. O formulário abre de acordo com a configuração feita no item citado;
+- [Grade](grade) - selecionando o nome de um formulário, em seguida, deve-se utilizar a propriedade Parâmetro. O formulário selecionado será apresentado em formato de colunas (componente vinculado a um campo da fonte de dados do formulário) na grade. Alguns componentes podem não aparecer na grade devido à configuração feita na propriedade Editável;
+- [Lista Dinâmica](lista_dinamica) - selecionando o nome de um formulário nessa opção, aparece o botão ![mao.png](../../../mao.png) (Acessar Formulário) ao lado do campo (no Webrun). Para acessar o formulário o usuário deve clicar sobre o botão;
+- [Subformulário](subformulario) - selecionando o nome de um formulário nesta opção e, em seguida, deve-se utilizar a propriedade Parâmetro. Este formulário deverá conter apenas uma aba, caso o mesmo possua mais de uma será(ão) exibido(s) o(s) componente(s) de todas as  abas sobrepostos.
+
+- Habilitado
+
+Ao selecionar a opção Sim, o componente aparece habilitado para poder ser editado ou manipulado.
+
+Observação: Os componentes [Caixa de Texto](caixa_de_texto), [Grade](grade), [Lista dinâmica](lista_dinamica), [Lista](lista), [Texto Longo](texto_longo), [Árvore](arvore) e [Texto](texto) aplicam a cor de fundo selecionada independente da propriedade Habilitado (de cada componente) estiver marcada como Sim ou Não. Já os componentes [Lista dupla](lista_dupla), [Check](check), [Opções](opcoes) e [Botão](botao) só aplicam a cor de fonte selecionada quando a propriedade Habilitado estiver marcada como Sim.
+
+Esta propriedade não se aplica aos componentes [Gráfico](grafico) e [Moldura](moldura).
+
+- Imagem
+
+Aplicada aos componentes [Botão](botao) e [Imagem](imagem) ao objeto formulário
+
+- Lista
+
+Aplicada aos componentes [Lista](lista) e [Opções](opcoes)
+
+- Nome
+
+Esta propriedade é utilizada para identificar/nomear o componente/formulário.  O Maker sugere um nome diferente dos nomes dos componentes existentes no formulário para evitar que mais de um componente possua o mesmo nome.
+
+- Paginação
+
+Aplicada aos componentes Grade e Lista Dinâmica
+
+- Parâmetros
+
+Aplicada aos componentes Árvore, Botão, Grade, Lista Dupla e Subformulário - para que seja possível configurar essa propriedade, é necessário, antes, executar a configuração explicada na propriedade Formulário, e em seguida, acesse o tópico [Campos de Ligação](../opcoes_comuns_para_os_objetos_em_um_formulario/campos_de_ligacao).
+
+- Posição X
+
+Aplicada a todos os componentes, exceto ao objeto formulário - determina a posição do componente em relação à esquerda do formulário.
+
+- Posição Y
+
+Aplicada a todos os componentes, exceto ao objeto formulário - determina a posição do componente em relação ao topo do formulário.
+
+- Quebra Automática...
+
+Aplicada aos componentes [Texto](texto) e [Texto Longo](texto_longo)
+
+- Subformulário
+
+Aplicada aos componentes [Grade](grade) e [Lista Dinâmica](lista_dinamica)
+
+- Tabulação
+
+Esta propriedade indica a ordem de tabulação do componente em relação aos outros que compõem a aba do formulário na qual está posto. Essa ordem pode ser observada quando o usuário altera o estado do formulário/grade para o modo de inclusão ou edição e navega entre os componentes/campos usando a tecla Tab.
+
+Esta propriedade não se aplica aos componentes Texto e Moldura e ao objeto formulário.
+
+- Tabular
+
+Ao selecionar a opção Sim, quando o usuário estiver navegando entre os componentes, como foi descrito no item anterior, o componente receberá foco (observada a ordem de tabulação).
+
+Esta propriedade não se aplica aos componentes Texto e Moldura e ao objeto formulário.
+
+Observação: A propriedade Tabular dos componentes [Botão](botao) e [Opções](opcoes) tem como valor padrão a opção Não, quanto aos demais componentes aos quais a propriedade se aplica, o valor padrão é Sim.
+
+- Tamanho
+
+Determina a largura do componente ou formulário.
+
+- Tipo
+
+Aplicado aos componentes [Caixa de Texto](caixa_de_texto), [Check](check), [Grade](grade), [Lista](lista), [Opções](opcoes) e [Texto Longo](texto_longo) - permite escolher um tipo de dado para se aplicar uma máscara. Caso o campo não esteja ligado ao banco, ela deverá ser usada junto com a propriedade Conteúdo.
+
+Esta propriedade não se aplica aos componentes Texto, Grade, Subformulário, Imagem, Árvore, Gráfico e Moldura.
+
+Observação: A propriedade Tipo aplicada ao componente Lista Dinâmica está depreciada.
+
+- Visível
+
+Permite ocultar/exibir um componente. Selecionando a opção Não, o componente não aparecerá no formulário.
+
+Esta propriedade não se aplica ao componente Moldura e ao formulário.
+
+Eventos
+
+Todos os componentes/formulários possuem Eventos vinculados a eles. Para configurar um evento de um componente/formulário, clique com o botão direito do mouse e no menu suspenso que se abre e escolha qualquer um dos eventos disponíveis em Eventos.
+
+- Ao Clicar
+
+Aplicado a todos os componentes, com exceção do [Sub-Formulário](subformulario), da [Lista Dupla](lista_dupla) e do objeto formulário - o evento é executado assim que o usuário efetua um clique com o botão esquerdo do mouse sobre o componente ou quando o componente for um botão, pressionando a tecla Enter.
+
+Para o componente [Árvore](arvore) - o evento ocorre entre o momento em que o usuário clica sobre a pasta ou sobre um item de uma pasta (nó).
+
+Observações:
+
+1. Ao utilizar este evento no componente Grade, ou em um componente Botão dentro de uma Grade, com a função Grade - Obter Linha Selecionada, sempre irá obter a linha anteriormente marcada. Este comportamento ocorre devido a ação de focar a linha ser executada depois da ação do fluxograma executado, ou seja, primeiro o fluxo que obtém o valor da linha é executado e depois a linha é focada.
+2. Os símbolos "+" (mais) e "-" (menos) são utilizados para mostrar e ocultar os itens ou pastas de uma pasta, respectivamente nesta ordem.
+3. O evento Ao Clicar é anulado nos componentes [Check](check), [Opções](opcoes), [Imagem](imagem), [Texto Longo](texto_longo) (HTML Básico) e [Texto Longo](texto_longo) (HTML Avançado) quando os mesmos estão com a propriedade Apenas Leitura marcada como SIM.
+
+- Ao Entrar
+
+Aplicado aos componentes [Caixa de Texto](caixa_de_texto), [Grade](grade), [Lista](lista), [Lista Dinâmica](lista_dinamica) e [Texto Longo](texto_longo) e ao objeto formulário - no caso de um:
+
+- [Componente](componentes) - o evento é executado assim que o usuário efetua um clique com o botão esquerdo do mouse sobre o componente ou quando o componente recebe o foco;
+- [Formulário](../definicao_de_formulario) - o evento é executado assim que o usuário abrir o formulário.
+
+Observação: Caso este evento contenha uma ação com intuito de alterar, substituir ou desfazer o conteúdo, contido no componente [Texto Longo](texto_longo), este com a propriedade HTML Básico ou HTML Avançado, é necessário fazer esta alteração a partir de um fluxo chamado pela função Agendar Execução de Fluxo.
+
+- Ao Modificar
+
+Aplicado aos componentes [Grade](grade), [Caixa de Texto](caixa_de_texto), [Check](check), [Lista Dinâmica](lista_dinamica), [Imagem](imagem), [Lista](lista), [Opções](opcoes) e [Texto Longo](texto_longo) - o evento é executado assim que o usuário efetua qualquer modificação no valor contido no componente e também quando navega entre os registros, desde que o valor contido no componente em um registro difira do valor contido no componente para o qual o usuário navegar: o próximo registro ou o registro anterior.
+
+- Ao Pressionar Tecla
+
+Aplicado aos componentes [Caixa de Texto](caixa_de_texto), [Texto Longo](texto_longo), [Lista Dinâmica](lista_dinamica), e ao objeto formulário. O fluxo de ação associado a este evento deve possuir cinco parâmetros de entrada (três do tipo Lógico, um do tipo Inteiro e um do tipo Letras, respectivamente nesta ordem), os quais são preenchidos automaticamente pelo Webrun no momento da execução do fluxo. Por padrão (opcional), sugere-se para os nomes dos parâmetros de entrada Alt, Crtl,e Shift para cada tipo Lógico, Código da Tecla para o tipo Inteiro e Caracter da Tecla para o tipo Letras.
+
+Observações:
+
+1. O evento é disparado quando QUALQUER tecla for pressionada. Isso não vale para as teclas Alt, Ctrl e Shift, pois elas são capturadas quando executadas em conjunto com outra tecla. Exemplo: Ctrl + S.
+2. O evento não detecta o disparo das teclas Tab, Enter, Backspace e Setas de Navegação uma vez que essas teclas possuem o efeito de tabulação e acesso para o próximo componente. Logo, caso queira que ocorra algo quando essas teclas sejam pressionadas, deve ser utilizado no evento Ao Sair.
+3. Caso o evento Ao Pressionar Tecla associado a um componente retorne CANCELEVENT, o evento não será propagado, ou seja, poderá ser criada uma verificação em um fluxo que a depender do resultado, permite impedir que um determinado conteúdo não vá diretamente para o componente. Exemplo:
+
+   1. Caso o usuário tecle a letra "a", podemos verificar, no fluxo, caso o caractere tenha sido "a" retornamos "CANCELEVENT" (Letras) e desta forma o caractere "a" não será escrito no componente.
+
+- Ao Sair
+
+Aplicado aos componentes [Caixa de Texto](caixa_de_texto), [Lista](lista), [Lista Dinâmica](lista_dinamica), [Texto Longo](texto_longo) e ao objeto formulário. No caso de um:
+
+- [Componente](componentes) - o evento é executado assim que o componente perde o foco;
+- [Formulário](../definicao_de_formulario) - o evento é executado assim que o usuário clica com o botão esquerdo do mouse sobre o botão Sair do formulário.
+
+Utilizando Lista dupla - Esse vídeo exemplifica a utilização do componente Lista Dupla.
+
+Utilizando as funções: Lista Dupla - Obter seleções lista selecionados e Lista Dupla - Obter seleções lista principal. - Esta videoaula demonstra a utilização das funções Lista dupla - Obter seleções lista selecionados e Lista Dupla Obter seleções lista Principal.

@@ -5,3 +5,9 @@
 # Draft content
 drafts/
 *.draft.mdx
+
+# Catálogos auxiliares
+**/index_catalogo.json
+
+# Scaffold
+AGENTS.md

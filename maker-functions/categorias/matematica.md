@@ -1,0 +1,40 @@
+---
+title: "Matemática"
+source_url: "https://pm.softwell.com.br/WSGetCatAndFunc.rule?sys=DEV&category=1"
+---
+
+33 função(ões) nesta categoria.
+
+- [Arco Cosseno](../funcoes/matematica/arco-cosseno)
+- [Arco Seno](../funcoes/matematica/arco-seno)
+- [Arco Tangente](../funcoes/matematica/arco-tangente)
+- [Arranjo](../funcoes/matematica/arranjo)
+- [Arredondar](../funcoes/matematica/arredondar)
+- [Arredondar Casas Decimais](../funcoes/matematica/arredondar-casas-decimais)
+- [Arredondar para Baixo](../funcoes/matematica/arredondar-para-baixo)
+- [Arredondar para Cima](../funcoes/matematica/arredondar-para-cima)
+- [Combinação](../funcoes/matematica/combinacao)
+- [Constante de Néper](../funcoes/matematica/constante-de-neper)
+- [Cosseno](../funcoes/matematica/cosseno)
+- [Divisão](../funcoes/matematica/divisao)
+- [Fatorial](../funcoes/matematica/fatorial)
+- [Logaritmo na Base 10](../funcoes/matematica/logaritmo-na-base-10)
+- [Logaritmo Neperiano](../funcoes/matematica/logaritmo-neperiano)
+- [Multiplicação](../funcoes/matematica/multiplicacao)
+- [Máximo](../funcoes/matematica/maximo)
+- [Média](../funcoes/matematica/media)
+- [Mínimo](../funcoes/matematica/minimo)
+- [Módulo](../funcoes/matematica/modulo)
+- [PI](../funcoes/matematica/pi)
+- [Potência](../funcoes/matematica/potencia)
+- [Produtório](../funcoes/matematica/produtorio)
+- [Raiz Cúbica](../funcoes/matematica/raiz-cubica)
+- [Raiz Quadrada](../funcoes/matematica/raiz-quadrada)
+- [Resto](../funcoes/matematica/resto)
+- [Seno](../funcoes/matematica/seno)
+- [Soma](../funcoes/matematica/soma)
+- [Somar Bytes](../funcoes/matematica/somar-bytes)
+- [Somatório](../funcoes/matematica/somatorio)
+- [Subtração](../funcoes/matematica/subtracao)
+- [Tangente](../funcoes/matematica/tangente)
+- [Truncar](../funcoes/matematica/truncar)

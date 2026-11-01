@@ -1,0 +1,48 @@
+---
+title: "Categoria Banco de Dados"
+source_url: "https://suporte.softwell.com.br/Manual/Maker2_7/maker_2/fluxos_e_acoes/Relacao_de_funcoes/categoria_banco_de_dados.htm"
+source_version: "2.7"
+legacy: true
+---
+
+### Comentário sobre funções da categoria Banco de Dados
+
+- [Abrir Conexão Firebird](funcoes/funcoes_categoria_banco_de_dados/abrir_conexao_firebird)
+- [Abrir Conexão MSSQL](funcoes/funcoes_categoria_banco_de_dados/abrir_conexao_mssql)
+- [Abrir conexão MYSQL](funcoes/funcoes_categoria_banco_de_dados/abrir_conexao_mysql)
+- [Abrir Conexão ODBC](funcoes/funcoes_categoria_banco_de_dados/abrir_conexao_odbc)
+- [Abrir Conexão Oracle](funcoes/funcoes_categoria_banco_de_dados/abrir_conexao_oracle)
+- [Abrir Conexão Postgres](funcoes/funcoes_categoria_banco_de_dados/abrir_conexao_postgres)
+- [Abrir Consulta](funcoes/funcoes_categoria_banco_de_dados/abrir_consulta)
+- [Abrir Consulta Dinâmica](funcoes/funcoes_categoria_banco_de_dados/abrir_consulta_dinamica)
+- [Abrir Consulta Dinâmica Navegável](funcoes/funcoes_categoria_banco_de_dados/abrir_consulta_dinamica_navegavel)
+- [Abrir Consulta Não Gerenciada](funcoes/funcoes_categoria_banco_de_dados/abrir_consulta_nao_gerenciada)
+- [Abrir Consulta Navegável](funcoes/funcoes_categoria_banco_de_dados/abrir_consulta_navegavel)
+- [Abrir Nova Conexão](funcoes/funcoes_categoria_banco_de_dados/abir_nova_conexao)
+- [Apagar Registros Tabela](funcoes/funcoes_categoria_banco_de_dados/apagar_registros_tabela)
+- [Campo](funcoes/funcoes_categoria_banco_de_dados/campo)
+- [Campos do SQL](funcoes/funcoes_categoria_banco_de_dados/campos_do_sql)
+- [Executar Atualização](funcoes/funcoes_categoria_banco_de_dados/executar_atualizacao)
+- [Executar Comandos SQL Sem Transação](funcoes/funcoes_categoria_banco_de_dados/executar_comandos_sql_sem_transacao)
+- [Executar Procedure](funcoes/funcoes_categoria_banco_de_dados/executar_procedure)
+- [Executar Procedure com Retorno Complexo](funcoes/funcoes_categoria_banco_de_dados/executar_procedure_com_retorno_complexo).
+- [Executar Procedure In Out](funcoes/funcoes_categoria_banco_de_dados/executar_procedure_in_out)
+- [Existem Registros](funcoes/funcoes_categoria_banco_de_dados/existem_registros)
+- [Exportar tabela para DBF 3](funcoes/funcoes_categoria_banco_de_dados/exportar_tabela_para_dbf_3)
+- [Fechar Conexão](funcoes/funcoes_categoria_banco_de_dados/fechar_conexao)
+- [Fechar Consulta](funcoes/funcoes_categoria_banco_de_dados/fechar_consulta)
+- [Ir para posição da Tabela](funcoes/funcoes_categoria_banco_de_dados/ir_para_posicao_da_tabela)
+- [Obter Campos da Tabela](funcoes/funcoes_categoria_banco_de_dados/obter_campos_da_tabela)
+- [Obter Conexão Adicional](funcoes/funcoes_categoria_banco_de_dados/obter_conexao_adicional)
+- [Obter quantidade de colunas em uma tabela](funcoes/funcoes_categoria_banco_de_dados/obter_quantidade_de_colunas_em_uma_tabela)
+- [Posição](funcoes/funcoes_categoria_banco_de_dados/posicao)
+- [Próximo valor de seqüência](funcoes/funcoes_categoria_banco_de_dados/proximo_valor_de_sequencia)
+- [Retornar Tipo Campo](funcoes/funcoes_categoria_banco_de_dados/retornar_tipo_campo)
+- [Tabela - Primeiro Registro](funcoes/funcoes_categoria_banco_de_dados/tabela_primeiro_registro)
+- [Tabela - Próximo Registro](funcoes/funcoes_categoria_banco_de_dados/tabela_proximo_registro)
+- [Tabela - Registro Anterior](funcoes/funcoes_categoria_banco_de_dados/tabela_registro_anterior)
+- [Tabela - Último Registro](funcoes/funcoes_categoria_banco_de_dados/tabela_ultimo_registro)
+- [Tipo do Campo SQL](funcoes/funcoes_categoria_banco_de_dados/tipo_do_campo_sql)
+- [Transação: Abrir](funcoes/funcoes_categoria_banco_de_dados/transacao__abrir)
+- [Transação: Commit](funcoes/funcoes_categoria_banco_de_dados/transacao_commit)
+- [Transação: Rollback](funcoes/funcoes_categoria_banco_de_dados/transacao_rollback)

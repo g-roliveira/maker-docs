@@ -1,0 +1,40 @@
+---
+title: "Conversão"
+source_url: "https://pm.softwell.com.br/WSGetCatAndFunc.rule?sys=DEV&category=8"
+---
+
+33 função(ões) nesta categoria.
+
+- [Alterar Charset](../funcoes/conversao/alterar-charset)
+- [Array para Lista](../funcoes/conversao/array-para-lista)
+- [Base 64 para Texto](../funcoes/conversao/base-64-para-texto)
+- [Binário para Base 64](../funcoes/conversao/binario-para-base-64)
+- [Bytes para Letras](../funcoes/conversao/bytes-para-letras)
+- [Converter campo tipo Texto para tipo Arquivo](../funcoes/conversao/converter-campo-tipo-texto-para-tipo-arquivo)
+- [Cor para RGB](../funcoes/conversao/cor-para-rgb)
+- [De base 64 para binário](../funcoes/conversao/de-base-64-para-binario)
+- [De binário para base 64](../funcoes/conversao/de-binario-para-base-64)
+- [Hexadecimal para Inteiro](../funcoes/conversao/hexadecimal-para-inteiro)
+- [Inteiro para Extenso](../funcoes/conversao/inteiro-para-extenso)
+- [JSON para Variante](../funcoes/conversao/json-para-variante)
+- [Objeto para Mapa](../funcoes/conversao/objeto-para-mapa)
+- [Para Bytes](../funcoes/conversao/para-bytes)
+- [Para Código ASCII](../funcoes/conversao/para-codigo-ascii)
+- [Para Data](../funcoes/conversao/para-data)
+- [Para Fracionado](../funcoes/conversao/para-fracionado)
+- [Para Graus](../funcoes/conversao/para-graus)
+- [Para Hexadecimal](../funcoes/conversao/para-hexadecimal)
+- [Para Inteiro](../funcoes/conversao/para-inteiro)
+- [Para Letras](../funcoes/conversao/para-letras)
+- [Para Letras (JS)](../funcoes/conversao/para-letras-js)
+- [Para Lógico](../funcoes/conversao/para-logico)
+- [Para Radianos](../funcoes/conversao/para-radianos)
+- [Tabela para JSON](../funcoes/conversao/tabela-para-json)
+- [Tabela para Lista](../funcoes/conversao/tabela-para-lista)
+- [Texto Binário Para Texto](../funcoes/conversao/texto-binario-para-texto)
+- [Texto Delphi Para Texto Java](../funcoes/conversao/texto-delphi-para-texto-java)
+- [Texto para base 64](../funcoes/conversao/texto-para-base-64)
+- [Texto para HTML](../funcoes/conversao/texto-para-html)
+- [Texto para JavaScript](../funcoes/conversao/texto-para-javascript)
+- [Texto Para Texto Binário](../funcoes/conversao/texto-para-texto-binario)
+- [Texto para XML](../funcoes/conversao/texto-para-xml)

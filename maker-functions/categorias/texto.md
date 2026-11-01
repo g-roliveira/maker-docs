@@ -1,0 +1,42 @@
+---
+title: "Texto"
+source_url: "https://pm.softwell.com.br/WSGetCatAndFunc.rule?sys=DEV&category=3"
+---
+
+35 função(ões) nesta categoria.
+
+- [Append](../funcoes/texto/append)
+- [Completar à Direita](../funcoes/texto/completar-a-direita)
+- [Completar à Esquerda](../funcoes/texto/completar-a-esquerda)
+- [Concatenação](../funcoes/texto/concatenacao)
+- [Converter Texto para Delphi](../funcoes/texto/converter-texto-para-delphi)
+- [Criptografia Simétrica - Criptografar Mensagem](../funcoes/texto/criptografia-simetrica-criptografar-mensagem)
+- [Criptografia Simétrica - Descriptografar Mensagem](../funcoes/texto/criptografia-simetrica-descriptografar-mensagem)
+- [Existe Subsequência](../funcoes/texto/existe-subsequencia)
+- [Formatar Número](../funcoes/texto/formatar-numero)
+- [Inicia com?](../funcoes/texto/inicia-com)
+- [Inserir Texto na Posição](../funcoes/texto/inserir-texto-na-posicao)
+- [Inverter Texto](../funcoes/texto/inverter-texto)
+- [Juntar Texto](../funcoes/texto/juntar-texto)
+- [Letra](../funcoes/texto/letra)
+- [Letra na Posição](../funcoes/texto/letra-na-posicao)
+- [Maiúsculo](../funcoes/texto/maiusculo)
+- [Mascarar](../funcoes/texto/mascarar)
+- [MD5 do Texto](../funcoes/texto/md5-do-texto)
+- [Minúsculo](../funcoes/texto/minusculo)
+- [Quebra de Linha](../funcoes/texto/quebra-de-linha)
+- [Quebra de Linha com Retorno](../funcoes/texto/quebra-de-linha-com-retorno)
+- [Quebrar Texto](../funcoes/texto/quebrar-texto)
+- [Remover Acentos](../funcoes/texto/remover-acentos)
+- [Remover Espaços](../funcoes/texto/remover-espacos)
+- [Remover Quebra de Linha do Texto](../funcoes/texto/remover-quebra-de-linha-do-texto)
+- [Remover Subsequência](../funcoes/texto/remover-subsequencia)
+- [Subsequência](../funcoes/texto/subsequencia)
+- [Subsequência Invertida](../funcoes/texto/subsequencia-invertida)
+- [Tamanho](../funcoes/texto/tamanho)
+- [Termina com?](../funcoes/texto/termina-com)
+- [Trocar Subsequência](../funcoes/texto/trocar-subsequencia)
+- [Trocar Todas as Subseqüências](../funcoes/texto/trocar-todas-as-subsequencias)
+- [Validar Texto Utilizando Expressão Regular](../funcoes/texto/validar-texto-utilizando-expressao-regular)
+- [Índice Subsequência](../funcoes/texto/indice-subsequencia)
+- [Último Índice da Subsequência](../funcoes/texto/ultimo-indice-da-subsequencia)

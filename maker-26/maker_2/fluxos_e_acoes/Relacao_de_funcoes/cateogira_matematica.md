@@ -1,0 +1,40 @@
+---
+title: "Categoria Matemática"
+source_url: "https://suporte.softwell.com.br/Manual/Maker2_6/maker_2/fluxos_e_acoes/Relacao_de_funcoes/cateogira_matematica.htm"
+---
+
+### Comentário sobre funções da categoria Matemática
+
+- [Arco Cosseno](funcoes/funcoes_categoria_matematica/arco_cosseno)
+- [Arco Seno](funcoes/funcoes_categoria_matematica/arco_seno)
+- [Arco Tangente](funcoes/funcoes_categoria_matematica/arco_tangente)
+- [Arranjo](funcoes/funcoes_categoria_matematica/arranjo)
+- [Arredondar](funcoes/funcoes_categoria_matematica/arredondar)
+- [Arredondar Casas Decimais](funcoes/funcoes_categoria_matematica/arredondar_casas_decimais)
+- [Arredondar para Baixo](funcoes/funcoes_categoria_matematica/arredondar_para_baixo)
+- [Arredondar para Cima](funcoes/funcoes_categoria_matematica/arredondar_para_cima)
+- [Combinação](funcoes/funcoes_categoria_matematica/combinacao)
+- [Constante de Neper](funcoes/funcoes_categoria_matematica/constante_de_neper)
+- [Cosseno](funcoes/funcoes_categoria_matematica/cosseno)
+- [Divisão](funcoes/funcoes_categoria_matematica/divisao)
+- [Fatorial](funcoes/funcoes_categoria_matematica/fatorial)
+- [Logaritmo na Base 10](funcoes/funcoes_categoria_matematica/logaritmo_na_base_10)
+- [Logaritmo Neperiano](funcoes/funcoes_categoria_matematica/logaritmo_neperiano)
+- [Máximo](funcoes/funcoes_categoria_matematica/maximo)
+- [Média](funcoes/funcoes_categoria_matematica/media)
+- [Mínimo](funcoes/funcoes_categoria_matematica/minimo)
+- [Módulo](funcoes/funcoes_categoria_matematica/modulo)
+- [Multiplicação](funcoes/funcoes_categoria_matematica/multiplicacao)
+- [PI](funcoes/funcoes_categoria_matematica/pi)
+- [Potência](funcoes/funcoes_categoria_matematica/potencia)
+- [Produtório](funcoes/funcoes_categoria_matematica/produtorio)
+- [Raiz Cúbica](funcoes/funcoes_categoria_matematica/raiz_cubica_)
+- [Raiz Quadrada](funcoes/funcoes_categoria_matematica/raiz_quadrada)
+- [Resto](funcoes/funcoes_categoria_matematica/resto)
+- [Seno](funcoes/funcoes_categoria_matematica/seno)
+- [Soma](funcoes/funcoes_categoria_matematica/soma)
+- [Somar Bytes](funcoes/funcoes_categoria_matematica/somar_bytes)
+- [Somatório](funcoes/funcoes_categoria_matematica/somatorio)
+- [Subtração](funcoes/funcoes_categoria_matematica/subtracao)
+- [Tangente](funcoes/funcoes_categoria_matematica/tangente)
+- [Truncar](funcoes/funcoes_categoria_matematica/truncar)

@@ -1,0 +1,30 @@
+---
+title: "Obter Caminho do WFRE"
+source_url: "https://suporte.softwell.com.br/Manual/Maker2_6/maker_2/fluxos_e_acoes/Relacao_de_funcoes/funcoes/funcoes_categoria_utilitario/obter_caminho_do_wfre.htm"
+---
+
+Descrição:
+
+Esta função obtém o caminho físico do WFRE utilizado no Webrun.
+
+Parâmetros:
+
+Não Possui
+
+![image1860.gif](https://suporte.softwell.com.br/Manual/Maker2_6/image1860.gif)
+
+Retorno:
+
+Caminho físico do WFRE (Letras)
+
+Exempl:
+
+C:\Arquivos de programas\Softwell Solutions\Maker 2.5\Webrun 2\systems\Meu Projeto.wfre
+
+Nome Real:
+
+ebfWFREGetAbsolutePath
+
+Compatibilidade:
+
+Servidor

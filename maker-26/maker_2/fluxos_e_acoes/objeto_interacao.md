@@ -1,0 +1,16 @@
+---
+title: "Objeto Interação"
+source_url: "https://suporte.softwell.com.br/Manual/Maker2_6/maker_2/fluxos_e_acoes/objeto_interacao.htm"
+---
+
+# image111.jpg   Objeto Interação
+
+O objeto é utilizado para exibir mensagens para o usuário. Ao utilizar um objeto Interação, é possível escolher uma opção de tipo de mensagem da lista:
+
+- Exibir Barra de Progresso -  exibe na tela uma barra de progresso que pode ser incrementada. Exemplo de utilização de uma Barra de Progresso;
+- Incrementar Barra de Progresso - incrementa a barra de progresso escolhendo o valor da porcentagem que será preenchida, entre 0% e 100%;
+- Retirar Barra de Progresso - remove a barra de progresso;
+- Exibir Mensagem de Alerta - exibe uma mensagem de alerta, continuando o fluxo;
+- Exibir Mensagem de Erro - exibe uma mensagem de erro que encerra o fluxo naquele momento.
+
+No lado direito da tela, temos Parâmetros de entrada - exibem os parâmetros exigidos pelas funções. Executando clique duplo sobre o registro de parâmetro, abre-se o [Montador de Expressões](montador_de_expressoes) e deste a tela [Propriedades](tela_propriedades_do_montador_de_expressoes).

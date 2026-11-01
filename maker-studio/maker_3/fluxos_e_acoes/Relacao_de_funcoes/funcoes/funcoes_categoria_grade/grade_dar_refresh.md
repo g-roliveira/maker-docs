@@ -1,0 +1,28 @@
+---
+title: "Grade - Dar Refresh"
+source_url: "https://suporte.softwell.com.br/Manual/Maker2_7/maker_2/fluxos_e_acoes/Relacao_de_funcoes/funcoes/funcoes_categoria_grade/grade_dar_refresh.htm"
+source_version: "2.7"
+legacy: true
+---
+
+Descrição:
+
+Atualiza o componente grade.
+
+Parâmetros:
+
+Nome do componente grade.
+
+![image1546.gif](../../_assets/image1546.gif)
+
+Retorno:
+
+Não possui.
+
+Nome Real:
+
+ebfGridRefresh
+
+Compatibilidade:
+
+Cliente

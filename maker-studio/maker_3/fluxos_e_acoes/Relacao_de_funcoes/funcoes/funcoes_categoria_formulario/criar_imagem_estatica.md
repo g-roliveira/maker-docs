@@ -1,0 +1,34 @@
+---
+title: "Criar Imagem Estática"
+source_url: "https://suporte.softwell.com.br/Manual/Maker2_7/maker_2/fluxos_e_acoes/Relacao_de_funcoes/funcoes/funcoes_categoria_formulario/criar_imagem_estatica.htm"
+source_version: "2.7"
+legacy: true
+---
+
+Descrição:
+
+Cria uma imagem estática em um componente moldura.
+
+Parâmetros:
+
+1. Nome da moldura (usada no formulário para exibir a imagem).
+
+2. Endereço onde está armazenada a imagem na Internet.
+
+![image1472.gif](../../_assets/image1472.gif)
+
+Retorno:
+
+Variante.
+
+Exemplo:
+
+Nome da URL (Localizador Uniforme de Recursos) http://www.softwell.com.br/downloads/Foto.jpg
+
+Nome Real:
+
+ebfFormCreateImage
+
+Compatibilidade:
+
+Cliente

@@ -1,0 +1,42 @@
+name: Docs
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+concurrency:
+  group: docs-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  mintlify:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install Mintlify CLI
+        run: npm install --global mint
+
+      - name: Validate MDX, frontmatter and build
+        run: mint validate
+
+      - name: Check broken links
+        run: mint broken-links
+
+      - name: Reject internal links ending in .md
+        shell: bash
+        run: |
+          if grep -RIn --include='*.md' -E '\]\([^)]*\.md(#[^)]*)?( "[^"]*")?\)' .; then
+            echo
+            echo "Erro: links internos não devem terminar em .md."
+            echo "Use a rota sem extensão: /pagina em vez de /pagina.md."
+            exit 1
+          fi
