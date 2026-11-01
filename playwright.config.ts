@@ -36,7 +36,7 @@ export default defineConfig({
     },
   ],
   webServer: {
-    command: "mint dev --open=false",
+    command: "mint dev --no-open",
     url: docsBaseURL,
     reuseExistingServer: true,
     timeout: 120_000,
