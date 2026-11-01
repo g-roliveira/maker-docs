@@ -1,0 +1,26 @@
+docs.json
+  h_d18abb67a63ae6 13,19,1730,3526,4303,5793
+maker-26/maker_2/fluxos_e_acoes/Relacao_de_funcoes/funcoes/funcoes_categoria_formulario/alterar_valor_do_componente_e_mascarar.md
+  h_d18abb67a63ae6 16
+maker-26/maker_2/fluxos_e_acoes/Relacao_de_funcoes/funcoes/funcoes_categoria_formulario/obter_variavel_de_formulario.md
+  h_d18abb67a63ae6 14
+maker-27/maker_2/fluxos_e_acoes/Relacao_de_funcoes/funcoes/funcoes_categoria_formulario/alterar_valor_do_componente_e_mascarar.md
+  h_d18abb67a63ae6 16
+maker-27/maker_2/fluxos_e_acoes/Relacao_de_funcoes/funcoes/funcoes_categoria_formulario/obter_variavel_de_formulario.md
+  h_d18abb67a63ae6 14
+maker-studio/maker_3/fluxos_e_acoes/Relacao_de_funcoes/funcoes/funcoes_categoria_formulario/alterar_valor_do_componente_e_mascarar.md
+  h_d18abb67a63ae6 18
+maker-studio/maker_3/fluxos_e_acoes/Relacao_de_funcoes/funcoes/funcoes_categoria_formulario/obter_variavel_de_formulario.md
+  h_d18abb67a63ae6 16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "62685082b08f40b156dcb35cee7e293dfdb367e0",
+  "prompts": {},
+  "humans": {
+    "h_d18abb67a63ae6": {
+      "author": "Gustavo Oliveira <gustavo@groliveira.com.br>"
+    }
+  }
+}
