@@ -13,7 +13,7 @@ Parâmetros:
 
 1. Nome da variável
 
-![image1936.gif](../../_assets/image1936.gif)
+![image1936.jpg](../../_assets/image1936.jpg)
 
 Retorno:
 

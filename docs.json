@@ -10,13 +10,13 @@
   "navigation": {
     "groups": [
       {
-        "group": "Introduction",
+        "group": "Introdução",
         "pages": [
           "index"
         ]
       },
       {
-        "group": "Maker 26",
+        "group": "Maker 2.6",
         "pages": [
           "maker-26/index",
           "maker-26/bem_vindo",
@@ -1727,7 +1727,7 @@
         ]
       },
       {
-        "group": "Maker 27",
+        "group": "Maker 2.7",
         "pages": [
           "maker-27/index",
           "maker-27/bem_vindo",
@@ -3523,7 +3523,7 @@
         ]
       },
       {
-        "group": "Maker ai",
+        "group": "Maker AI",
         "pages": [
           "maker-ai/index",
           {
@@ -4300,7 +4300,7 @@
         ]
       },
       {
-        "group": "Maker functions",
+        "group": "Funções",
         "pages": [
           "maker-functions/index",
           {
@@ -5790,7 +5790,7 @@
         ]
       },
       {
-        "group": "Maker studio",
+        "group": "Maker Studio",
         "pages": [
           "maker-studio/index",
           "maker-studio/Ametista",

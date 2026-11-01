@@ -13,7 +13,7 @@ Parâmetros:
 2. Componente que será alterado.
 3. Novo valor do componente.
 
-![image1933.gif](../../../../../assets/images/legacy/image1933.gif)
+![image1933.jpg](../../../../../assets/images/legacy/image1933.jpg)
 
 Retorno:
 

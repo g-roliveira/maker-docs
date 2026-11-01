@@ -13,7 +13,7 @@ Parâmetros:
 2. Componente que será alterado.
 3. Novo valor do componente.
 
-![image1933.gif](../../../../../image1933.gif)
+![image1933.jpg](../../../../../image1933.jpg)
 
 Retorno:
 
