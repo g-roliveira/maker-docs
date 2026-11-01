@@ -3,7 +3,7 @@
   "theme": "maple",
   "name": "Maker Docs",
   "colors": {
-    "primary": "#16A34A",
+    "primary": "#15803D",
     "light": "#07C983",
     "dark": "#15803D"
   },
@@ -11,9 +11,7 @@
     "groups": [
       {
         "group": "Introdução",
-        "pages": [
-          "index"
-        ]
+        "pages": ["index"]
       },
       {
         "group": "Maker 2.6",
@@ -51,9 +49,7 @@
                   "maker-26/dicas_e_truques/banco_de_dados/usando_mysql_no_linux",
                   {
                     "group": "Db2",
-                    "pages": [
-                      "maker-26/dicas_e_truques/banco_de_dados/db2/utilizando_db2_no_maker"
-                    ]
+                    "pages": ["maker-26/dicas_e_truques/banco_de_dados/db2/utilizando_db2_no_maker"]
                   },
                   {
                     "group": "Firebird",
@@ -292,33 +288,23 @@
               "maker-26/maker_2/visualizador_dependencia",
               {
                 "group": "Agendador de tarefas",
-                "pages": [
-                  "maker-26/maker_2/agendador_de_tarefas/agendador_de_tarefas"
-                ]
+                "pages": ["maker-26/maker_2/agendador_de_tarefas/agendador_de_tarefas"]
               },
               {
                 "group": "Atualizacao lista tabela",
-                "pages": [
-                  "maker-26/maker_2/atualizacao_lista_tabela/atualizacao_lista_tabelas"
-                ]
+                "pages": ["maker-26/maker_2/atualizacao_lista_tabela/atualizacao_lista_tabelas"]
               },
               {
                 "group": "Atualizacoes maker",
-                "pages": [
-                  "maker-26/maker_2/atualizacoes_maker/atualizacoes_maker"
-                ]
+                "pages": ["maker-26/maker_2/atualizacoes_maker/atualizacoes_maker"]
               },
               {
                 "group": "Cadastro de imagens",
-                "pages": [
-                  "maker-26/maker_2/cadastro_de_imagens/catalogo_de_imagens"
-                ]
+                "pages": ["maker-26/maker_2/cadastro_de_imagens/catalogo_de_imagens"]
               },
               {
                 "group": "Categorias do sistema",
-                "pages": [
-                  "maker-26/maker_2/categorias_do_sistema/categorias_do_sistema"
-                ]
+                "pages": ["maker-26/maker_2/categorias_do_sistema/categorias_do_sistema"]
               },
               {
                 "group": "Configuracao das conexoes",
@@ -330,39 +316,27 @@
               },
               {
                 "group": "Desinstalando maker",
-                "pages": [
-                  "maker-26/maker_2/desinstalando_maker/desinstalando_maker"
-                ]
+                "pages": ["maker-26/maker_2/desinstalando_maker/desinstalando_maker"]
               },
               {
                 "group": "Dicionario de dados",
-                "pages": [
-                  "maker-26/maker_2/dicionario_de_dados/dicionario_de_dados"
-                ]
+                "pages": ["maker-26/maker_2/dicionario_de_dados/dicionario_de_dados"]
               },
               {
                 "group": "Documentacao",
-                "pages": [
-                  "maker-26/maker_2/documentacao/documentacao_automatica"
-                ]
+                "pages": ["maker-26/maker_2/documentacao/documentacao_automatica"]
               },
               {
                 "group": "Empacotando projetos",
-                "pages": [
-                  "maker-26/maker_2/empacotando_projetos/empacotando_projetos"
-                ]
+                "pages": ["maker-26/maker_2/empacotando_projetos/empacotando_projetos"]
               },
               {
                 "group": "Executor scripts sql",
-                "pages": [
-                  "maker-26/maker_2/executor_scripts_sql/executor_scripts_sql"
-                ]
+                "pages": ["maker-26/maker_2/executor_scripts_sql/executor_scripts_sql"]
               },
               {
                 "group": "Exportar para jasper",
-                "pages": [
-                  "maker-26/maker_2/exportar_para_jasper/exportando_relatorios_para_jasper"
-                ]
+                "pages": ["maker-26/maker_2/exportar_para_jasper/exportando_relatorios_para_jasper"]
               },
               {
                 "group": "Fluxos e acoes",
@@ -1535,9 +1509,7 @@
               },
               {
                 "group": "Historico sql",
-                "pages": [
-                  "maker-26/maker_2/historico_sql/historico_sql"
-                ]
+                "pages": ["maker-26/maker_2/historico_sql/historico_sql"]
               },
               {
                 "group": "Importacao e exportacao",
@@ -1558,15 +1530,11 @@
               },
               {
                 "group": "Lista de sistemas",
-                "pages": [
-                  "maker-26/maker_2/lista_de_sistemas/lista_de_sistemas"
-                ]
+                "pages": ["maker-26/maker_2/lista_de_sistemas/lista_de_sistemas"]
               },
               {
                 "group": "Otimizador consultas",
-                "pages": [
-                  "maker-26/maker_2/otimizador_consultas/otimizador_consultas"
-                ]
+                "pages": ["maker-26/maker_2/otimizador_consultas/otimizador_consultas"]
               },
               {
                 "group": "Relatorio",
@@ -1593,33 +1561,23 @@
               },
               {
                 "group": "Repositorio objetos",
-                "pages": [
-                  "maker-26/maker_2/repositorio_objetos/repositorio_objetos"
-                ]
+                "pages": ["maker-26/maker_2/repositorio_objetos/repositorio_objetos"]
               },
               {
                 "group": "Tipos de dados",
-                "pages": [
-                  "maker-26/maker_2/tipos_de_dados/tipos_de_dados"
-                ]
+                "pages": ["maker-26/maker_2/tipos_de_dados/tipos_de_dados"]
               },
               {
                 "group": "Tradutor",
-                "pages": [
-                  "maker-26/maker_2/tradutor/tradutor"
-                ]
+                "pages": ["maker-26/maker_2/tradutor/tradutor"]
               },
               {
                 "group": "Usuarios do sistema",
-                "pages": [
-                  "maker-26/maker_2/usuarios_do_sistema/usuarios_do_sistema"
-                ]
+                "pages": ["maker-26/maker_2/usuarios_do_sistema/usuarios_do_sistema"]
               },
               {
                 "group": "Versoes",
-                "pages": [
-                  "maker-26/maker_2/versoes/versionamento_de_sistema"
-                ]
+                "pages": ["maker-26/maker_2/versoes/versionamento_de_sistema"]
               }
             ]
           },
@@ -1707,9 +1665,7 @@
               },
               {
                 "group": "Relatorio",
-                "pages": [
-                  "maker-26/webrun_2/relatorio/configuracoes_exibicao"
-                ]
+                "pages": ["maker-26/webrun_2/relatorio/configuracoes_exibicao"]
               },
               {
                 "group": "Servidor de aplicacoes",
@@ -1768,9 +1724,7 @@
                   "maker-27/dicas_e_truques/banco_de_dados/usando_mysql_no_linux",
                   {
                     "group": "Db2",
-                    "pages": [
-                      "maker-27/dicas_e_truques/banco_de_dados/db2/utilizando_db2_no_maker"
-                    ]
+                    "pages": ["maker-27/dicas_e_truques/banco_de_dados/db2/utilizando_db2_no_maker"]
                   },
                   {
                     "group": "Firebird",
@@ -2076,33 +2030,23 @@
               "maker-27/maker_2/visualizador_dependencia",
               {
                 "group": "Agendador de tarefas",
-                "pages": [
-                  "maker-27/maker_2/agendador_de_tarefas/agendador_de_tarefas"
-                ]
+                "pages": ["maker-27/maker_2/agendador_de_tarefas/agendador_de_tarefas"]
               },
               {
                 "group": "Atualizacao lista tabela",
-                "pages": [
-                  "maker-27/maker_2/atualizacao_lista_tabela/atualizacao_lista_tabelas"
-                ]
+                "pages": ["maker-27/maker_2/atualizacao_lista_tabela/atualizacao_lista_tabelas"]
               },
               {
                 "group": "Atualizacoes maker",
-                "pages": [
-                  "maker-27/maker_2/atualizacoes_maker/atualizacoes_maker"
-                ]
+                "pages": ["maker-27/maker_2/atualizacoes_maker/atualizacoes_maker"]
               },
               {
                 "group": "Cadastro de imagens",
-                "pages": [
-                  "maker-27/maker_2/cadastro_de_imagens/catalogo_de_imagens"
-                ]
+                "pages": ["maker-27/maker_2/cadastro_de_imagens/catalogo_de_imagens"]
               },
               {
                 "group": "Categorias do sistema",
-                "pages": [
-                  "maker-27/maker_2/categorias_do_sistema/categorias_do_sistema"
-                ]
+                "pages": ["maker-27/maker_2/categorias_do_sistema/categorias_do_sistema"]
               },
               {
                 "group": "Configuracao das conexoes",
@@ -2113,39 +2057,27 @@
               },
               {
                 "group": "Desinstalando maker",
-                "pages": [
-                  "maker-27/maker_2/desinstalando_maker/desinstalando_maker"
-                ]
+                "pages": ["maker-27/maker_2/desinstalando_maker/desinstalando_maker"]
               },
               {
                 "group": "Dicionario de dados",
-                "pages": [
-                  "maker-27/maker_2/dicionario_de_dados/dicionario_de_dados"
-                ]
+                "pages": ["maker-27/maker_2/dicionario_de_dados/dicionario_de_dados"]
               },
               {
                 "group": "Documentacao",
-                "pages": [
-                  "maker-27/maker_2/documentacao/documentacao_automatica"
-                ]
+                "pages": ["maker-27/maker_2/documentacao/documentacao_automatica"]
               },
               {
                 "group": "Empacotando projetos",
-                "pages": [
-                  "maker-27/maker_2/empacotando_projetos/empacotando_projetos"
-                ]
+                "pages": ["maker-27/maker_2/empacotando_projetos/empacotando_projetos"]
               },
               {
                 "group": "Executor scripts sql",
-                "pages": [
-                  "maker-27/maker_2/executor_scripts_sql/executor_scripts_sql"
-                ]
+                "pages": ["maker-27/maker_2/executor_scripts_sql/executor_scripts_sql"]
               },
               {
                 "group": "Exportar para jasper",
-                "pages": [
-                  "maker-27/maker_2/exportar_para_jasper/exportando_relatorios_para_jasper"
-                ]
+                "pages": ["maker-27/maker_2/exportar_para_jasper/exportando_relatorios_para_jasper"]
               },
               {
                 "group": "Fluxos e acoes",
@@ -3303,9 +3235,7 @@
               },
               {
                 "group": "Historico sql",
-                "pages": [
-                  "maker-27/maker_2/historico_sql/historico_sql"
-                ]
+                "pages": ["maker-27/maker_2/historico_sql/historico_sql"]
               },
               {
                 "group": "Importacao e exportacao",
@@ -3327,15 +3257,11 @@
               },
               {
                 "group": "Lista de sistemas",
-                "pages": [
-                  "maker-27/maker_2/lista_de_sistemas/lista_de_sistemas"
-                ]
+                "pages": ["maker-27/maker_2/lista_de_sistemas/lista_de_sistemas"]
               },
               {
                 "group": "Otimizador consultas",
-                "pages": [
-                  "maker-27/maker_2/otimizador_consultas/otimizador_consultas"
-                ]
+                "pages": ["maker-27/maker_2/otimizador_consultas/otimizador_consultas"]
               },
               {
                 "group": "Relatorio",
@@ -3363,33 +3289,23 @@
               },
               {
                 "group": "Repositorio objetos",
-                "pages": [
-                  "maker-27/maker_2/repositorio_objetos/repositorio_objetos"
-                ]
+                "pages": ["maker-27/maker_2/repositorio_objetos/repositorio_objetos"]
               },
               {
                 "group": "Tipos de dados",
-                "pages": [
-                  "maker-27/maker_2/tipos_de_dados/tipos_de_dados"
-                ]
+                "pages": ["maker-27/maker_2/tipos_de_dados/tipos_de_dados"]
               },
               {
                 "group": "Tradutor",
-                "pages": [
-                  "maker-27/maker_2/tradutor/tradutor"
-                ]
+                "pages": ["maker-27/maker_2/tradutor/tradutor"]
               },
               {
                 "group": "Usuarios do sistema",
-                "pages": [
-                  "maker-27/maker_2/usuarios_do_sistema/usuarios_do_sistema"
-                ]
+                "pages": ["maker-27/maker_2/usuarios_do_sistema/usuarios_do_sistema"]
               },
               {
                 "group": "Versoes",
-                "pages": [
-                  "maker-27/maker_2/versoes/versionamento_de_sistema"
-                ]
+                "pages": ["maker-27/maker_2/versoes/versionamento_de_sistema"]
               }
             ]
           },
@@ -3422,9 +3338,7 @@
           },
           {
             "group": "Resource",
-            "pages": [
-              "maker-27/resource/utilizando_o_ireport"
-            ]
+            "pages": ["maker-27/resource/utilizando_o_ireport"]
           },
           {
             "group": "Videos",
@@ -3481,9 +3395,7 @@
               },
               {
                 "group": "Relatorio",
-                "pages": [
-                  "maker-27/webrun_2/relatorio/configuracoes_exibicao"
-                ]
+                "pages": ["maker-27/webrun_2/relatorio/configuracoes_exibicao"]
               },
               {
                 "group": "Servidor de aplicacoes",
@@ -3784,9 +3696,7 @@
               },
               {
                 "group": "Geral",
-                "pages": [
-                  "maker-ai/docs/geral/visual-maker-webrun"
-                ]
+                "pages": ["maker-ai/docs/geral/visual-maker-webrun"]
               },
               {
                 "group": "Historico de alteracoes",
@@ -3986,9 +3896,7 @@
                   },
                   {
                     "group": "Estruturas de pastas e arquivos",
-                    "pages": [
-                      "maker-ai/docs/maker/estruturas_de_pastas_e_arquivos/pasta_resources"
-                    ]
+                    "pages": ["maker-ai/docs/maker/estruturas_de_pastas_e_arquivos/pasta_resources"]
                   },
                   {
                     "group": "Gerador de codigo",
@@ -4114,9 +4022,7 @@
               },
               {
                 "group": "Mindsoft",
-                "pages": [
-                  "maker-ai/docs/mindsoft/mindsoft-ai"
-                ]
+                "pages": ["maker-ai/docs/mindsoft/mindsoft-ai"]
               },
               {
                 "group": "Topicos de erros",
@@ -4757,9 +4663,7 @@
               },
               {
                 "group": "Depuracao",
-                "pages": [
-                  "maker-functions/funcoes/depuracao/ponto-de-parada"
-                ]
+                "pages": ["maker-functions/funcoes/depuracao/ponto-de-parada"]
               },
               {
                 "group": "Desenho",
@@ -4806,9 +4710,7 @@
               },
               {
                 "group": "Financeiro",
-                "pages": [
-                  "maker-functions/funcoes/financeiro/pagamento"
-                ]
+                "pages": ["maker-functions/funcoes/financeiro/pagamento"]
               },
               {
                 "group": "Firebase",
@@ -6115,33 +6017,23 @@
               "maker-studio/maker_3/visualizador_dependencia",
               {
                 "group": "Agendador de tarefas",
-                "pages": [
-                  "maker-studio/maker_3/agendador_de_tarefas/agendador_de_tarefas"
-                ]
+                "pages": ["maker-studio/maker_3/agendador_de_tarefas/agendador_de_tarefas"]
               },
               {
                 "group": "Atualizacao lista tabela",
-                "pages": [
-                  "maker-studio/maker_3/atualizacao_lista_tabela/atualizacao_lista_tabelas"
-                ]
+                "pages": ["maker-studio/maker_3/atualizacao_lista_tabela/atualizacao_lista_tabelas"]
               },
               {
                 "group": "Atualizacoes maker",
-                "pages": [
-                  "maker-studio/maker_3/atualizacoes_maker/atualizacoes_maker"
-                ]
+                "pages": ["maker-studio/maker_3/atualizacoes_maker/atualizacoes_maker"]
               },
               {
                 "group": "Cadastro de imagens",
-                "pages": [
-                  "maker-studio/maker_3/cadastro_de_imagens/catalogo_de_imagens"
-                ]
+                "pages": ["maker-studio/maker_3/cadastro_de_imagens/catalogo_de_imagens"]
               },
               {
                 "group": "Categorias do sistema",
-                "pages": [
-                  "maker-studio/maker_3/categorias_do_sistema/categorias_do_sistema"
-                ]
+                "pages": ["maker-studio/maker_3/categorias_do_sistema/categorias_do_sistema"]
               },
               {
                 "group": "Configuracao das conexoes",
@@ -6152,33 +6044,23 @@
               },
               {
                 "group": "Desinstalando maker",
-                "pages": [
-                  "maker-studio/maker_3/desinstalando_maker/desinstalando_maker"
-                ]
+                "pages": ["maker-studio/maker_3/desinstalando_maker/desinstalando_maker"]
               },
               {
                 "group": "Dicionario de dados",
-                "pages": [
-                  "maker-studio/maker_3/dicionario_de_dados/dicionario_de_dados"
-                ]
+                "pages": ["maker-studio/maker_3/dicionario_de_dados/dicionario_de_dados"]
               },
               {
                 "group": "Documentacao",
-                "pages": [
-                  "maker-studio/maker_3/documentacao/documentacao_automatica"
-                ]
+                "pages": ["maker-studio/maker_3/documentacao/documentacao_automatica"]
               },
               {
                 "group": "Empacotando projetos",
-                "pages": [
-                  "maker-studio/maker_3/empacotando_projetos/empacotando_projetos"
-                ]
+                "pages": ["maker-studio/maker_3/empacotando_projetos/empacotando_projetos"]
               },
               {
                 "group": "Executor scripts sql",
-                "pages": [
-                  "maker-studio/maker_3/executor_scripts_sql/executor_scripts_sql"
-                ]
+                "pages": ["maker-studio/maker_3/executor_scripts_sql/executor_scripts_sql"]
               },
               {
                 "group": "Exportar para jasper",
@@ -7361,9 +7243,7 @@
               },
               {
                 "group": "Historico sql",
-                "pages": [
-                  "maker-studio/maker_3/historico_sql/historico_sql"
-                ]
+                "pages": ["maker-studio/maker_3/historico_sql/historico_sql"]
               },
               {
                 "group": "Importacao e exportacao",
@@ -7384,15 +7264,11 @@
               },
               {
                 "group": "Lista de sistemas",
-                "pages": [
-                  "maker-studio/maker_3/lista_de_sistemas/lista_de_sistemas"
-                ]
+                "pages": ["maker-studio/maker_3/lista_de_sistemas/lista_de_sistemas"]
               },
               {
                 "group": "Otimizador consultas",
-                "pages": [
-                  "maker-studio/maker_3/otimizador_consultas/otimizador_consultas"
-                ]
+                "pages": ["maker-studio/maker_3/otimizador_consultas/otimizador_consultas"]
               },
               {
                 "group": "Relatorio",
@@ -7419,41 +7295,29 @@
               },
               {
                 "group": "Repositorio objetos",
-                "pages": [
-                  "maker-studio/maker_3/repositorio_objetos/repositorio_objetos"
-                ]
+                "pages": ["maker-studio/maker_3/repositorio_objetos/repositorio_objetos"]
               },
               {
                 "group": "Tipos de dados",
-                "pages": [
-                  "maker-studio/maker_3/tipos_de_dados/tipos_de_dados"
-                ]
+                "pages": ["maker-studio/maker_3/tipos_de_dados/tipos_de_dados"]
               },
               {
                 "group": "Tradutor",
-                "pages": [
-                  "maker-studio/maker_3/tradutor/tradutor"
-                ]
+                "pages": ["maker-studio/maker_3/tradutor/tradutor"]
               },
               {
                 "group": "Usuarios do sistema",
-                "pages": [
-                  "maker-studio/maker_3/usuarios_do_sistema/usuarios_do_sistema"
-                ]
+                "pages": ["maker-studio/maker_3/usuarios_do_sistema/usuarios_do_sistema"]
               },
               {
                 "group": "Versoes",
-                "pages": [
-                  "maker-studio/maker_3/versoes/versionamento_de_sistema"
-                ]
+                "pages": ["maker-studio/maker_3/versoes/versionamento_de_sistema"]
               }
             ]
           },
           {
             "group": "Makermaps",
-            "pages": [
-              "maker-studio/makermaps/makerMaps"
-            ]
+            "pages": ["maker-studio/makermaps/makerMaps"]
           },
           {
             "group": "Makermobile",
@@ -7695,9 +7559,7 @@
               },
               {
                 "group": "Relatorio",
-                "pages": [
-                  "maker-studio/webrun_3/relatorio/configuracoes_exibicao"
-                ]
+                "pages": ["maker-studio/webrun_3/relatorio/configuracoes_exibicao"]
               },
               {
                 "group": "Servidor de aplicacoes",

@@ -7,7 +7,7 @@ Este exemplo demonstra a utilização da função Criar Novo Arquivo.
 
 1. Crie um formulário com as seguintes características:
 
-![](https://manual.softwell.com.br/assets/images/exe62-9ca871286e8f4d09ced5ab7def5af53e.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/exe62-9ca871286e8f4d09ced5ab7def5af53e.png)
 
 2. Para  um melhor entendimento o fluxo deverá  ficar da seguinte forma:
 
@@ -15,7 +15,7 @@ Este exemplo demonstra a utilização da função Criar Novo Arquivo.
 
 3. Crie um novo fluxo e informe o seguinte parâmetro de entrada:
 
-![](https://manual.softwell.com.br/assets/images/exe64-d73a478858157dba2a3db2f7078165fe.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/exe64-d73a478858157dba2a3db2f7078165fe.png)
 
 4. Insira um objeto Decisão e selecione a seguinte função: Existe Subsequência:
 
@@ -27,9 +27,9 @@ Este exemplo demonstra a utilização da função Criar Novo Arquivo.
 
 6. Insira um objeto Interação para a decisão Não, informando: “Informe o valor correto”.
 
-![](https://manual.softwell.com.br/assets/images/exe67-c386b92d03923972242b7641a4cc67ee.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/exe67-c386b92d03923972242b7641a4cc67ee.png)
 
 7. Salve o fluxo na camada servidor e associe-o ao botão Criar do formulário.
 8. Execute-o no Webrun:
 
-![](https://manual.softwell.com.br/assets/images/img22147-b81529d496998879ce7ad4008aa1990c.JPG)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/img22147-b81529d496998879ce7ad4008aa1990c.JPG)

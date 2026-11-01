@@ -7,7 +7,7 @@ source_url: "https://suporte.softwell.com.br/Manual/MakerStudio/maker_3/formular
 
 Componente desenvolvido a finalidade de exibir imagens fazendo a transição dinamicamente.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/sliderpanel_com_imagem.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/sliderpanel_com_imagem.png)
 
 **Propriedades do componente**
 
@@ -15,7 +15,7 @@ Além das propriedades padrão para todos os componentes **Maker**, o componente
 
 **Lista de imagens**: Ao clicar nesta propriedade será aberto uma tela onde o desenvolvedor poderá adicionar sua lista de imagens.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/sliderpanel_com_imagem2.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/sliderpanel_com_imagem2.png)
 
 **URL**: Campo onde sera definida a url que conterá a imagem, ao associar um link a imagem ao realizar um duplo clique sobre a mesma o link associado será aberto em uma nova aba (guia) do browser;
 
@@ -27,4 +27,4 @@ Além das propriedades padrão para todos os componentes **Maker**, o componente
 
 ____________________________________________________________________________
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)

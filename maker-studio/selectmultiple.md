@@ -9,14 +9,14 @@ O novo componente MultiSelect funciona como um ComboBox com seleção múltipla.
 
 - Box com os valores
 
-  ![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/1multiselect.PNG)
+  ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/1multiselect.PNG)
 - Exibição dos valores
 
-  ![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/2multiselect.PNG)
+  ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/2multiselect.PNG)
 - Seleção dos valores
 
-  ![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/3multiselect.PNG)
+  ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/3multiselect.PNG)
 - Exibição dos valores selecionados
 
-  ![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/4multiselect.PNG)
+  ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/4multiselect.PNG)
 - Veja um vídeo do seu funcionamento:

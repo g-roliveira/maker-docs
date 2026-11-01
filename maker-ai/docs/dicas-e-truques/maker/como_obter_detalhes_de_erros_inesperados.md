@@ -9,7 +9,7 @@ Ao ocorrer situações como a descrita acima, o diagnóstico muitas vezes se tor
 
 Para ativar esta funcionalidade, vá em Menu -> Configurações (ou tecle F6). Com a tela de configurações aberta, vá a aba Outros* e marque a opção Enviar Relatório de Erro, clique em OK, Salve o Projeto e reinicie a aplicação.
 
-![](https://manual.softwell.com.br/assets/images/image730-3bf552c43feb659d9df3318189302149.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/image730-3bf552c43feb659d9df3318189302149.png)
 
 Com esta funcionalidade ativa, toda vez que um erro inesperado ocorrer, clique na opção Enviar Relatório de Erros” e o Maker automaticamente criará um arquivo com extensão .ZIP na pasta C:\Documents and Settings\`&lt;nome do usuário&gt;`\Configurações locais\Dados de aplicativos\Softwell Solutions\Maker Studio Bootstrap.
 

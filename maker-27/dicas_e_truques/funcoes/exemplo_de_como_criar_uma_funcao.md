@@ -11,10 +11,10 @@ Será utilizada como exemplo as funções Abrir Formulário numa Moldura (camada
 
 1. No ambiente Maker acesse o **menu** Projeto e localize o **submenu** Funções. Será apresentada a tela Funções do fluxo de ações como informa a imagem abaixo:
 
-   ![](../../imagens_manual/funcao_hipotenusa/funcao_inserindo_01.JPG)
+   ![Imagem do manual](../../imagens_manual/funcao_hipotenusa/funcao_inserindo_01.JPG)
 2. Insira um novo registro. Clique em ![image71.gif](../../image71.gif) para apresentar a tela em branco:
 
-   ![](../../imagens_manual/funcao_hipotenusa/funcao_inserindo_02.JPG)
+   ![Imagem do manual](../../imagens_manual/funcao_hipotenusa/funcao_inserindo_02.JPG)
 3. **Abas:**
    Note que existem Três abas (Geral, Cliente e Servidor). Na aba Geral será descrito os detalhes da função e nas abas Cliente e Servidor serão desenvolvida em linha de código o comportamento da função**.** Na camada Cliente o código deverá ser em JavaScript e na camada Servidor o código deverá ser em Java**.**
 
@@ -42,7 +42,7 @@ Para demonstração da criação de uma função na camada Cliente, será utiliz
 
 A aba geral, ficará da seguinte forma:
 
-![](../../imagens_manual/funcao_hipotenusa/Geral_camada_cliente_preenchido.JPG)
+![Imagem do manual](../../imagens_manual/funcao_hipotenusa/Geral_camada_cliente_preenchido.JPG)
 
 Na aba Cliente, preencha o campo:
 
@@ -136,11 +136,11 @@ throw "O Componente não é do tipo moldura";
 
 A aba Cliente deverá ficar da seguinte forma:
 
-![](../../imagens_manual/funcao_hipotenusa/Codigo_camada_cliente.JPG)
+![Imagem do manual](../../imagens_manual/funcao_hipotenusa/Codigo_camada_cliente.JPG)
 
 a. Crie um formulário sem fontes de dados, utilizando os componentes Moldura e Botão:
 
-![](../../imagens_manual/funcao_hipotenusa/Formul%C3%A1rio_camada_cliente.JPG)
+![Imagem do manual](../../imagens_manual/funcao_hipotenusa/Formul%C3%A1rio_camada_cliente.JPG)
 
 b.
 Crie o fluxo para associar ao formulário. Abra o Editor de Fluxos de Ações, adicione um ![image544.jpg](../../image544.jpg) e, no Montador de Expressão, localize a função Abrir Formulário numa moldura - Modo:
@@ -162,7 +162,7 @@ Para demonstração da criação de uma função na camada Servidor, será utili
 
 A aba geral, ficará da seguinte forma (veja mais informações seção 3.1 - Aba Geral):
 
-![](../../imagens_manual/funcao_hipotenusa/Geral_camada_servidor_preenchido.JPG)
+![Imagem do manual](../../imagens_manual/funcao_hipotenusa/Geral_camada_servidor_preenchido.JPG)
 
 Na aba **Servidor**, preencha o campo:
 
@@ -181,7 +181,7 @@ return VariantPool.get(result);
 
 A aba Servidor deverá ficar da seguinte forma:
 
-![](../../imagens_manual/funcao_hipotenusa/Codigo_camada_servidor.JPG)
+![Imagem do manual](../../imagens_manual/funcao_hipotenusa/Codigo_camada_servidor.JPG)
 
 ***OBS***: **Devido o Webrun apenas reconhecer variáveis do tipo Variant, torna-se necessário ter conhecimento dos métodos de acesso de cada tipo de dados. Segue a tabela abaixo*.*
 
@@ -195,33 +195,33 @@ A aba Servidor deverá ficar da seguinte forma:
 
 a. Crie um formulário com fontes de dados, utilizando os componentes **campo de texto(3)** e **botão(1)**:
 
-![](../../imagens_manual/funcao_hipotenusa/Formulario_hipotenusa.JPG)
+![Imagem do manual](../../imagens_manual/funcao_hipotenusa/Formulario_hipotenusa.JPG)
 
 - Primeiro Campo de texto = Irá receber o valor do cateto 1.
 - Segundo Campo de texto = Irá receber o valor do cateto 2.
 - Terceiro Campo de texto = Irá exibir o valor da hipotenusa.
 - Botão = Irá associar com o Fluxo.
 
-b. Crie o fluxo para associar ao formulário. Abra o Editor de Fluxos de Ações, adicione em ![](../../image218.gif) dois parâmetros de entrada do tipo Fracionado sendo eles, "cateto 1" e "cateto2" :
+b. Crie o fluxo para associar ao formulário. Abra o Editor de Fluxos de Ações, adicione em ![Imagem do manual](../../image218.gif) dois parâmetros de entrada do tipo Fracionado sendo eles, "cateto 1" e "cateto2" :
 
-![](../../imagens_manual/funcao_hipotenusa/Funcao_hipotenusa_entrada.JPG)
+![Imagem do manual](../../imagens_manual/funcao_hipotenusa/Funcao_hipotenusa_entrada.JPG)
 
 c. Adicione um ![image544.jpg](../../image544.jpg) e no Montador de Expressão, localize a função Hipotenusa atribuindo no primeiro parâmetro a variável - cateto 1, no segundo parâmetro - cateto 2 e a variável hipotenusa no ***Atribuir o resultado ao identificados***:
 
-![](../../imagens_manual/funcao_hipotenusa/Funcao_hipotenusa02.JPG)
+![Imagem do manual](../../imagens_manual/funcao_hipotenusa/Funcao_hipotenusa02.JPG)
 
 d. Adicione um ![image544.jpg](../../image544.jpg) e no Montador de Expressão, localize a função ***Alterar valor do componente*** atribuindo no primeiro parâmetro o formulário chamador da função, no segundo parâmetro o componente que será alterado e no terceiro parâmetro a variável hipotenusa:
 
-![](../../imagens_manual/funcao_hipotenusa/Funcao_hipotenusa_alterar_componente.JPG)
+![Imagem do manual](../../imagens_manual/funcao_hipotenusa/Funcao_hipotenusa_alterar_componente.JPG)
 
 O fluxo ficará da seguinte forma:
 
-![](../../imagens_manual/funcao_hipotenusa/Funcao_hipotenusa01.JPG)
+![Imagem do manual](../../imagens_manual/funcao_hipotenusa/Funcao_hipotenusa01.JPG)
 Observação: Salve o fluxo na camada Servidor.
 
 e. Após a criação do Formulário e do Fluxo, deve-se associar o Botão ao fluxo definido o parâmetro de entrada, conforme a imagem abaixo:
 
-![](../../imagens_manual/funcao_hipotenusa/Associar_evento_botao.JPG)
+![Imagem do manual](../../imagens_manual/funcao_hipotenusa/Associar_evento_botao.JPG)
 - Ao final do processo de criação da função, clique em ![image105.gif](../../image105.gif) para Salvar a função.
 - É necessário que, após a criação de novas funções no Maker, o Webrun seja reiniciado.
 

@@ -33,7 +33,7 @@ O componente possibilita a realização de uma consulta em diversos formulários
 
 **Tela de configurações do componente:**
 
-![](https://manual.softwell.com.br/assets/images/ConfiguracoesConsultaNumerado-81baf1cb740dcbbbc2b42fa1dd4ba4e4.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/ConfiguracoesConsultaNumerado-81baf1cb740dcbbbc2b42fa1dd4ba4e4.png)
 
 - **Identificação Nº 1:** Nome do campo que será exibido na Grade.
 - **Identificação Nº 2:** Lista de formulários do sistema que podem ser selecionados para pesquisa.

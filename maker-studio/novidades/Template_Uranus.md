@@ -10,17 +10,17 @@ Novo template "Uranus" do Maker 3.7
 ##
 
 - **Tela de login**
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/TelaLoguin.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/TelaLoguin.png)
 
 ##
 
 - **Tela principal do novo template**
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/TelaPrincipal.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/TelaPrincipal.png)
 
 ##
 
 - **Menu e Skin**
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/AbaDinamizada.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/AbaDinamizada.png)
 
 ##
 
@@ -28,8 +28,8 @@ Novo template "Uranus" do Maker 3.7
 
 ###
 
-- **Para visualizar as outras opções do menu, passe o mouse sobre o ícone ![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/botao.png)**
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/AbaAdicional.png)
+- **Para visualizar as outras opções do menu, passe o mouse sobre o ícone ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/botao.png)**
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/AbaAdicional.png)
 
 ##
 

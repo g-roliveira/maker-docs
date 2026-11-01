@@ -7,10 +7,10 @@ Esta tela tem por finalidade mostrar a lista dos projetos em exportação, ou j�
 
 Para acessar esta tela acesse no menu do Maker a opção Maker Mobile, e em seguida clique na opção Lista de Projetos em compilação:
 
-![](https://manual.softwell.com.br/assets/images/lista_exportacao_1-eb7eade6acb400bbad5d2ba78199d294.jpg)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/lista_exportacao_1-eb7eade6acb400bbad5d2ba78199d294.jpg)
 
 A seguinte tela será exibida:
 
-![](https://manual.softwell.com.br/assets/images/lista_projetos_2-d2ab46f55d26ef2679e1c88fe97d1ed7.jpg)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/lista_projetos_2-d2ab46f55d26ef2679e1c88fe97d1ed7.jpg)
 
 > **Nota**: As funcionalidades desta tela são discutidas na sessão [como exportar o aplicativo para dispositivos móveis](como_exportar).

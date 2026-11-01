@@ -11,8 +11,8 @@ as seguintes configurações estejam aplicadas.
 1.1. O parâmetro Bufferpool padrão e tamanho da página do espaço de
 tabelas deverá ser configurado com 32K.
 
-![](../../image1264.jpg)
+![Imagem do manual](../../image1264.jpg)
 
 2. Deverá ser dado permissões ao usuário que irá acessar pelo Maker.
 
-![](../../image1266.jpg)
+![Imagem do manual](../../image1266.jpg)

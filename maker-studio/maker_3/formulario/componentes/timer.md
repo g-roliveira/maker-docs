@@ -7,11 +7,11 @@ source_url: "https://suporte.softwell.com.br/Manual/MakerStudio/maker_3/formular
 
 O Componente Timer tem como funcionalidade marcar o tempo de execução de um sistema.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/timer.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/timer.png)
 
 ### As propriedades do componente Timer são:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/timer1.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/timer1.png)
 
 **Dica** – Campo destinado para descrição do componente.
 **PosicaoX e PosicaoY** – Definem o ponto de ancoragem do componente, se a opção deslizante não estiver habilitada.
@@ -31,7 +31,7 @@ O Componente Timer tem como funcionalidade marcar o tempo de execução de um si
 
 ### Eventos do Componente
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/timer4.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/timer4.png)
 
 **Ao Iniciar:** Este evento executará o fluxo informado ao iniciar do componente.
    **Ao Parar:** Este evento executará o fluxo informado ao parar do componente.
@@ -39,4 +39,4 @@ O Componente Timer tem como funcionalidade marcar o tempo de execução de um si
 
 ____________________________________________________________________________
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)

@@ -23,4 +23,4 @@ Criando um Fluxo - Este vídeo demonstra os passos para a criação de um fluxo 
 
 ____________________________________________________________________________
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)

@@ -7,7 +7,7 @@ source_url: "https://suporte.softwell.com.br/Manual/MakerStudio/maker_3/formular
 
 O ***componente Slider*** permite que o  usuário selecione um valor, e ao deslizar o botão este valor será modificado aonde ele desejar.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image3.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image3.png)
 
 Propriedades: Comuns de todos os componentes: Posição X; Posição Y; Altura; Tamanho; Visível; Habilitado; Nome; Código; Ordem
 
@@ -28,4 +28,4 @@ Ao utilizar as propriedades de imagem o webrun prioriza a do GUID.
 
 ____________________________________________________________________________
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)

@@ -15,7 +15,7 @@ Para que as instruções abaixo entre em vigor é necessário alterar a permiss�
 
 1. Criar no sistema a view "fr_sessao_vi", no menu (Utilitários), na opção Executor de Script SQL o seguinte script deve ser executado:
 
-   ![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/bancoview.png)
+   ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/bancoview.png)
 
    Script Executado:
 
@@ -33,7 +33,7 @@ Para que as instruções abaixo entre em vigor é necessário alterar a permiss�
 
 2. Criar no sistema a "trigger" que será disparada antes da inserção realizada pelo Webrun:
 
-   ![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/bancoview1.png)
+   ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/bancoview1.png)
 
    Script Executado:
 
@@ -50,7 +50,7 @@ Para que as instruções abaixo entre em vigor é necessário alterar a permiss�
 
 3. Alterar a tabela "fr_sessao" para que mesma tenha um valor "Default":
 
-   ![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/bancoview2.png)
+   ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/bancoview2.png)
 
    Script Executado:
 

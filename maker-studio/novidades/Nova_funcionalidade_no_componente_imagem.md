@@ -11,4 +11,4 @@ A propriedade Lente de Aumento possibilita o usuário fazer uma inspeção mais 
 
 Para configurar esta nova propriedade o desenvolvedor deve definir a altura e Largura do zoom em pixels.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/lente.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/lente.png)

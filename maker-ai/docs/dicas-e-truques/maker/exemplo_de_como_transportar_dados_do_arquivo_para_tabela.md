@@ -13,11 +13,11 @@ Para este exemplo, foi criada uma tabela Usuarios contendo os campos: Código e 
 
 Utilizando o Assistente de criação de formulários, defina o nome para o formulário e não defina Fonte de Dados:
 
-![](https://manual.softwell.com.br/assets/images/trans1-76fdc55545d29c57a1285bf84c8b0dc3.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/trans1-76fdc55545d29c57a1285bf84c8b0dc3.png)
 
 O formulário criado conterá um fluxo. Para facilitar o entendimento, o fluxo ficará da seguinte forma:
 
-![](https://manual.softwell.com.br/assets/images/trans2-e4441b86c10b53e42d3831ab44b23ce6.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/trans2-e4441b86c10b53e42d3831ab44b23ce6.png)
 
 Criando um Novo Fluxo, salve com o Destino Servidor. Defina os Identificadores:
 
@@ -45,7 +45,7 @@ Coloque um![image708.jpg](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJIAAAA1
 
 Na SQL ATUALIZAÇÃO, clique em ![image878.gif](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJYAAAAbCAIAAAARTeGzAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAL7SURBVGhD7ZdPSFRRFMYvYzYtWtWioKK2acKItDWHoIQWuTCiRbSR6d8updJNUGBFQZkU1aYgaJgQRkSzQooCjf5gi9moDWKZlkExOTnavDfvdMYrl9d5d56mdZ8P7uHH49zvfve9x/mYGYZNG9bXTE7jUzA+9iWT0/gaNj6V0/gaHaHvYZ9+mhpfoyP0PexD2vSKWEOAQAyahcCGJ01PiDeuMLPfAJIA3QC3AK4Z2XO3j68iNs28eBMhfuAADIAUQB/AXYCbs7Ra0/uvR4qJWeMOS/4w1YMRWsZpyByBTC1Yh8A6YxkXJ99Vv7xUjBESs4Axt7flu+4ed5xnUeElFbHsougV482D8xFm663RHdabNVb/FhiunRlpGGoPsXA7J7D1PkJOuY9p6UMkd5AmVMhDdJWwwZSpHmmEmNy62o5NpwZWH+wLlMbIEQ5Oat5+0ZCbSO9ZyPNPXmBxePNgZ4SYX8XRnmNd6d1XkkWlUeIX2Ccl7XmDV1FC52Vfki0srgjdvuQU8kjNamBPx3PqwQgTXeUiQsyvqv7ZjYTZ1P29qCwWKMl/i5IjHJyUe28XnUuhSP1SMy+7Inr7kugqYT1jpnowwvRENPFgY29LsOdCkP/+IQcu90dHLMyP+O3gsKRXjksvyr4lGtITpH770uXs/8abB+e/SI07kL4Hkw9hZgiyY09e9G4OtzR2fnbPD+HDcl45opeKop/XRnD6eePU1cMejxrqIb+FmYF95XvPhyKPML/qcBkxO8F5SXuxlIr2XijOLemykF+qK8abB5MIm84eXh9uDVZ0Vu2svFoXJGYn9nmR2fElXkUJXZSwSbfszKl/6nPSbElFLKErgHV9zKrHHuHbeNmGyuaVVW11kZrnzUX4156YlzOYFlHU49kbYIoTr0LG67Ulu07g5y9ysjER3eav/JYJrGPkl1dgYDV7QphfOLwde4QYNAuBxYdnPATzI4rmb/E4Qs3SYW3JaY2v0RH6HhZ7n9H4GpZMGdHBKY1PSaaM3yhqRrlQMhAPAAAAAElFTkSuQmCC). Abrirá a tela Construtor SQL: Inserção. Localize a tabela Usuarios:
 
-![](https://manual.softwell.com.br/assets/images/trans9-7ec80b7229d2d8e4f1719a5c1defe754.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/trans9-7ec80b7229d2d8e4f1719a5c1defe754.png)
 
 Na tela acima, observe que é necessário selecionar os campos. Abrirá a tela Montador de Expressão.
 

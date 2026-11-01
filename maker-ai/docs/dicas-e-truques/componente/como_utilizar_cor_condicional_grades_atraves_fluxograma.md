@@ -28,7 +28,7 @@ Mesmo que não utilize esses parâmetros, mantenha-os. Para apenas ilustrar o ex
 
 - Insira uma Decisão para comparar se a variável linha é par.
 
-![](https://manual.softwell.com.br/assets/images/imagens3-55f5b402e1d8c10a2d4ab74c4ad0cc7b.jpg)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/imagens3-55f5b402e1d8c10a2d4ab74c4ad0cc7b.jpg)
 
 - Insira um processamento para atribuir o valor "TRUE" a variável do tipo lógico "Retorno".
 

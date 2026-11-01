@@ -1,0 +1,14 @@
+config:
+  default: false
+  MD001: true
+  MD024:
+    siblings_only: true
+  MD040: true
+  MD042: true
+  MD045: true
+  MD051: true
+
+ignores:
+  - "node_modules/**"
+  - ".mintlify/**"
+  - ".git/**"

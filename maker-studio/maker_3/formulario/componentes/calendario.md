@@ -7,13 +7,13 @@ source_url: "https://suporte.softwell.com.br/Manual/MakerStudio/maker_3/formular
 
 O Componente Calendário tem como funcionalidade mostrar um calendário no formulário.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/timer2.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/timer2.png)
 
 Imagem 1
 
 As propriedades do componente Calendário são:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/timer3.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/timer3.png)
 
 Imagem 2
 
@@ -37,4 +37,4 @@ Imagem 2
 
 ____________________________________________________________________________
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)

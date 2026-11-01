@@ -7,6 +7,6 @@ Com a versão 3.9.1, o Maker traz novas funções para Manipulação de JSON. O 
 
 Confira o exemplo abaixo
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/exemplo_json.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/exemplo_json.png)
 
 O JSON é hoje largamente em Webservices REST por ser facilmente entendido entre as linguagens.

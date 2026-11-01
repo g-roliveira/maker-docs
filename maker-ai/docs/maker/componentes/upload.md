@@ -9,15 +9,15 @@ Após clicar em Upload, o componente transferirá os arquivos para o servidor. A
 
 Por padrão os arquivos serão armazenados na pasta *Upload* do contexto da aplicação.
 
-![](https://manual.softwell.com.br/assets/images/componente_upload-6592ef83ea7a0e07ecc883d4658dc1e3.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/componente_upload-6592ef83ea7a0e07ecc883d4658dc1e3.png)
 
 *Imagem 1 - Interface do componente carregado no Webrun.*
 
-![](https://manual.softwell.com.br/assets/images/componente_upload_2-02c318a60d3a30994573cd90ee80113f.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/componente_upload_2-02c318a60d3a30994573cd90ee80113f.png)
 
 *Imagem 2 - Interface do componente com dados para upload.*
 
-![](https://manual.softwell.com.br/assets/images/componente_upload_3-f483bda7fd4efbc088336792a8383840.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/componente_upload_3-f483bda7fd4efbc088336792a8383840.png)
 
 *Imagem 3 - Interface do componente após envio de arquivos.*
 

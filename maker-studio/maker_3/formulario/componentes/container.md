@@ -23,4 +23,4 @@ Para associar um ou mais componentes ao Container, basta ir até o inspetor de p
 
 ____________________________________________________________________________
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)

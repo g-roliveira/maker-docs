@@ -16,7 +16,7 @@ concatenado.
 2. Valor a ser
 concatenado com o primeiro.
 
-![](../../../../../image1232.gif)
+![Imagem do manual](../../../../../image1232.gif)
 
 Retorno:
 

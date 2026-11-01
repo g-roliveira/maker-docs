@@ -16,15 +16,15 @@ Após realizar o processo supracitado é necessário realizar a configuração d
 
 1. Informe a porta em que o serviço de impressão irá escutar e clique em Avançar. Por padrão, a porta definida é 9001 conforme ilustrado abaixo:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/IMPPorta.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/IMPPorta.png)
 
 2. Informe o caminho da instalação do servidor de impressão e clique em Avançar.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/IMPCaminhoInstalacao.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/IMPCaminhoInstalacao.png)
 
 3. Clique em instalar e aguarde o término da instalação.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/IMPFinalInstall.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/IMPFinalInstall.png)
 
 Após a instalação, o serviço "Softwell Serviço de Impressão" será adicionado nos Serviços do Windows.
 
@@ -32,15 +32,15 @@ Após a instalação, o serviço "Softwell Serviço de Impressão" será adicion
 
 Criar um novo grupo denominado **Impressao**
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/Config1.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/Config1.png)
 
 Criar um novo parâmetro para o grupo criado: **Porta** e definir a mesma porta informada na instalação do serviço de impressão.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/Config2.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/Config2.png)
 
 Clicar em Salvar.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/Config3.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/Config3.png)
 
 Observação: È de **extrema importância** a configuração da porta no WebrunStudio para perfeito funcionamento
 do serviço de impressão.

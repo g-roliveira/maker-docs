@@ -25,4 +25,4 @@ As opções de alinhamento da imagem acima, possuem as seguintes funções:
 
 ____________________________________________________________________________
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)

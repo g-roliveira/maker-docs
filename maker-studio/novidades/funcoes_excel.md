@@ -22,45 +22,45 @@ As novas funcionalidades de manipulação de arquivos Office Excel visa facilita
 
 Para criar um novo arquivo Excel é necessário apenas informar o local onde o arquivo será salvo e o nome do arquivo com a extensão (.xlsx preferencialmente).
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/CriarArquivoExcel.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/CriarArquivoExcel.png)
 
 Para abrir um arquivo Excel é necessário informar o endereço do arquivo e o nome do arquivo com a extensão. Essa função irá retornar a referência do arquivo, que é necessaria para manipular e salvar o documento.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/AbrirArquivoExcel.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/AbrirArquivoExcel.png)
 
 Para preencher o arquivo Excel com os dados passados através de uma lista de listas, é necessário informar a referência do arquivo que se deseja alterar.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/PreencherArquivoExcel.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/PreencherArquivoExcel.png)
 
 Realiza a leitura do arquivo Excel retornando os dados como uma lista de listas. É necessário informar a referência do arquivo.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/LerDadosExcel.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/LerDadosExcel.png)
 
 Para editar os dados de um registro da planilha Excel. É necessário informar a referência do arquivo Excel, os novos dados que serão inseridos e o número da linha que será atualizada.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/AtualizarLinhaExcel.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/AtualizarLinhaExcel.png)
 
 Para deletar uma linha do arquivo Excel. É necessário informar a referência do arquivo e a linha que se deseja exclui. Se o último parâmetro não for informado, o conteúdo da linha será deletado e a linha ficará em branco.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/DeletarLinhaExcel.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/DeletarLinhaExcel.png)
 
 Para salvar as alterações realizadas no arquivo Excel após as operações de Atualizar Linha do Arquivo, Deletar Linha do Arquivo e Preencher Arquivo é necessário utilizar a função Excel - Salvar Arquivo. É necessário informar a referência do arquivo Excel.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/SalvarArquivoExcel.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/SalvarArquivoExcel.png)
 
 Para realizar a inserção de uma nova folha no arquivo excel desejado, basta utilizar a função  Excel - Criar Nova Folha  e informar como parâmetro o local do arquivo e o nome da nova folha.
 
 Planilha antes de utilizar a função:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/excelfolha1.PNG)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/excelfolha1.PNG)
 
 Utilizando a função:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/excelnovafolha.PNG)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/excelnovafolha.PNG)
 
 Resultado:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/excelfolha2.PNG)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/excelfolha2.PNG)
 
 # Vídeo Demonstração Maker Studio do Sistema de Exemplo Excel
 

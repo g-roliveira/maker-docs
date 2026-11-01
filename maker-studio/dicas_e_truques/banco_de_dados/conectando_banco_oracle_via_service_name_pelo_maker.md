@@ -14,27 +14,27 @@ Nota: Por segurança, realize um backup deste arquivo antes de ser feita qualque
 2. Abra este arquivo com bloco de notas (preferencialmente com bloco de notas para programadores, tipo Notepad++, Cnote e etc.);
 3. Procure o subgrupo [Oracle by Core Lab]. Selecione todo o conteúdo do subgrupo e copie-o (ctrl+c).
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image1686.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image1686.jpg)
 
 4. Procure agora o subgrupo [Oracle] e cole (ctrl+v) dentro deste subgrupo, substituindo o conteúdo pelo que foi copiado anteriormente;
 
 Antes:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image1688.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image1688.jpg)
 
 Depois:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image1689.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image1689.jpg)
 
 Após substituir o conteúdo do item anterior, copie (ctrl+c) as três primeiras linhas deste mesmo subgrupo, [Oracle], e substitua (ctrl+v) as três primeiras linhas do subgrupo anterior a este, [Oracle-FIX],
 
 Antes:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image1690.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image1690.jpg)
 
 Depois:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image1691.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image1691.jpg)
 
 Observação: É necessário replicar as configurações no arquivo ***"driver.ini"*** para o Gerador de Relatórios (ReportController) e/ou Servidor de Relatórios (ReportServer).
 
@@ -42,11 +42,11 @@ Observação: É necessário replicar as configurações no arquivo ***"driver.i
 
 Arquivo tnsnames.ora:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/tnsnames.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/tnsnames.jpg)
 
 Novo Projeto Maker:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/sql12.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/sql12.png)
 
 Importante: As configurações do banco de dados, bem como as configurações dos arquivos tnsnames.ora, listener.ora e sqlnet.ora, são de responsabilidades do cliente, onde este tutorial só irá funcionar se o banco estiver configurado corretamente.
 
@@ -54,17 +54,17 @@ Importante: As configurações do banco de dados, bem como as configurações do
 
 1. No diretório onde o Webrun está instalado localize o arquivo databases.xml que encontra-se dentro da pasta config(C:\...\Softwell Solutions\Maker\Webrun 3\config);
 
-   ![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/sql13.png)
+   ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/sql13.png)
 
    Abra este arquivo com um editor de texto e procure pelo grupo Oracle e altere a ***URL*** de conexão com banco de dados:
 
    **Antes**:
 
-   ![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/oracle.jpg)
+   ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/oracle.jpg)
 
    **Depois**:
 
-   ![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/oracle_depois.jpg)
+   ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/oracle_depois.jpg)
 
    Salve o arquivo e feche-o em seguida e reinicie o serviço do Webrun.
 
@@ -76,7 +76,7 @@ Observações: Em sistemas publicados certifique-se de está alterando os arquiv
 
 1. Por padrão o driver JDBC Oracle utilizado pelo Webrun é o "ojdbc5.jar", como nem todos os bancos de dados Oracle utilizam esse driver, problemas de incompatibilidade de drivers JDBC entre o Servidor Oracle e o Webrun, podem ocorrer ao iniciar a aplicação. Veja na imagem abaixo um erro desse tipo:
 
-   ![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/erro.png)
+   ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/erro.png)
 
 2. Quando acontece esse tipo de erro, é necessário sincronizar o driver JDBC do servidor Oracle com o do Webrun, para isso, execute os seguintes passos:
 

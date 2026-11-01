@@ -5,11 +5,11 @@ source_url: "https://suporte.softwell.com.br/Manual/MakerStudio/maker_3/formular
 
 Componente desenvolvido para exercer funções predefinidas, sem a necessidade de criação de regras.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/comp3.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/comp3.jpg)
 
 Propriedades do componente
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/comp4.jpg) ![propriedadenova.png](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/propriedadenova.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/comp4.jpg) ![propriedadenova.png](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/propriedadenova.png)
 
 Segue abaixo algumas propriedades específicas do componente **Ação**:
 
@@ -51,4 +51,4 @@ Segue abaixo algumas propriedades específicas do componente **Ação**:
 
 ____________________________________________________________________________
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)

@@ -9,4 +9,4 @@ No Maker 3.9 é possível escrever o CSS algum componente através da Propriedad
 
 **Obs.:** Esta propriedade aplica apenas no componente que ela foi inserida, para utilizar o mesmo CSS em vários componentes dentro de um formulário deverá se usar a propriedade ClasseCSS do formulário.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/PropriedadeEstiloCSS.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/PropriedadeEstiloCSS.png)

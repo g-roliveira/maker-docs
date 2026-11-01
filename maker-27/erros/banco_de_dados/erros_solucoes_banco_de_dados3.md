@@ -55,9 +55,9 @@ A Softwell Solutions busca através deste guia, apresentar ao usuário uma lista
 
   No projeto selecionado, abra o menu Utilitários, selecione a opção Executor de Scripts SQL... e insira o script abaixo:
 
-  ![](script_doc_9_0/script_1.jpg)
+  ![Imagem do manual](script_doc_9_0/script_1.jpg)
 
-  ![](script_doc_9_0/script_2.jpg)
+  ![Imagem do manual](script_doc_9_0/script_2.jpg)
 
   Script:
 

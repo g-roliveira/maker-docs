@@ -11,11 +11,11 @@ Configurando um sistema para sincronização.
 
 Após a instalação do **Maker Mobile Manager**, acesse o Webrun e na lista de sistemas selecione *Maker Mobile Manager.*
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/manager1.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/manager1.jpg)
 
 Dentro do sistema acesse o menu *Sincronizador* e selecione *Cadastro de Sistemas*:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/manager2jpg.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/manager2jpg.jpg)
 
 Nesta tela serão cadastradas algumas informações sobre o sistema que terá os dados sincronizados, são elas:
 
@@ -24,7 +24,7 @@ Nesta tela serão cadastradas algumas informações sobre o sistema que terá os
 - **Descrição:** Descrição do sistema;
 - **Usuário(s) do sistema:** Usuário do Maker Mobile Manager que terá acesso ao sistema que será sincronizado.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/manager3.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/manager3.jpg)
 
 Primeiro será cadastrado o nome, a sigla e a descrição do sistema. Para isso clique no botão **Incluir** na barra de navegação do formulário e preencha os campos necessários.
 
@@ -36,11 +36,11 @@ Gerando scripts para sincronismo
 
 Depois de cadastrado o sistema no *Maker Mobile Manager* volte para o Maker. Abra o menu *Exportar para plataforma*. Antes de clicar no botão Exportar, o campo **URL Servidor (Servidor de Sincronização)** deve ser preenchido com o endereço de onde está a base do manager.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/manager4.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/manager4.jpg)
 
 Preenchido o campo URL exporte a aplicação. Ao terminar a exportação selecione o projeto na grade da tela Lista de Compilação e clique no botão **Sincronizador**.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/manager5.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/manager5.jpg)
 
 > Ao clicar neste botão será exibido uma tela de download de um arquivo *.sql com o script de criação das tabelas. Este deverá ser salvo para ser carregado posteriormente no manager.
 
@@ -48,19 +48,19 @@ Preenchido o campo URL exporte a aplicação. Ao terminar a exportação selecio
 
 Após ter efetuado por completo o cadastro do sistema no Manager e ter efetuado o download do arquivo de sincronização, acesse o menu *Sincronizador* e selecione *Painel de configuração*:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/manager6.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/manager6.jpg)
 
 Nessa tela selecione na lista *Sistema* o sistema que terá as tabelas sincronizadas. Depois clique no botão abaixo da lista *Carregar arquivo de configuração das tabelas*. Note que após carregar o arquivo de sincronização aparecerá na grade abaixo as tabelas da aplicação exportada.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/manager7.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/manager7.jpg)
 
 Existem dois campos check nesta grade, *Remover e Criar*. Os mesmos servem para remover ou criar as tabelas na base do Manager. Selecione as tabelas que deseja sincronizar com a aplicação móvel e clique no botão **Executar tarefas das tabelas selecionadas** para criar as tabelas desejadas.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/manager8.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/manager8.jpg)
 
 Após executar a tarefa a coluna *Existe* ficará marcada, informando que as tabelas foram criadas na base do Manager.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/manager9.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/manager9.jpg)
 
 **Lógica do Sincronizador**
 
@@ -73,7 +73,7 @@ Como o Maker Mobile Manager possui gatilhos para registrar a última sincroniiza
 Uma opção para atualização dessas tabelas (IN e OUT) é a utilização do próprio Manager, pois o mesmo já oferece uma maneira de manipular essas tabelas.
 Na tela Painel de configuração ao lado direito existe um subgrupo *Importação / Exportação*.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/manager10.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/manager10.jpg)
 
 Dentro deste subgrupo existem quatro botões:
 

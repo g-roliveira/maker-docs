@@ -13,7 +13,7 @@ O componente possibilita a realização de uma consulta em diversos formulários
 
 O componente Consulta possui as seguintes propriedades:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/PropriedadesConsulta.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/PropriedadesConsulta.png)
 
 Além das propriedades padrões, o Componente conta com as seguintes propriedades.
 
@@ -25,7 +25,7 @@ Define o título que será exibido no componente.
 
 Habilita a pesquisa individuais das colunas.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/ConsultaWebrunPesquisa.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/ConsultaWebrunPesquisa.png)
 
 Com apenas um duplo clique no resultado, o formulário referente será aberto filtrado no registro selecionado.
 
@@ -35,7 +35,7 @@ Nesta propriedade serão informados os formulários e campos que estarão dispon
 
 Tela de configurações do componente:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/ConfiguracoesConsultaNumerado.png)- **Identificação Nº 1:** Nome do campo que será exibido na Grade.
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/ConfiguracoesConsultaNumerado.png)- **Identificação Nº 1:** Nome do campo que será exibido na Grade.
 - **Identificação Nº 2:** Lista de formulários do sistema que podem ser selecionados para pesquisa.
 - **Identificação Nº 3:** Lista de campos disponíveis do formulário selecionado.
 - **Identificação Nº 4:** Lista de campos cadastrados na grade de Campos(Identificação 1).
@@ -46,8 +46,8 @@ Tela de configurações do componente:
 
 Tela de configurações do componente preenchida:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/ConfiguracoesConsultaPreenchido.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/ConfiguracoesConsultaPreenchido.png)
 
 ________________________________________________________________________________________
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)

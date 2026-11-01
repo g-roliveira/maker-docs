@@ -13,7 +13,7 @@ O componente MultiSelect permite selecionar múltiplas opções dentro de um Com
 
 O componente MultiSelect possui as seguintes propriedades:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/MultiSelectPropriedades.PNG)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/MultiSelectPropriedades.PNG)
 
 - **- Propriedade Lista:**
 
@@ -33,7 +33,7 @@ O componente MultiSelect possui as seguintes propriedades:
 
 O componente MultiSelect possui os seguintes eventos:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/MultiSelectEventos.PNG)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/MultiSelectEventos.PNG)
 
 **- Ao Selecionar:** Este evento executará o fluxo informado quando uma opção for selecionada.
 **- Ao Remover:** Este evento executará o fluxo informado quando uma opção for removida.
@@ -42,4 +42,4 @@ Ambos eventos possuem parâmetro automático. A função associada ao fluxo rece
 
 ________________________________________________________________________________________
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)

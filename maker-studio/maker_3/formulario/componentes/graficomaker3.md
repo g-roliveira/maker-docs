@@ -9,11 +9,11 @@ source_url: "https://suporte.softwell.com.br/Manual/MakerStudio/maker_3/formular
 
 O componente Gráfico (GoogleCharts) tem como funcionalidade a construção de um gráfico baseado em uma consulta SQL ou através de fluxo.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/icongrafico.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/icongrafico.png)
 
 Propriedades
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/GraficoProprieadades.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/GraficoProprieadades.png)
 
 - Dica
 
@@ -67,7 +67,7 @@ Posição em que a legenda do componente será exibida (A Legenda na posição e
 
 Interface com suporte a múltiplas séries.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/GraficoInterface.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/GraficoInterface.png)
 
 Nesta tela contém os seguintes campos:
 
@@ -117,8 +117,8 @@ Caso o gráfico seja do tipo "Gantt" (serão passados 3 parâmetros automáticos
 
 Evento para definir os dados para do gráfico (o mesmo terá prioridade sobre a consulta). O fluxo associado a este evento deverá retornar uma lista com dois parâmetros, o primeiro parâmetro uma lista com os cabeçalhos e os segundo parâmetro uma lista contendo uma lista com os respetivos dados (eixo X e Y).[![Download do Exemplo](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/icon_download.png)](http://download.softwell.com.br/suporte/exemplos/frz/Grafico_Exemplo_Ao_Iniciar.FRZ)
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/GraficoAoIniciar.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/GraficoAoIniciar.png)
 
 ____________________________________________________________________________
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)

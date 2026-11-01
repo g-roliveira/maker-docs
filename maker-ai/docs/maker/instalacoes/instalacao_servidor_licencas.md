@@ -78,7 +78,7 @@ Este utilitário é de simples manuseio. Siga os passos abaixo:
 1. Copie o executável para a pasta do Maker. (Caso não exista);
 2. Digite o endereço IP do Servidor no campo apropriado.
 
-![](https://manual.softwell.com.br/assets/images/image1715-bc52138f235fd3da6d6b888ed7fe5df1.jpg)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/image1715-bc52138f235fd3da6d6b888ed7fe5df1.jpg)
 
 3. Clique sobre aplicar.
 

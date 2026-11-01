@@ -7,7 +7,7 @@ Este recurso é usado para a internacionalização (tradução) de todas as expr
 
 A tela Tabela de Tradução é acionada pelo botão Tradutor do menu Utilitários.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image46.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image46.jpg)
 
 A tela possui as seguintes opções:
 

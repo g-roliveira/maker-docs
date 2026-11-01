@@ -13,7 +13,7 @@ Parâmetros:
 
 2. Valor.
 
-![](../../../../../image1239.gif)
+![Imagem do manual](../../../../../image1239.gif)
 
 Retorno:
 

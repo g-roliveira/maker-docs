@@ -10,4 +10,4 @@ certa quantidade de parâmetro, a identificação visual da posição facilitar�
 
 Para perceber a nova funcionalidade, abra o editor de fluxo utilizando o atalho F7;
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/numer.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/numer.png)

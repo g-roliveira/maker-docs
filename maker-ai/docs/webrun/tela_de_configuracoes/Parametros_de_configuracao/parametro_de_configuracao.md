@@ -20,7 +20,7 @@ Para acessar e editar as configurações, siga os passos:
 
 5. Após, observe que os parâmetros de configurações estão agrupadas em uma lista e, ao clicar no link, os parâmetros correspondentes são exibidos. Esses grupos exibidos abaixo são padrão quando o Webrun está instalado:
 
-![](https://manual.softwell.com.br/assets/images/parametro_de_configuracao4-22057bc0f9e3a8b06da692cd46d5301a.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/parametro_de_configuracao4-22057bc0f9e3a8b06da692cd46d5301a.png)
 
 Na tela Parâmetros de Configuração existe a possibilidade de criar novas informações, segue os componentes em presentes:
 

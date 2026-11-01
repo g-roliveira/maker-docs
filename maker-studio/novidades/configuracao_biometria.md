@@ -22,15 +22,15 @@ Após realizar o processo supracitado é necessário realizar a configuração d
 
 1. Informe a porta em que o serviço de digital irá escutar e clique em Avançar. Por padrão, a porta definida é 9000 conforme ilustrado abaixo:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/BIOPorta.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/BIOPorta.png)
 
 2. Informe o caminho da instalação do servidor de digital e clique em Avançar.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/BIOCaminhoinstalacao.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/BIOCaminhoinstalacao.png)
 
 3. Clique em instalar e aguarde o término da instalação.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/finalInstall.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/finalInstall.png)
 
 4. Após a instalação, o serviço "Softwell Serviço de Digital" será adicionado nos Serviços do Windows.
 5. Agora é necessário realizar as configurações no WebrunStudio, para tal vamos abrir a tela de configurações [**(clique aqui para saber mais)**](../webrun_3/tela_configuracoes) e criar os seguintes parâmetros:
@@ -39,7 +39,7 @@ Criar um novo grupo denominado **ServicoDigital**
 
 Criar um novo parâmetro para o grupo criado: **Porta** e definir a mesma porta da instalação do serviço de digital.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/BIOConfigmanager.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/BIOConfigmanager.png)
 
 [Veja o exemplo: Realizando login por leitura biométrica](biometria)
 

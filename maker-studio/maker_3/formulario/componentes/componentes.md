@@ -44,4 +44,4 @@ Observação: Não devem ser utilizados caracteres que não fazem parte do Chars
 
 ____________________________________________________________________________
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)

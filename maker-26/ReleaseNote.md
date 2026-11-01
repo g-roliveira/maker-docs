@@ -60,7 +60,7 @@ O novo Depurador tem como função detectar erros na construção
 de um fluxograma, rastreando todos os objetos (processamentos, decisões,
 subfluxos e interações) presentes na regra executada.
 
-![](image1434.jpg)
+![Imagem do manual](image1434.jpg)
 
 ## Profiler
 
@@ -69,7 +69,7 @@ regras associadas a um sistema, que foram configuradas para serem executadas
 na camada Servidor. Ele identifica possíveis gargalos e evita
 que o produto final chegue até ao cliente com pouco desempenho.
 
-![](image1451.jpg)
+![Imagem do manual](image1451.jpg)
 
 ## Novas Funções
 
@@ -117,7 +117,7 @@ Ao remover um componente da tela, caso o mesmo esteja ligado a um campo
 do banco de dados, será aberto o Assistente de Criação de Tabelas, perguntando
 se deseja remover este campo da tabela.
 
-![](image1422.jpg)
+![Imagem do manual](image1422.jpg)
 
 As colunas presentes nesta tela são:
 
@@ -144,7 +144,7 @@ Pode ser selecionado onde será guardado o cache dos metadados na opção
 Para reinicializar o cache, tecle F5. Sempre que o Maker for fechado,
 o cache será removido.
 
-![](image1423.jpg)
+![Imagem do manual](image1423.jpg)
 
 ## Otimização do processo de gravação nos formulários
 
@@ -155,7 +155,7 @@ O processo de salvar os formulários se tornou visivelmente mais rápido
 Link direto para as principais comunidades Maker na Web. É acessada
 através do menu "Ajuda".
 
-![](image1424.jpg)
+![Imagem do manual](image1424.jpg)
 
 ## Melhorias na interface do editor de fluxos
 
@@ -168,7 +168,7 @@ Busca mais inteligente na lista de fluxo e funções, agora a descrição
 o tamanho ao gosto do usuário, permitindo também anexar a janela de Propriedades
 no Montador de Expressão através do botão "Anexar Janela/Janela Flutuante".
 
-![](image1425.jpg)
+![Imagem do manual](image1425.jpg)
 
 ## Melhoria dos componentes SUBFLUXO e INTERAÇÃO para permitir uma rápida definição dos parâmetros
 
@@ -180,19 +180,19 @@ um valor fracionado ele será automaticamente do tipo Fracionado. Um ícone
 indica o tipo do valor digitado. Para passagens de parâmetros personalizadas,
 há a opção de abrir o Montador de Expressão.
 
-![](image1426.jpg)
+![Imagem do manual](image1426.jpg)
 
 ## Identificação visual do SIM/NÃO da decisão, independente da descrição
 
 Há uma identificação para cada saída de uma decisão, a saída SIM possui
 cor verde e a saída NÃO possui cor vermelha
 
-![](image1449.jpg)
+![Imagem do manual](image1449.jpg)
 
 **Figura:
 Sim**
 
-![](image1450.jpg)
+![Imagem do manual](image1450.jpg)
 
 **Figura:
 Não**
@@ -203,7 +203,7 @@ Na tela de configurações há esta nova opção que permite uma melhor performa
 na leitura dos dados do banco, no entanto, as chaves primárias e os tipos
 dos campos não são destacadas nos resultados das consultas.
 
-![](image1427.jpg)
+![Imagem do manual](image1427.jpg)
 
 ## Facilidade de associação de um fluxograma a um evento
 
@@ -211,7 +211,7 @@ dos campos não são destacadas nos resultados das consultas.
 ou ao próprio formulário, serão listados os eventos disponíveis pelo objeto
 para a associação do fluxograma.
 
-![](image1428.jpg)
+![Imagem do manual](image1428.jpg)
 
 ## Ícone de acesso rápido a um fluxo associado a um evento
 
@@ -220,7 +220,7 @@ Caso não haja nenhum fluxo associado ao evento desejado, ao clicar neste
 botão o Editor de Fluxos e Ações será aberto, ao salvar este fluxo ele
 será associado ao evento selecionado anteriormente.
 
-![](image1429.jpg)
+![Imagem do manual](image1429.jpg)
 
 ## Atualização de biblioteca para consumo de Webservices padrão SOAP 1.2
 

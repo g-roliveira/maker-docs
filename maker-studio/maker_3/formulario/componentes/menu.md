@@ -9,21 +9,21 @@ Um dos componentes mais aperfeiçoados pelos designers no desenvolvimento web, �
 
 No Maker 3, crie um formulário, coloque o nome que desejar nesse exemplo se chamará: "Utilizando o componente Menu", defina a propriedade Navegação = Não.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/formulario.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/formulario.png)
 
 Ao abrir o fomulário irá a aparecer a paleta de componentes no canto direito do Maker e selecione o componente Menu.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/botao_direito_Menu.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/botao_direito_Menu.png)
 
 Após selecionar o componente, redimensione-o para o tamanho que desejar. É de extrema importância que o desenvolvedor conheça as propriedades desse componente para garantir um perfeito funcionamento do mesmo. Entre as propriedades do componente possuímos algumas especificas que são:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/propriedades_menu.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/propriedades_menu.png)
 
-Estrutura do Menu: Essa propriedade fica responsável por determinar a estrutura do componente Menu. Ao acessarmos essa propriedade será aberto um formulário onde torna-se possível criar a estrutura e visualizá-la previamente através do botão "Preview". Para a criação da estrutura pode-se utilizar menu, formulário, relatório, fluxo ou ações pré-definidas.Na mesma existem 2 botões ![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/menuicon1.png) ![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/menuicon2.png) que contraem e exibem os itens estruturados no menu.
+Estrutura do Menu: Essa propriedade fica responsável por determinar a estrutura do componente Menu. Ao acessarmos essa propriedade será aberto um formulário onde torna-se possível criar a estrutura e visualizá-la previamente através do botão "Preview". Para a criação da estrutura pode-se utilizar menu, formulário, relatório, fluxo ou ações pré-definidas.Na mesma existem 2 botões ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/menuicon1.png) ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/menuicon2.png) que contraem e exibem os itens estruturados no menu.
 
  É importante observar que a estrutura do Menu utiliza um processo de compressão para otimização do conteúdo gerado (XML). Desta forma, os fluxos associados a um ou mais itens do Menu não são reconhecidos como dependência do componente em questão.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/montar%20menu.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/montar%20menu.png)
 
 Menu Legado: Está propriedade define se o componente Menu utilizará a estrutura definida na propriedade anterior ou se utilizará o menu legado da versão 2.7; Esta propriedade se configurada como "Sim" terá prioridade sobre a propriedade "Estrutura do Menu" terá a estrutura do menu do projeto ou não. Se definirmos o valor Sim para essa propriedade, a estrutura do componente será a mesma do menu criado no Maker para aquele projeto.
 
@@ -35,12 +35,12 @@ No menu propriedades do componente, abra a propriedade Estrutura do Menu. No for
 Nota: Clique com o botão direito sobre a árvore do menu para mais opções.
 Clique em OK para salvar as alterações.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/estrutura_menu.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/estrutura_menu.png)
 
 Ao final dos procedimentos mencionados nesse exemplo o formulário ficará como a figura a seguir:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/form_com_menu.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/form_com_menu.png)
 
 ____________________________________________________________________________
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)

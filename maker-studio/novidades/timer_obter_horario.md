@@ -5,23 +5,23 @@ source_url: "https://suporte.softwell.com.br/Manual/MakerStudio/novidades/timer_
 
 A função "Timer - Obter Horário" como o proprio nome já diz, tem a funcionalidade de obter o horário do componente timer.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/hora1.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/hora1.png)
 
 No primeiro parâmetro deve ser passado o componente timer que está no formulário de trabalho selecionado no inicio do fluxo.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/hora2.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/hora2.png)
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/hora3.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/hora3.png)
 
 No segundo parâmetro deve ser passado o formato do tempo que será obtido do componente timer, que é opcional.
 
 Deverá ser criada uma variavel do tipo variante para receber o retorno da função "Timer - Obter Horário".
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/hora4.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/hora4.png)
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/hora5.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/hora5.png)
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/time10.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/time10.png)
 
 Essa função é compativel com todas as camadas.
 

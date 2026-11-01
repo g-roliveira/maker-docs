@@ -5,7 +5,7 @@ source_url: "https://manual.softwell.com.br/docs/maker/componentes/slider_panel"
 
 Componente desenvolvido a finalidade de exibir imagens fazendo a transição dinamicamente.
 
-![](https://manual.softwell.com.br/assets/images/sliderpanel_com_imagem-f9f8f0d732a092dde99cc034ef81d1f0.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/sliderpanel_com_imagem-f9f8f0d732a092dde99cc034ef81d1f0.png)
 
 **Propriedades em comum:**
 
@@ -37,6 +37,6 @@ Componente desenvolvido a finalidade de exibir imagens fazendo a transição din
 
 > Exemplo da tela de Lista de Imagens:
 
-![](https://manual.softwell.com.br/assets/images/sliderpanel_com_imagem2-391c5bb61bc605acc28d809e16da9e5d.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/sliderpanel_com_imagem2-391c5bb61bc605acc28d809e16da9e5d.png)
 
 - [Propriedades e Eventos em comum aos Objetos](../propriedades_e_eventos_comum)

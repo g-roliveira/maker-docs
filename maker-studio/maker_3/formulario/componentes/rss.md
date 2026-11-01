@@ -7,12 +7,12 @@ source_url: "https://suporte.softwell.com.br/Manual/MakerStudio/maker_3/formular
 
 O componente RSS tem como finalidade permitir o carregamento de Feeds de sites que atualizam o seu conteúdo regularmente, desta forma o usuário pode permanecer informado de diversas atualizações sem a necessidade de visitar os sites.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/icones10.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/icones10.jpg)
 Imagem 1 - Imagem do componente RSS
 
 **Propriedades do componentes**
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/propriedades_rss.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/propriedades_rss.png)
 **Descrição das principais propriedade:**
 
 - **URL** - Essa propriedade receberá a URL que contém o**RSS** do site informado. Ex: http://globoesporte.globo.com/servico/semantica/editorias/plantao/futebol/times/bahia/feed.rss
@@ -27,8 +27,8 @@ Imagem 1 - Imagem do componente RSS
 
 **Apresentação do Componente no Webrun:**
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/rss.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/rss.png)
 
 ____________________________________________________________________________
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)

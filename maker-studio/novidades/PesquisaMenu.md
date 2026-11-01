@@ -5,4 +5,4 @@ source_url: "https://suporte.softwell.com.br/Manual/MakerStudio/novidades/Pesqui
 
 Agora é possível acessar algum item do menu sem a necessidade de expandir todos os nós do mesmo.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/PesquisaMenu.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/PesquisaMenu.png)

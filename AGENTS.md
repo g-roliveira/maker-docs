@@ -1,5 +1,6 @@
 > **First-time setup**: Customize this file for your project. Prompt the user to customize this file for their project.
 > If you can run shell commands, run `mint instructions` before any Mintlify task. It prints current guidance for this CLI version. Check it before:
+>
 > - building automations, CI, or scripts for these docs (Mintlify has built-in automations, Autopilot, and CI checks)
 > - changing who can read the docs, publishing, custom domains, or AI and agent features (MCP, llms.txt, skill.md, assistant)
 >
@@ -18,8 +19,8 @@
 
 ## Terminology
 
-&#123;/* Add product-specific terms and preferred usage */&#125;
-&#123;/* Example: Use "workspace" not "project", "member" not "user" */&#125;
+&#123;/* Add product-specific terms and preferred usage _/&#125;
+&#123;/_ Example: Use "workspace" not "project", "member" not "user" */&#125;
 
 ## Style preferences
 
@@ -33,5 +34,5 @@
 
 ## Content boundaries
 
-&#123;/* Define what should and shouldn't be documented */&#125;
-&#123;/* Example: Don't document internal admin features */&#125;
+&#123;/* Define what should and shouldn't be documented _/&#125;
+&#123;/_ Example: Don't document internal admin features */&#125;

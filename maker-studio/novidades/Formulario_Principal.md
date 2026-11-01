@@ -7,9 +7,9 @@ Esta implementação possibilita aos usuários a criação de atalhos no formul�
 
 - **Abra o formulário principal.**
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/TPrin.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/TPrin.png)
 
 - **Clique sobre o item do menu e arraste para área principal do formulário.**
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/atalho.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/atalho.png)
 
 - **Assista o vídeo!**

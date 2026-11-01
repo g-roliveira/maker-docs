@@ -10,4 +10,4 @@ Dentro deste grupo adicione dois parâmetros:
 1. Primeiro irá ser o Nome.
 2. Segundo irá ser o Valor.
 
-![](https://manual.softwell.com.br/assets/images/run7-fa295c53689e698ecb74ccc93ae337f5.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/run7-fa295c53689e698ecb74ccc93ae337f5.png)

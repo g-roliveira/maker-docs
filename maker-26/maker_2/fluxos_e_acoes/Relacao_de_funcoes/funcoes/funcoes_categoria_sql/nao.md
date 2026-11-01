@@ -13,7 +13,7 @@ Parâmetro:
 1. Valor a ser
 negado
 
-![](../../../../../image1238.gif)
+![Imagem do manual](../../../../../image1238.gif)
 
 Retorno:
 

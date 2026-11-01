@@ -28,7 +28,7 @@ Observe os passos da instalação:
 1. O Maker Studio Bootstrap - Instalador prepara o ambiente para instalação.
 2. É exibido no painel o conteúdo da instalação, onde será possivel aceitar o Acordo de Licença e mudar o diretório de instalação através do botão ![image4.gif](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFMAAAAXCAYAAAB3e3N6AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAI2SURBVFhH7ZmxbuowFIb/gJSNlSdIB8ITZGKliyfe4HZCYrmZ+gRM3CUSE7xBpyw3a6cMzAlDMzIgIWYQEnCPjQNpRNNb4rQD/iSLOHZw/J//HCNhrFar43K5xHa7xeFwgOY2Go0GjNlsdmw2m+CtXq/LIc1X2O/3WK/XMBaLhRBTUx5js9kctSPVUNNCqqMmPzUK0GIqRIupEC2mQr4oZoC+acLMto6HRI7eOzc408Eo3mG3O7W49wK7H8ix+6Z0mluPPTjRG7mTu7YDL/DQEa7t0x0iSfu80fg7G+ecLoIiv+c8L9u/tkbuO6hdYnttfnWUFjP44yJsP8ASvRDuEJgK147R5ZuxXbR96WS/DddON5TA6zBMnnzp8hgj8KB8Rn6NLsbiWrZ4hIhlRcvPr44bxKSXsy8uYCAxxukrUgmYDqSwROBjgiewdLjLqDeBz3ea/MVLSPN/p4MWBuPMsx+SW0OQcScFL0SEt3NUrs2vhtI18yLkBzitzEYstBx5mcxp0208lN4lF5IhGsXynXwK2M9QOs0/JZxnUjfBPJSXVovCogDp/ufBd3ivmGrFlGk9TE+TbNpbj+g5E7DzaUE1tM9/ZnH3hpjLRxJvSM8UIIKSSWuxRhG8VlM5yK5b2P9/KnYmHQ50IFCRPdUzFlGJSA8BqpGvlJITJuuvDRf8IKP7zxQCxu+Z+IVecdpaA0zFEqf5po8fS3OD6sxRXmtKUn3NvCO0mArRYiqkxv8M0qgA+AeUKP2cxZU7mAAAAABJRU5ErkJggg==). Na próxima tela poderá escolher os componentes que deseja instalar.
 
-![](https://manual.softwell.com.br/assets/images/image004-dd21ffa25e4b704be593e56825cba2c0.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/image004-dd21ffa25e4b704be593e56825cba2c0.png)
 
 São itens da instalação:
 

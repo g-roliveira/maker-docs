@@ -9,7 +9,7 @@ source_url: "https://suporte.softwell.com.br/Manual/MakerStudio/maker_3/formular
 
 O componente Organograma tem a funcionalidade de criar um gráfico de estrutura hierárquica e não somente isso, também pode ser usado como um representante gráfico para agrupamento e que representa simultaneamente os diferentes elementos do grupo e as suas ligações. baseado em uma consulta SQL ou através da sua propriedade Estrutura.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/iconorganograma.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/iconorganograma.png)
 
 Propriedades
 
@@ -85,4 +85,4 @@ Define o tamanho da fonte dos itens do componente organograma.
 
 ____________________________________________________________________________
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)

@@ -35,4 +35,4 @@ Caso o desenvolvedor queira  agendar uma tarefa para todo mês 2 e no primeiro d
 
 ____________________________________________________________________________
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)

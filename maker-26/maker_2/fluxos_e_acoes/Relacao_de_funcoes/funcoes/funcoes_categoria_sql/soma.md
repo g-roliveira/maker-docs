@@ -11,7 +11,7 @@ Parametros:
 
 N. Valores que serão somados.
 
-![](../../../../../image1240.gif)
+![Imagem do manual](../../../../../image1240.gif)
 
 Retorno:
 

@@ -5,7 +5,7 @@ source_url: "https://suporte.softwell.com.br/Manual/MakerStudio/novidades/Evento
 
 No Maker 3.9 é possível executar um fluxo ao Selecionar uma imagem no componente Galeria de imagens.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/EventoAoSelecionarGaleria.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/EventoAoSelecionarGaleria.png)
 
 **- Ao selecionar**
 

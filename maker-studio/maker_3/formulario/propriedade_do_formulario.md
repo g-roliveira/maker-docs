@@ -119,4 +119,4 @@ Observação: Caso a mensagem retornada ainda seja a original do banco de dados,
 
 ____________________________________________________________________________
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)

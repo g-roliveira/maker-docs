@@ -16,7 +16,7 @@ o valor do dividendo.
 2. Informar
 o valor do divisor.
 
-![](../../../../../image1233.gif)
+![Imagem do manual](../../../../../image1233.gif)
 
 Retorno:
 

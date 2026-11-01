@@ -11,6 +11,6 @@ Para utilizar essa funcionalidade é necessário carregar o arquivo ERROR.rtm, p
 
 Tela de customização de erro:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/relatorio.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/relatorio.png)
 
 Personalize erros no relatório - Este vídeo demonstra como funciona o personalizador de erros no relatório.

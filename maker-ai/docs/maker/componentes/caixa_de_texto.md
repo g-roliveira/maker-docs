@@ -9,7 +9,7 @@ Observação: Dentro de um formulário contendo um componente Caixa de Texto mai
 
 Caixa de Texto:
 
-![](https://manual.softwell.com.br/assets/images/caixa_de_texto_image-c23544d4fa1e5a5b4414301d76ca784b.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/caixa_de_texto_image-c23544d4fa1e5a5b4414301d76ca784b.png)
 
 **Propriedades em comum:**
 

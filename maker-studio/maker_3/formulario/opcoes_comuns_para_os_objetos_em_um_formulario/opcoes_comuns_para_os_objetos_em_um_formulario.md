@@ -16,4 +16,4 @@ Para editar ações relativas a Propriedades, Eventos, Alinhamentos, Edição, C
 
 ____________________________________________________________________________
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)

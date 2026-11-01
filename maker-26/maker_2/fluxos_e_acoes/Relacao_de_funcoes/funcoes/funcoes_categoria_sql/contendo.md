@@ -12,7 +12,7 @@ contido no contexto do select ou update.
 
 Parâmetros:
 
-![](../../../../../image1814.gif)
+![Imagem do manual](../../../../../image1814.gif)
 
 Nome
 Real:

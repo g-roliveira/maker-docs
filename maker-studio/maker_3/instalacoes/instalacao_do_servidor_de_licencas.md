@@ -78,7 +78,7 @@ Este utilitário é de simples manuseio. Siga os passos abaixo:
 1. Copie o executável para a pasta do Maker. (Caso não exista);
 2. Digite o endereço IP do Servidor no campo apropriado.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image1715.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image1715.jpg)
 
 3. Clique sobre aplicar.
 

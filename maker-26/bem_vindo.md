@@ -5,7 +5,7 @@ source_url: "https://suporte.softwell.com.br/Manual/Maker2_6/bem_vindo.htm"
 
 [![Softwell Solutions](https://suporte.softwell.com.br/Manual/Maker2_6/logo_softwell.jpg)](http://www.softwell.com.br)
 
-![](https://suporte.softwell.com.br/Manual/Maker2_6/adam(1).png) [Acesse o portal do Maker Mobile](http://mobile.softwell.com.br/manual/mobile.html)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/Maker2_6/adam(1).png) [Acesse o portal do Maker Mobile](http://mobile.softwell.com.br/manual/mobile.html)
 
 ## [Veja o que há de novo](whatisnew)
 

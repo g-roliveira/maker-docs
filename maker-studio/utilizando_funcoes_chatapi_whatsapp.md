@@ -9,15 +9,15 @@ Para poder utilizar as funções do WhatsApp é preciso criar uma conta para obt
 
 - Faça o cadastro usando a conta do Google, GitHub ou usando outra conta de email.
 
-  ![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/whatsapp/login-chatapi.png)
+  ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/whatsapp/login-chatapi.png)
 - Feito o cadastro aparecerá a tela com um aviso solicitando a autorização para acessar o WhatsApp
   de um dispositivo através do QRCode. Para conectar a API selecione uma das opções, se sua conta estiver registrada há menos de um mês você precisará utilizar a autorização segura (Secure Autorization)
   para reduzir a probabilidade de bloqueio.
 
-  ![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/whatsapp/console-chatapi.png)
+  ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/whatsapp/console-chatapi.png)
 - Feito a conexão será possível utilizar a API URL e o Token para utilizar nas funções do ChatAPI WhatsApp.
 
-  ![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/whatsapp/console-chatapi-token.png)
+  ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/whatsapp/console-chatapi-token.png)
 
 Observação:
 

@@ -5,7 +5,7 @@ source_url: "https://manual.softwell.com.br/docs/maker/componentes/acao"
 
 Componente desenvolvido para exercer funções predefinidas, sem a necessidade de criação de regras.
 
-![](https://manual.softwell.com.br/assets/images/comp3-213d69a0ade3cd3279906edb31a46077.jpg)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/comp3-213d69a0ade3cd3279906edb31a46077.jpg)
 
 **Propriedades em comum:**
 

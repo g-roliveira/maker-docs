@@ -9,11 +9,11 @@ source_url: "https://suporte.softwell.com.br/Manual/MakerStudio/maker_3/formular
 
 Com o componente FAQ é possivel criar temas específicos e conjuntos de perguntas para os temas e deixar que o componente direcione respostas automáticas sem necessidade de um operador.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/iconFAQ.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/iconFAQ.png)
 
 Propriedades
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/FAQProprieadades.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/FAQProprieadades.png)
 
 - Dica
 
@@ -82,7 +82,7 @@ Tela de configuração
 Nesta tela contém as seguintes abas:
 
 - Configuração
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/FAQConfiguracao.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/FAQConfiguracao.png)
 
 - **KEY do usuário:** Esta chave é obtida após cadastramento junto com a Softwell
 - **Id do FAQ:** Este Id será gerado após processar o Faq
@@ -93,7 +93,7 @@ Nesta tela contém as seguintes abas:
 - **Mensagem de interação:** Texto para descrição do componente (O mesmo terá prioridade sobre a propriedade Descrição do FAQ).
 
 - Temas e ações
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/FAQTemas.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/FAQTemas.png)
 
 - **Temas:** Nome dos temas para as perguntas.
 - **Resposta para o tema:** Texto para a resposta caso o percentual de confiança esteja acima do cadastrado.
@@ -104,4 +104,4 @@ Nesta tela contém as seguintes abas:
 
 ____________________________________________________________________________
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)

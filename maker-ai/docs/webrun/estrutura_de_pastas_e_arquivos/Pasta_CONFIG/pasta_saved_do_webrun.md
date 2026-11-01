@@ -7,7 +7,7 @@ Nesta pasta, são registradas configurações do Webrun, referentes à personali
 
 Observe a sequência de pastas abaixo:
 
-![](https://manual.softwell.com.br/assets/images/image768-f50fa933fc9ada736881599eebc529f0.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/image768-f50fa933fc9ada736881599eebc529f0.png)
 
 Esta pasta é composta por diversas subpastas de sistemas acessados (a nomeclatura inicia com a sigla do sistema, como no exemplo SMC_). Quando um sistema possui formulários compostos por grades configuradas por usuários, teremos uma pasta `&lt;sigla do sistema&gt;`_SETTINGS e, dentro desta, teremos a pasta user_`&lt;nome do usuário&gt;`, contendo arquivos *.XML:
 

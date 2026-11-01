@@ -21,7 +21,7 @@ Componente Listagem gera uma interface configurável em um ambiente de produçã
 - Suporte a filtro por função ":FUNCAO_sessao".
 - Separador - Campo responsável por realizar a separação das colunas de acordo o valor informado (disponível apenas para o formato TXT).
 
-![](https://manual.softwell.com.br/assets/images/listagem_imagem_webrun-b4952334b7817098aa0d685eb05df9f5.webp)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/listagem_imagem_webrun-b4952334b7817098aa0d685eb05df9f5.webp)
 
 **Propriedades em comum:**
 

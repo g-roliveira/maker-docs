@@ -18,7 +18,7 @@ que será verificado
 2. A cláusula
 que se baseará o filtro
 
-![](../../../../../image1235.gif)
+![Imagem do manual](../../../../../image1235.gif)
 
 Retorno:
 

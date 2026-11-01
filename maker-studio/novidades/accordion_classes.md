@@ -19,46 +19,46 @@ Mais detalhes podem ser visualizados no arquivo 'classes.css' do Skin utilizado.
 
 ### Blue
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/ABlue.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/ABlue.png)
 
 ### Default
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/ADefault.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/ADefault.png)
 
 ### Executive
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/AExecutive.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/AExecutive.png)
 
 ### Green
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/AGreen.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/AGreen.png)
 
 ### Light
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/ALight.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/ALight.png)
 
 ### Mac
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/AMac.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/AMac.png)
 
 ### Metro
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/AMetro.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/AMetro.png)
 
 ### Office
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/AOffice.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/AOffice.png)
 
 ### Portal Light
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/APortalLight.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/APortalLight.png)
 
 ### Red
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/ARed.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/ARed.png)
 
 ### Uranus
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/AUranus.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/AUranus.png)
 
 **Confira abaixo um vídeo demonstrando a funcionalidade do novo classes CSS:**

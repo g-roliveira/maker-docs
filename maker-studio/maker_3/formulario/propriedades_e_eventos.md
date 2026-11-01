@@ -775,4 +775,4 @@ Aplicado ao componente [Lista Dupla](componentes/lista_dupla) - o evento ocorre 
 
 ____________________________________________________________________________
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)

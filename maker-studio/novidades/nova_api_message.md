@@ -21,7 +21,7 @@ Utilizada para comunicar o usuário sobre alguma ação feita no sistema, a nova
 
 - A posição que a mensagem deverá ter em tela.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/mensagem_alerta.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/mensagem_alerta.png)
 
 - Mensagem de erro.
 
@@ -35,7 +35,7 @@ Utilizada para interromper alguma ação indevida feita no sistema, assim como v
 
 - A posição que a mensagem deverá ter em tela.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/mensagem_erro.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/mensagem_erro.png)
 
 - Mensagem de interação de confirmação.
 
@@ -53,7 +53,7 @@ Utilizada para solicitar ao usuário alguma resposta sobre a ação efetuada no 
 
 - Parâmetros do fluxo a ser executado caso o usuário cancele.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/mensagem_interacao_confirmacao.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/mensagem_interacao_confirmacao.png)
 
 - Mensagem de alertar aguardando texto.
 
@@ -73,7 +73,7 @@ Utilizada para solicitar ao usuário alguma informação que deseja obter, a nov
 
 - Parâmetros do fluxo a ser executado caso o usuário cancele.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/mensagem_alertar_aguardando_texto.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/mensagem_alertar_aguardando_texto.png)
 
 No webrun irá se apresentar da seguinte forma.
 

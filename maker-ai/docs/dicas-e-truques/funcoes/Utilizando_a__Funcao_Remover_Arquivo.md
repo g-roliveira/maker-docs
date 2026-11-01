@@ -7,7 +7,7 @@ Esse exemplo demonstrará o uso da função Remover Arquivo.
 
 1. Crie um formulário sem fonte de dados com o seguinte layout:
 
-![](https://manual.softwell.com.br/assets/images/exe68-17424efd27c8ffce7c2eb4a4d7b32c3e.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/exe68-17424efd27c8ffce7c2eb4a4d7b32c3e.png)
 
 2. Crie um fluxo. Para facilitar o entendimento o fluxo ficará da seguinte forma:
 
@@ -15,7 +15,7 @@ Esse exemplo demonstrará o uso da função Remover Arquivo.
 
 3. Defina o seguinte parâmetro de entrada:
 
-![](https://manual.softwell.com.br/assets/images/exe70-a5aa8f7e63d75974eab6bfe4d9a5bafb.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/exe70-a5aa8f7e63d75974eab6bfe4d9a5bafb.png)
 
 4. Adicione um objeto Processamento e no Montador de Expressões selecione a seguinte função: Cria Novo Arquivo:
 
@@ -27,7 +27,7 @@ Esse exemplo demonstrará o uso da função Remover Arquivo.
 
 6. Salve o fluxo na camada Servidor, associe-o ao botão Criar arquivo do formulário e defina o seguinte parâmetro de entrada.
 
-![](https://manual.softwell.com.br/assets/images/exe72-0421f1c9641c8310957c2f25553d11dd.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/exe72-0421f1c9641c8310957c2f25553d11dd.png)
 
 7. Crie um segundo fluxo. Para facilitar o entendimento o fluxo ficará da seguinte forma.
 
@@ -43,9 +43,9 @@ Esse exemplo demonstrará o uso da função Remover Arquivo.
 
 10. Adicione um objeto interação com a seguinte informação: Arquivo Removido com Sucesso!
 
-![](https://manual.softwell.com.br/assets/images/exe77-e0660c74ef517188fdc6d86ea0486a1d.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/exe77-e0660c74ef517188fdc6d86ea0486a1d.png)
 
 11. Salve o fluxo e associe-o ao botão Remover Arquivo.
 12. Salve o formulário e execute-o no webrun:
 
-![](https://manual.softwell.com.br/assets/images/img22158-aeae32424ee4074f981b601c19059fc8.JPG)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/img22158-aeae32424ee4074f981b601c19059fc8.JPG)

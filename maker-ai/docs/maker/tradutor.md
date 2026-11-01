@@ -7,7 +7,7 @@ Este recurso é usado para a internacionalização (tradução) de todas as expr
 
 A tela Tabela de Tradução é acionada pelo botão Tradutor do menu Utilitários.
 
-![](https://manual.softwell.com.br/assets/images/image46-4d6ccca6d6c62f3e58ab4ebcdce6da72.jpg)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/image46-4d6ccca6d6c62f3e58ab4ebcdce6da72.jpg)
 
 A tela possui as seguintes opções:
 

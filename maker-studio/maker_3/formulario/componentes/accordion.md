@@ -5,11 +5,11 @@ source_url: "https://suporte.softwell.com.br/Manual/MakerStudio/maker_3/formular
 
 O componente Accordion é utilizado para navegação entre elementos organizados em painéis empilhados. É muito útil para agrupamento e organização de conteúdos.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/iconaccordion.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/iconaccordion.png)
 
 Propriedades
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/AccordionProprieadades.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/AccordionProprieadades.png)
 
 - Dica
 
@@ -44,7 +44,7 @@ Propriedades
 
   Interface para criação das seções.
 
-  ![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/AccordionInterface.png)
+  ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/AccordionInterface.png)
 
   **Obs.:** esta propriedade não tem prioridade sobre a consulta SQL
 
@@ -76,4 +76,4 @@ Eventos
 
 ____________________________________________________________________________
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)

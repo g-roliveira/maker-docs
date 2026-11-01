@@ -9,10 +9,10 @@ Agora o componente Gráfico (Google Charts), permite que o desenvolvedor possa p
 
 - A propriedade Séries é encontrada em:
 
-  ![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/GraficoPropriedades.png)
+  ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/GraficoPropriedades.png)
 
   No Gráfico - Editor, você deverá escolher o **Campo Cor** que contém o código hexadecimal referente as cores de cada dado do gráfico
 
-  ![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/grafico_config.png)
+  ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/grafico_config.png)
 
 ## **Utilizando a propriedade Cor do Campo**

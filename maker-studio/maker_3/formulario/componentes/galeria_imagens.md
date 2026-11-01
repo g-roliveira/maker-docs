@@ -12,23 +12,23 @@ O componente Galeria de Imagem foi criado para possibilitar a visualização de 
 O componente em questão, pode ser encontrado na nova paleta de objetos do MAKER 3 (Imagem 1), ao abrir de um formulário já criado, a paleta aparecerá canto direito do Maker e adicione-o.
 Observe as imagens 1 e 2, abaixo:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/GalerieDimage.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/GalerieDimage.png)
 
 Imagem 1 – Encontrando o Componente Galeria de Imagem na Paleta de objetos do Maker 3.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/GalerieDimageIcon.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/GalerieDimageIcon.png)
 
 Imagem 2 – Imagem correspondente ao Componente Galeria de Imagem.
 
 Após seguir os passos mencionados anteriormente, clique com o botão direito do *mouse* no componente, defina na propriedade SQL uma tabela e selecione os campos apresentados que serão atribuídos aos campos: ID, Miniatura e Imagem.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/comp5.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/comp5.png)
 
 Imagem 3 – Tabela criada para armazenar as imagens inseridas na fonte de dados.
 
 **Configurando os elementos associados ao componente**
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/PropriedadesGaleriaDeImagem.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/PropriedadesGaleriaDeImagem.png)
 
 Imagem 4 – Propriedades do Componente Galeria de Imagem.
 
@@ -56,13 +56,13 @@ Ao efetuar o *upload* de uma imagem, o componente Galeria de Imagens fará a con
 
 **Veja a galeria criada a partir da tabela selecionada anteriormente**
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/webrun.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/webrun.png)
 
 Imagem 5 – Componente Galeria de Imagem, executado no Webrun
 
 • A janela de Upload só poderá ser exibida, após clicar com o botão direito do mouse dentro do espaço delimitado no Maker 3.
 
-• Nesta mesma janela (Imagem 5), o usuário também poderá excluir as imagens inseridas ao passar o mouse sobre a mesma, onde será exibido o ícone ![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/x.png).
+• Nesta mesma janela (Imagem 5), o usuário também poderá excluir as imagens inseridas ao passar o mouse sobre a mesma, onde será exibido o ícone ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/x.png).
 
 ## Evento Ao Selecionar no Galeria de Imagens
 
@@ -81,4 +81,4 @@ Todo fluxo de ação associado em qualquer um dos eventos deste componente receb
 
 ____________________________________________________________________________
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)

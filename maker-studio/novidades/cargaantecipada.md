@@ -16,11 +16,11 @@ Para utilizar esta tecnologia, é necessário configurar a propriedade Carga Ant
 
 2. Abra o formulário que deseja ativar a carga antecipada;
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/CargaAuto_1.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/CargaAuto_1.png)
 
 3. Com o botão direito do Mouse, acesse as propriedades do formulário e modifique o valor da propriedade Carga Antecipada de "Não" para "Sim";
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/CargaAuto_3.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/CargaAuto_3.png)
 
 4. Salve o projeto;
 
@@ -28,7 +28,7 @@ Para utilizar esta tecnologia, é necessário configurar a propriedade Carga Ant
 
 Ao executar o projeto no Webrun, o mesmo ficará assim:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/CargaAuto_4.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/CargaAuto_4.png)
 
 - Observação 01: Como o formulário será carregado no momento da abertura do projeto, esta propriedade deverá ser utilizada de forma cautelosa em função do tempo de carga de todos os formulários definidos com a propriedade "carga antecipada".
 - Observação 02: Salientamos poderá haver limite de memória imposto pelo browser no momento da carga antecipada, desta forma, caso muitos formulários estejam com a propriedade "carga antecipada" como "sim", o browser poderá não carregá-los corretamente.

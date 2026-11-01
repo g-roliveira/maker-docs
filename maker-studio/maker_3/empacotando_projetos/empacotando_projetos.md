@@ -38,4 +38,4 @@ Após entrada das informações de conexão, clique no botão ![image87.gif](htt
 
 ____________________________________________________________________________
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)

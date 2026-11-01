@@ -15,7 +15,7 @@ Parâmetros:
 2. Informar o valor para fazer
 a subtração com o 1° parâmetro.
 
-![](../../../../../image1242.gif)
+![Imagem do manual](../../../../../image1242.gif)
 
 Retorno:
 

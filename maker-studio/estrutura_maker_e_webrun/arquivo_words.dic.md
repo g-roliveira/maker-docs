@@ -25,7 +25,7 @@ Se uma tabela de nome sig_funcionario for encontrada durante a sincronização d
 
 Ao adicionar ou modificar um nome no arquivo WORDS.DIC o mesmo aparecerá na lista de opções de sugestão de nomes para criação de novos componentes, como demonstra a figura abaixo.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image78.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image78.png)
 
 Observações:
 

@@ -11,21 +11,21 @@ Para acessar este recurso, siga os passos:
 
 1. [Acesse o Webrun](acessando_webrun);
 2. Acesse um sistema com privilégios de administrador;
-3. Execute clique duplo no botão ![](../image523.gif).
+3. Execute clique duplo no botão ![Imagem do manual](../image523.gif).
 
 As duas operações básicas que estarão disponíveis são:
 
-- ![](../image524.gif) - atualiza os objetos da Barra
+- ![Imagem do manual](../image524.gif) - atualiza os objetos da Barra
   de Menus do Sistema: dimensões de formulários editados ou formulários
   e relatórios adicionados ou excluídos;
-- ![](../image531.gif) Atualiza a estrutura dos formulários
+- ![Imagem do manual](../image531.gif) Atualiza a estrutura dos formulários
   (botão Atualizar), quando editados pelo Maker:
 
-![](../image251.jpg)
+![Imagem do manual](../image251.jpg)
 
 Observações:
 
-- Caso o usuário não seja administrador, o botão ![](../image531.gif)
+- Caso o usuário não seja administrador, o botão ![Imagem do manual](../image531.gif)
   atualizará o conteúdo do registro;
 - Passam a fazer parte do arquivo de log gerado pelo servidor
   Web (exemplo: Apache Tomcat) no qual o Webrun está inserido, todas

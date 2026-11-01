@@ -7,11 +7,11 @@ source_url: "https://suporte.softwell.com.br/Manual/MakerStudio/maker_3/formular
 
 O Componente Player tem como funcionalidade reproduzir áudio e vídeo de diferentes resoluções e formatos a partir de uma lista de reprodução usando HTML5. É possível atribuir parâmetros iniciais para o componente que são próprios do HTML5, como: mudo, modo repetição, reproduzir automaticamente e mostrar/ocultar controles. Além destes parâmetros padrões existe também o Modo Repetição de Lista e o parâmetro Deslizante. Os formatos de áudio suportados são *.mp3, *.ogg e *.wav. E os formatos de vídeo suportados são *.mp4, *.ogv e *.webm.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/iconeplayer.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/iconeplayer.png)
 
 As propriedades do componente Player são:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/propriedades_player.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/propriedades_player.png)
 
 **Dica** – Campo destinado para descrição do componente.
 **PosicaoX e PosicaoY** – Definem o ponto de ancoragem do componente, se a opção deslizante não estiver habilitada.
@@ -34,17 +34,17 @@ Utilizando o Player
 
 No Maker, crie um formulário e insira o componentes Player no tamanho desejado.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/player.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/player.png)
 
 Nas propriedades, vá em URL Mídia e insira o link externo do vídeo ou do link do servidor (&lt;http://download.softwell.com.br/suporte/videos/espetaculonatureza.mp4&gt; ou webrun/nome_da_musica.mp3) e clique em Adicionar.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/player1.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/player1.png)
 
 Após criar a lista de reprodução, insira o formulário no Menu Principal e acesse o sistema no Webrun.
 
 Observe como ficará o formulário com o Componente.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/player2.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/player2.png)
 **Observação(ões):**
 
 - É importante verificar se o navegar suporta o formato desejado, pois nem todos os navegadores reproduzem todos os formatos. O usuário necessitará especificar o formato.
@@ -52,4 +52,4 @@ Observe como ficará o formulário com o Componente.
 
 ____________________________________________________________________________
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)

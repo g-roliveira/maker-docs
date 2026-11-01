@@ -7,7 +7,7 @@ O Componente Calendário tem como funcionalidade mostrar um calendário no formu
 
 Calendário:
 
-![](https://manual.softwell.com.br/assets/images/calendario_image-f66156a3f312edac2f858c828bb1f364.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/calendario_image-f66156a3f312edac2f858c828bb1f364.png)
 *Imagem 1 - Interface Componente Calendário*
 
 **Propriedades em comum:**
@@ -69,43 +69,43 @@ Calendário:
 
 1. Para realizar a integração com o *Google Calendário* é necessário acessar o [Google Cloud](https://console.cloud.google.com) e logar em uma conta Google.
 
-![](https://manual.softwell.com.br/assets/images/googleCalendar_8-2ad9a14b3ce69bfdcff34d72e2efb52b.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/googleCalendar_8-2ad9a14b3ce69bfdcff34d72e2efb52b.png)
 *Imagem 2 - Tela Inicial Google Cloud*
 
 2. Crie um projeto para a utilização das funcionalidades *Google API*. Obs.: Caso a conta cadastrada na *Google Cloud* seja empresarial é necessário entrar em contato com administrador para efetuar a integração, pois não é possível selecionar e nem criar uma organização com uma conta empresarial na tela de criação de projeto. Ex: [[email protected]](https://manual.softwell.com.br/cdn-cgi/l/email-protection#197776747c59787478637677377a7674)
 
-![](https://manual.softwell.com.br/assets/images/googleCalendar_1-12aff3a6f339898bbe9d7a9045b7f640.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/googleCalendar_1-12aff3a6f339898bbe9d7a9045b7f640.png)
 *Imagem 3 - Tela de Projetos*
 
 3. Após a criação do projeto, localize no menu lateral *APIs e serviços* e selecione no submenu a opção *Biblioteca*.
 
-![](https://manual.softwell.com.br/assets/images/googleCalendar_2-e90a6079e60d5e9e8661403083d0b27d.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/googleCalendar_2-e90a6079e60d5e9e8661403083d0b27d.png)
 *Imagem 4 - Aba de APIs e Serviços*
 
 4. Na tela de *Biblioteca* realize uma busca por **Google Calendar API** e clique em ativar.
 
-![](https://manual.softwell.com.br/assets/images/googleCalendar_3-6e66eac0da5fb89e8d6e20809bd7abb7.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/googleCalendar_3-6e66eac0da5fb89e8d6e20809bd7abb7.png)
 *Imagem 5 - Biblioteca de APIs*
 
 5. Na tela de *Credenciais* deve ser configurada a permissão do OAuth 2 e liberado o acesso externo.
 
-![](https://manual.softwell.com.br/assets/images/googleCalendar_9-abc23f31be9befa8f66669bda54816ae.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/googleCalendar_9-abc23f31be9befa8f66669bda54816ae.png)
 *Imagem 6 - Configurar Consentimento*
 
 6. Cadastre as informações do seu sistema. *Não se faz necessário preencher o seguimento de **Escopos***.
 7. Realizado a configuração da permissão do OAuth 2, iremos adicionar os usuários de testes da API, esses usuários terão a permissão única das contas do Google e poderão testar a integração na fase de testes.
 
-![](https://manual.softwell.com.br/assets/images/googleCalendar_4-a74a642a30e6f3eafe2c4114b2ef9f59.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/googleCalendar_4-a74a642a30e6f3eafe2c4114b2ef9f59.png)
 *Imagem 7 - Tela de Permissões OAuth*
 
 8. Finalizada a configuração da tela de permissões volte para a tela de credenciais e clique em *Criar Credenciais*, primeiro crie uma *Chave de API*.
 
-![](https://manual.softwell.com.br/assets/images/googleCalendar_5-03e60d1d5ad72bca6c55fe23d1d9bbd1.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/googleCalendar_5-03e60d1d5ad72bca6c55fe23d1d9bbd1.png)
 *Imagem 8 - Tela de Credenciais*
 
 9. Logo em seguida devemos criar um *ID de Cliente OAuth*, é fundamental que o tipo da aplicação seja Web. Após a criação do *ID de Cliente OAuth* devemos adicionar a *URL* do contexto da aplicação nas propriedades *Origem JavaScript Autorizados* e *URIs de redirecionamento autorizados*, exemplo: *&lt;http://localhost:2020&gt;* ou *&lt;https://softwell.com.br&gt;*.
 
-![](https://manual.softwell.com.br/assets/images/googleCalendar_6-cd9b2fa9714eedf6be8a6f14fb4ca972.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/googleCalendar_6-cd9b2fa9714eedf6be8a6f14fb4ca972.png)
 *Imagem 9 - Tela de Criação de Id do Cliente*
 
 10. Após a criação das credenciais devemos incluí-las nas propriedades *Chave de API* e *ID do Cliente* do componente *Calendário* dentro do *Maker Studio*.
@@ -116,7 +116,7 @@ Observações:
 
 - As configurações é realizada para a utilização do **Google Calendar API** no ambiente de desenvolvimento/testes, caso queira implementar no ambiente de produção é necessário acessar o console do **Google Cloud** e localizar no menu *Tela de Permissão OAuth* e clicar em publicar aplicativo seguindo o passo a passo de configurações. Após um período de avaliação o recurso estará disponível.
 
-![](https://manual.softwell.com.br/assets/images/googleCalendar_7-afc2245a419fee4954fa53ff32d8ca56.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/googleCalendar_7-afc2245a419fee4954fa53ff32d8ca56.png)
 *Imagem 10 - Publicar Projeto*
 
 [Propriedades e Eventos em comum aos Objetos](../propriedades_e_eventos_comum)

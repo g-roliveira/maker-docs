@@ -10,6 +10,6 @@ Dentro deste grupo adicione dois parâmetros:
 1. Servidor: endereço (IP, URL) de onde está instalado o Servidor de Digitais.
 2. Porta: número da porta que está sendo usada pelo serviço.
 
-![](https://manual.softwell.com.br/assets/images/image1794-28c178bb77c8a1ef17f3251896fea262.jpg)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/image1794-28c178bb77c8a1ef17f3251896fea262.jpg)
 
 Observação: É necessário que, no servidor, o sistema operacional usado seja Windows (a partir do Windows 7):

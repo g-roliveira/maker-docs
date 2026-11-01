@@ -11,16 +11,16 @@ A utilização dessa função era recomendada no evento 'Ao Entrar' do formulár
 
 ### Utilizando a função Mapa - Importar Biblioteca
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/MapaImportarBibliotecaFluxo.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/MapaImportarBibliotecaFluxo.png)
 
 No processamento acima utilizamos a função passando a chave do mapa(opcional), o fluxo de Callback(este fluxo só será executado quando a importação do script for concluída) e a lista de parâmetros do fluxo(opcional), nesse exemplo passamos apenas a latitude e longitude. Veja o exemplo:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/MapaImportarBiblioteca.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/MapaImportarBiblioteca.png)
 
 ### Fluxo de Callback (Este fluxo só será executado após a conclusão da importação das bibliotecas)
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/MapaCriarMapaFluxo.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/MapaCriarMapaFluxo.png)
 
 No processamento acima utilizamos a função 'Mapa - Criar Mapa na Moldura' utilizando os parâmetros passados pro fluxo.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/MapaCriarMapa.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/MapaCriarMapa.png)

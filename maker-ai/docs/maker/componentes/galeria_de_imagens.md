@@ -54,7 +54,7 @@ Galeria de Imagens:
 
 Após criar o componente, defina na propriedade SQL uma tabela e selecione os campos apresentados que serão atribuídos aos campos: ID, Miniatura e Imagem.
 
-![](https://manual.softwell.com.br/assets/images/comp5-6db127442058a7dcb92c4049c6f31651.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/comp5-6db127442058a7dcb92c4049c6f31651.png)
 Imagem 1 – Tabela criada para armazenar as imagens inseridas na fonte de dados.
 
 **Observações**

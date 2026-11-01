@@ -11,17 +11,17 @@ Para isto foi necessário à criação de uma imagem que contém todas as imagen
 
 1. Inicialmente será necessário acessar ao site: [CSS Sprite](http://csssprites.com/)
 
-![](../../../assets/images/csssprite/1.png)
+![Imagem do manual](../../../assets/images/csssprite/1.png)
 
 2. Nele você encontrará a possibilidade fazer o upload das imagens da barra de navegação e clicando em “Need More?” para adicionar mais imagens.
 
-![](../../../assets/images/csssprite/3.png)
+![Imagem do manual](../../../assets/images/csssprite/3.png)
 
 3. É necessário seguir uma ordem e algumas configurações especificas. Sempre o botão normal, depois o desabilitado e por último o do hover (ao passar o mouse).
 
 Exemplo:
 
-![](../../../assets/images/csssprite/5.png)
+![Imagem do manual](../../../assets/images/csssprite/5.png)
 
 **Ordem dos ícones:**
 
@@ -43,11 +43,11 @@ Obs.: Caso não utilize uma das imagens, adicione uma imagem qualquer no lugar, 
 
 4. Clique em **“+options”** coloque da maneira como apresentada na imagem abaixo:
 
-![](../../../assets/images/csssprite/6.png)
+![Imagem do manual](../../../assets/images/csssprite/6.png)
 
 5. Clicar no botão **“GENERATE!”** para que as imagens sejam geradas, após isto, clicar no botão **“DOWNLOAD SPRITE PNG”**, onde será aberto uma nova janela com a imagem gerada em “.PNG”, com algum programa de edição de imagem, converta-a para “.GIF” e renomeie o arquivo para navIcons.gif.
 
-![](../../../assets/images/csssprite/8.png)
+![Imagem do manual](../../../assets/images/csssprite/8.png)
 
 6. Ao terminar coloque o arquivo convertido (navIcons.gif) na pasta do Webrun em:
    ..\Skins\Skin utilizado\HTMLNavigationForm

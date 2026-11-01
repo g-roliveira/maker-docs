@@ -17,31 +17,31 @@ O componente Grade foi atualizado e funcionalidades novas foram inseridas:
 
 - Novo layout - O componente está de cara nova, seguindo as tendências do mercado, com um visual limpo e sofisticado, a nova grade cumpre o compromisso de proporcionar uma melhor experiência para o usuário, facilitando a interação e proporcionando uma maior funcionalidade do componente.
 
-  ![](https://manual.softwell.com.br/assets/images/grade1-05a9f4e207b20fbce240d2d5afb8c1af.PNG)
+  ![Imagem do manual](https://manual.softwell.com.br/assets/images/grade1-05a9f4e207b20fbce240d2d5afb8c1af.PNG)
 - Performance - O componente recebeu uma melhoria na performance, tornando o processamento de dados mais rápido e objetivo, facilitando o seu uso, gerando otimização de tempo.
 
-  ![](https://manual.softwell.com.br/assets/images/performance-afa95ceddf2d1e71df4bb05893a99e36.gif)
+  ![Imagem do manual](https://manual.softwell.com.br/assets/images/performance-afa95ceddf2d1e71df4bb05893a99e36.gif)
 - Congelamento de colunas diretamente do menu de contexto da Grade - Com a atualização, é possível realizar o congelamento das colunas, que resulta em uma melhor visualização de dados e busca de informações;
 
-  ![](https://manual.softwell.com.br/assets/images/congelar-5ce3608bbca9ad9a1c9cad408b466c06.gif)
+  ![Imagem do manual](https://manual.softwell.com.br/assets/images/congelar-5ce3608bbca9ad9a1c9cad408b466c06.gif)
 - Ocultamento de colunas diretamente do menu de contexto da Grade - Com a atualização, é possível realizar o ocultamento das colunas de forma prática, que resulta em uma busca de dados com maior precisão.
 
-  ![](https://manual.softwell.com.br/assets/images/ocultar-38081d299732cfc1bccc56e35c77ff06.gif)
+  ![Imagem do manual](https://manual.softwell.com.br/assets/images/ocultar-38081d299732cfc1bccc56e35c77ff06.gif)
 
-  ![](https://manual.softwell.com.br/assets/images/ocultarantigo-e3f2cf166616ab5a56ca90d37bf4a65a.gif)
+  ![Imagem do manual](https://manual.softwell.com.br/assets/images/ocultarantigo-e3f2cf166616ab5a56ca90d37bf4a65a.gif)
 - Exportar os dados em diversos formatos - É possível exportar os dados da grade para as principais plataformas da atualidade, com isso, os dados podem ser consultados nos formatos disponíveis facilitando a análise dos mesmos.
 
-  ![](https://manual.softwell.com.br/assets/images/export-5c55ae65f7cc64ab5098e8efb97b6b74.gif)
+  ![Imagem do manual](https://manual.softwell.com.br/assets/images/export-5c55ae65f7cc64ab5098e8efb97b6b74.gif)
 - Novos recursos de ajustes e otimização na visualização dos dados:
 
   - Ordenar os registros da grade a partir das colunas diretamente do menu de contexto da Grade;
 
-    ![](https://manual.softwell.com.br/assets/images/ordenarcontexto-e5d08941c0d5f5d73bd4cb8c599fcaff.gif)
+    ![Imagem do manual](https://manual.softwell.com.br/assets/images/ordenarcontexto-e5d08941c0d5f5d73bd4cb8c599fcaff.gif)
   - Definir a ordem das colunas diretamente da grade, com a praticidade de apenas arrastar a coluna desejada;
 
-    ![](https://manual.softwell.com.br/assets/images/reordenar-f67fa493a74b4205ed262ed966ce87cd.gif)
+    ![Imagem do manual](https://manual.softwell.com.br/assets/images/reordenar-f67fa493a74b4205ed262ed966ce87cd.gif)
 
-    ![](https://manual.softwell.com.br/assets/images/reordenarantigo-06d003c3deef00a25ea9367a24ef32c5.gif)
+    ![Imagem do manual](https://manual.softwell.com.br/assets/images/reordenarantigo-06d003c3deef00a25ea9367a24ef32c5.gif)
 
 **Propriedades em comum:**
 
@@ -293,27 +293,27 @@ Ao clicar no botão ![....png](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8
 
 1. Habilitar Agrupamento - Ao marcar essa opção, será permitido agrupar os registros utilizando o menu de contexto de uma das colunas da grade. Assim os registros aparecerão dentro de cada linha contida na coluna selecionada.
 
-![](https://manual.softwell.com.br/assets/images/agrupamento-habilitar_agrupamento-ee6241e6d2601c4abca306d65f0f50c4.gif)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/agrupamento-habilitar_agrupamento-ee6241e6d2601c4abca306d65f0f50c4.gif)
 
 2. Agrupamento Múltiplo - Ao marcar essa opção, será permitido realizar o agrupamento, aninhando uma coluna dentro da outra.
 
-![](https://manual.softwell.com.br/assets/images/agrupamento-agrupamento_multiplo-af808b68655208c73a66f3fb92186f4d.gif)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/agrupamento-agrupamento_multiplo-af808b68655208c73a66f3fb92186f4d.gif)
 
 3. Exibir Sumário no Agrupamento - Ao marcar essa opção será mostrado o resultado de uma operação da(s) coluna(s) selecionada(s) no Sumário do Grupo ou no Sumário Geral.
 
-![](https://manual.softwell.com.br/assets/images/agrupamento-exibir_sumario-16c8b3b10e0d8f6b2ed8f641bc926447.gif)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/agrupamento-exibir_sumario-16c8b3b10e0d8f6b2ed8f641bc926447.gif)
 
 4. Exibir Sumário no Cabeçalho - Ao marcar essa opção, será mostrado o resultado de uma operação da(s) coluna(s) selecionada(s) na mesma linha que for exibida o nome do grupo sem a necessidade de expandi-lo.
 
-![](https://manual.softwell.com.br/assets/images/agrupamento-exibir_sumario_cabecalho-097373151e77ae5f2f365f6bae5dea71.gif)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/agrupamento-exibir_sumario_cabecalho-097373151e77ae5f2f365f6bae5dea71.gif)
 
 5. Exibir Sumário em Grupos Contraídos - Ao marcar essa opção, será mostrado o resultado de uma operação da(s) coluna(s) selecionada(s) uma linha abaixo dos respectivos grupos.
 
-![](https://manual.softwell.com.br/assets/images/agrupamento-exibir_sumario_grupos_contraidos-d1d680d2a8d9a73573f94076ead2c726.gif)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/agrupamento-exibir_sumario_grupos_contraidos-d1d680d2a8d9a73573f94076ead2c726.gif)
 
 6. Exibir Sumário Geral - Ao marcar essa opção será mostrado o resultado da quantidade de todos os registros das colunas do tipo inteiro abaixo da grade. Também é possível definir as colunas para serem sumarizadas a operação e o fluxo que irá receber o resultado do sumário. (Ver Observação 4)
 
-![](https://manual.softwell.com.br/assets/images/agrupamento-exibir_sumario_geral-c9cd437b5cfff607695fb60f18d65767.gif)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/agrupamento-exibir_sumario_geral-c9cd437b5cfff607695fb60f18d65767.gif)
 
 Observações:
 
@@ -331,10 +331,10 @@ Filtro:
    - Operadores: com o clique direito do mouse sobre a opção de busca, serão apresentadas as condicionais/operadores de acordo com o tipo do dado da coluna. Assim o usuário terá maior controle na obtenção da informação.
    - Cláusula: nesse modelo de filtro, ao inserir mais de um campo para busca o valor será agregado ao operador lógico E (AND).
 
-   ![](https://manual.softwell.com.br/assets/images/grid_filter-492f368f842ab7cc63ae1d0974cb3865.png)
+   ![Imagem do manual](https://manual.softwell.com.br/assets/images/grid_filter-492f368f842ab7cc63ae1d0974cb3865.png)
 2. Filtro avançado: ativo por meio do menu de contexto do componente esta opção permitirá o carregamento do editor de filtro, permitindo assim a cobinação de expressões.
 
-   ![](https://manual.softwell.com.br/assets/images/grid_advanced_filter-ecb05818399b22efae4e8dca73d1d024.png)
+   ![Imagem do manual](https://manual.softwell.com.br/assets/images/grid_advanced_filter-ecb05818399b22efae4e8dca73d1d024.png)
 
    Operadores suportados:
 
@@ -344,7 +344,7 @@ Filtro:
 
    Com os operadores supracitados o usuário terá a possibilidade de montar diversas expressões complexas (por exemplo BI), combinando operadores para a obtenção da informação.
 
-   ![](https://manual.softwell.com.br/assets/images/grid_advanced_editor-7947f18f935e776f8b7e56ba542f35d3.png)
+   ![Imagem do manual](https://manual.softwell.com.br/assets/images/grid_advanced_editor-7947f18f935e776f8b7e56ba542f35d3.png)
 
 - Modo do Filtro - Possibilita o desenvolvedor escolher o modo de obtenção dos dados na realização do filtro:
 

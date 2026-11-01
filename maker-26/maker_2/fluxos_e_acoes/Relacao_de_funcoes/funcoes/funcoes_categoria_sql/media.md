@@ -13,7 +13,7 @@ Parâmetros:
 1. Campo que será calculado
 a média
 
-![](../../../../../image1236.gif)
+![Imagem do manual](../../../../../image1236.gif)
 
 Retorno:
 

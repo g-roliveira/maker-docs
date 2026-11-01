@@ -12,12 +12,12 @@ Para exemplificar a utilização do Chat – Maker, faremos uma simulação de i
 
 Em um projeto Maker, no formulário principal, navegue até paleta de componentes, escolhendo o ícone do componente chat e insira-o no mesmo.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/componenteChat.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/componenteChat.png)
 Imagem 1 - Componente chat
 
 No próximo passo, navegue até as Propriedades do componente.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/PropriedadesChat.png)Imagem 2 - Propriedades referentes ao componente Chat.
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/PropriedadesChat.png)Imagem 2 - Propriedades referentes ao componente Chat.
 
 As principais propriedades para um bom funcionamento do componente são:
 
@@ -52,13 +52,13 @@ Ao terminar, salve o formulário e acesse o Webrun para visualizá-lo.
 
 Nesta propriedade serão informados todos os formulários que serão representados por abas no formulário de trabalho. Para tal tarefa, existe uma tela de escolha que permite selecioná-los.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/ChatNoFormulario.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/ChatNoFormulario.png)
 
 Imagem 3 - Componente Chat no Webrun
 
 Nesta janela, o usuário poderá enviar uma mensagem para todos os usuários ou escolher através do do *check Box*, apenas os usuários que encontram-se *online.*
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/EnviarMsg4aLL.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/EnviarMsg4aLL.png)
 
 Imagem 4 - Enviar Mensagem para todos
 
@@ -73,7 +73,7 @@ A opção Deslizante Sim, permite ao usuário uma maior liberdade quanto ao loca
 3- Deslizante: Sim;
 4- Posição Deslizante: Direita ou Esquerda;
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/ChatFormPrincipal.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/ChatFormPrincipal.png)
 Imagem 5 - Formulário Principal com o componente Chat
 
 Salve o formulário principal e acesse o Webrun para visuálizá-lo.
@@ -82,12 +82,12 @@ Salve o formulário principal e acesse o Webrun para visuálizá-lo.
 
 Neste exemplo, o chat foi inserido no formulário Principal do template Red. Observe a imagem abaixo:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/WebrunDeslizante.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/WebrunDeslizante.png)
 Imagem 6 - Componente Chat com a opção Deslizante = Sim
 
 ### Funções do componente Chat
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/funcao2.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/funcao2.png)
 Imagem 7 - Chat - Obter lista de usuários *Online*
 
 Obtém uma lista com todos usuários online.
@@ -101,7 +101,7 @@ Lista de usuários (Variante)
 **Observação:**
 1. A lista de usuários possui uma lista para cada usuário com 3 campos que são compostos por Nome Completo, ID e a última vez que o contatou o servidor em milissegundos desde 1970.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/funcao1.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/funcao1.png)
 Imagem 8 - Chat - Recarregar Componente Chat
 
 Recarrega todo o componente Chat, atualizando a lista de usuários do sistema.
@@ -116,4 +116,4 @@ Ambas compatíveis com todas as camadas.
 
 ____________________________________________________________________________
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)

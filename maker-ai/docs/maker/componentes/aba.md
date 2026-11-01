@@ -5,7 +5,7 @@ source_url: "https://manual.softwell.com.br/docs/maker/componentes/aba"
 
 Componente desenvolvido para facilitar a criação de múltiplos formulários dentro de um formulário pai.
 
-![](https://manual.softwell.com.br/assets/images/image1-87e6dd6b40f499841a29ad57d9da76a2.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/image1-87e6dd6b40f499841a29ad57d9da76a2.png)
 
 Ao selecionar uma lista de formulários os mesmos serão associados as abas.
 
@@ -39,7 +39,7 @@ Ao selecionar uma lista de formulários os mesmos serão associados as abas.
 
 Nesta propriedade serão informados todos os formulários que serão representados por abas no formulário de trabalho. Para tal tarefa existe uma tela de escolha, que permite selecioná-los.
 
-![](https://manual.softwell.com.br/assets/images/image2-98f003b236b3aac1950ba1d2882cf1a0.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/image2-98f003b236b3aac1950ba1d2882cf1a0.png)
 
 Através do seletor de formulário (componente lista no formulário acima) serão escolhidos os formulários que serão representados nas abas. A grade serve para visualizar os formulários escolhidos e também excluí-los. Com um simples clique sobre um item da grade será removida a aba referente ao formulário.
 

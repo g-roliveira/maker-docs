@@ -28,7 +28,7 @@ Em todo o mundo a mobilidade corporativa, através do uso primeiro dos palms, de
 
 **Aplicativos de exemplo desenvolvidos no Maker Mobile que demonstra o uso das diversas funcionalidades existentes no Maker.**
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/exemploFreelancerLogo.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/exemploFreelancerLogo.png)
 
 **Encontrar Free Lancer**
 
@@ -36,10 +36,10 @@ Aplicativo de exemplo destinado a localização de Free Lancer. Neste aplicativo
 
 Com este aplicativo você poderá localizar rapidamente um profissional Free Lancer. Encontre por exemplo: diaristas, eletricistas, pedreiros, dentre diversos profissionais cadastrados.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/exemploFreelancerAplicativoImage1.png)
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/exemploFreelancerAplicativoImage3.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/exemploFreelancerAplicativoImage1.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/exemploFreelancerAplicativoImage3.png)
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/exemploMinhasTarefasLogo.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/exemploMinhasTarefasLogo.png)
 
 **Minhas Tarefas**
 
@@ -47,11 +47,11 @@ Aplicativo de exemplo destinado para o controle de atividades pessoais do dia-a-
 
 Com este aplicativo você poderá controlar e monitorar as atividades pessoais, podendo iniciar, finalizar e visualizar as atividade.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/exemploMinhasTarefasAplicativoImage1.png)
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/exemploMinhasTarefasAplicativoImage2.png)
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/exemploMinhasTarefasAplicativoImage3.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/exemploMinhasTarefasAplicativoImage1.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/exemploMinhasTarefasAplicativoImage2.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/exemploMinhasTarefasAplicativoImage3.png)
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/exemploCooperaJacobinaLogo.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/exemploCooperaJacobinaLogo.png)
 
 **Coopera Jacobina**
 
@@ -59,6 +59,6 @@ Aplicativo de exemplo destinado à integração da população com a administra�
 
 O Coopera Jacobina é uma iniciativa da Prefeitura que precisa da sua participação ativa, cidadão. Colabore mantendo a cidade limpa e preservando os equipamentos e espaços públicos, fiscalize as ações e obras da Prefeitura, baixe e use o 'Coopera Jacobina' no seu celular e envie suas queixas ou solicitações.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/exemploCooperaJacobinaAplicativoImage1.png)
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/exemploCooperaJacobinaAplicativoImage2.png)
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/exemploCooperaJacobinaAplicativoImage3.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/exemploCooperaJacobinaAplicativoImage1.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/exemploCooperaJacobinaAplicativoImage2.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/exemploCooperaJacobinaAplicativoImage3.png)

@@ -7,4 +7,4 @@ source_url: "https://suporte.softwell.com.br/Manual/MakerStudio/novidades/Propri
 
 No Maker 3.9 é possível escrever o CSS para componentes e o formulário através da Propriedade "ClasseCSS" no formulário.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/PropriedadeClasseCSS.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/PropriedadeClasseCSS.png)

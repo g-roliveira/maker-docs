@@ -53,7 +53,7 @@ A tela contêm:
     - Indefinido - o filtro de pesquisa não será considerado no momento da geração do relatório;
     - Caixa de Texto - o filtro de pesquisa será informado por meio de um componente "caixa de texto". Quando esta opção é selecionada, habilita os componentes:
 
-    ![](https://manual.softwell.com.br/assets/images/image476-273b8575d74f65322bed85ee588f57f1.png)
+    ![Imagem do manual](https://manual.softwell.com.br/assets/images/image476-273b8575d74f65322bed85ee588f57f1.png)
 
     1. Título - determina o título do componente que é definido para ser o filtro de pesquisa;
     2. Valor Padrão - determina o valor que será utilizado automaticamente para filtragem do relatório, caso não seja informado nenhum valor;
@@ -64,7 +64,7 @@ A tela contêm:
     7. Oculto - marcando esta opção, o filtro de pesquisa será aplicado internamente (automaticamente), não aparecendo para que o usuário o defina.
 - Data - automaticamente é criada uma caixa de texto contendo um calendário no qual é possível a seleção da data pelo mouse:
 
-  ![](https://manual.softwell.com.br/assets/images/image477-72496bfc6f62d2d758771ee5399bace6.png)
+  ![Imagem do manual](https://manual.softwell.com.br/assets/images/image477-72496bfc6f62d2d758771ee5399bace6.png)
 
   1. Título - determina o título do componente que é definido para ser o filtro de pesquisa;
   2. Valor Padrão - determina o valor que será utilizado automaticamente para filtragem do relatório, caso não seja informado nenhum valor;
@@ -73,7 +73,7 @@ A tela contêm:
   5. Oculto - marcando esta opção, o filtro de pesquisa será aplicado internamente (automaticamente), não aparecendo para que o usuário o defina.
 - Lista Dinâmica - o filtro de pesquisa será selecionado por meio de um componente "Lista Dinâmica":
 
-  ![](https://manual.softwell.com.br/assets/images/image478-c9bae4a91f7fc4e5b00668a1a565e003.png)
+  ![Imagem do manual](https://manual.softwell.com.br/assets/images/image478-c9bae4a91f7fc4e5b00668a1a565e003.png)
 
   1. Título - determina o título do componente que é definido para ser o filtro de pesquisa;
   2. Valor-Padrão - determina o valor que será utilizado automaticamente para filtragem do relatório, caso não seja informado nenhum valor;

@@ -47,8 +47,8 @@ Confira as funcionalidades do mesmo:
 
 - Imagem do componente no Maker
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/listagem_imagem_maker.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/listagem_imagem_maker.png)
 
 #### No webrun o componente irá se apresentar da seguinte forma.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/listagem_imagem_webrun.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/listagem_imagem_webrun.png)

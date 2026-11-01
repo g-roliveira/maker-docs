@@ -43,7 +43,7 @@ Para demonstração da criação de uma função na camada Cliente, será utiliz
 
 A aba geral, ficará da seguinte forma:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/fun17.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/fun17.png)
 
 Na aba Cliente, preencha o campo:
 
@@ -202,30 +202,30 @@ a. Crie um formulário com fontes de dados, utilizando os componentes **campo de
 - Botão = Irá associar com o Fluxo.
 - Segundo Campo de texto = Irá exibir o tamanho do arquivo.
 
-b. Crie o fluxo para associar ao formulário. Abra o Editor de Fluxos de Ações, adicione em ![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image218.gif) um parâmetro de entrada do tipo letras sendo ele, "caminho" :
+b. Crie o fluxo para associar ao formulário. Abra o Editor de Fluxos de Ações, adicione em ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image218.gif) um parâmetro de entrada do tipo letras sendo ele, "caminho" :
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/fun29.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/fun29.png)
 
 c. E adicione as seguintes variáveis:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/fun30.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/fun30.png)
 
 d. Adicione um ![image544.jpg](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/proce.png) e no Montador de Expressão, localize a função Abrir Arquivo para Leitura atribuindo ao parâmetro - caminho. ***Atribuir o resultado a referencia.***:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/fun27.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/fun27.png)
 
 e. Adicione um ![image544.jpg](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/proce.png) e no Montador de Expressão, localize a função ***Tamanho do Arquivo*** atribuindo o parâmetro referencia e o seu retorno será a variavel tamanho:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/fun28.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/fun28.png)
 
 O fluxo ficará da seguinte forma:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/fun31.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/fun31.png)
 
 Observação: Salve o fluxo na camada Servidor.
 
 e. Após a criação do Formulário e do Fluxo, deve-se associar o Botão ao fluxo definido o parâmetro de entrada, conforme a imagem abaixo:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/fun32.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/fun32.png)
 
 - É necessário que, após a criação de novas funções no Maker, o Webrun seja reiniciado.

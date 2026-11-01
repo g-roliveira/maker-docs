@@ -13,6 +13,6 @@ Para ativar a funcionalidade, abra as propriedades do formulário e modifique pa
 
 A responsividade se aplica tanto a aplicações web quanto mobile.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/responsivoprop.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/responsivoprop.png)
 
 - **Funcionamento da propriedade no Webrun.**

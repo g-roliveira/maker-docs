@@ -286,4 +286,4 @@ Ao ser criado uma regra na camada servidor que em algum momento possua um proces
 
   ___________________________________________________________________________
 
-  ![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)
+  ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)

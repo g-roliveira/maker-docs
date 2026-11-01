@@ -9,12 +9,12 @@ Agora o componente Gráfico (Google Charts), permite a personalização do taman
 
 - A propriedade Área Útil é encontrada em:
 
-  ![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/GraficoPropriedades.png)
+  ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/GraficoPropriedades.png)
 
   Gráfico sem aplicação da Área Útil
 
-  ![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/grafico_areautil1.png)
+  ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/grafico_areautil1.png)
 
   Melhor exibição das legendas, após a aplicação da Área Útil em 60%
 
-  ![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/grafico_areautil2.png)
+  ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/grafico_areautil2.png)

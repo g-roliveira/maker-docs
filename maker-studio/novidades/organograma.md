@@ -3,7 +3,7 @@ title: "Organograma"
 source_url: "https://suporte.softwell.com.br/Manual/MakerStudio/novidades/organograma.html"
 ---
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/orgicon.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/orgicon.png)
 
 O componente Organograma tem a funcionalidade de criar um gráfico de estrutura hierárquica e não somente isso, também pode ser usado como um representante gráfico para agrupamento e que representa simultaneamente os diferentes elementos do grupo e as suas ligações.
 
@@ -31,29 +31,29 @@ O componente Organograma tem a funcionalidade de criar um gráfico de estrutura 
 
   Observação: Ao selecionar o nome da raiz pela primeira vez o mesmo irá permanecer sempre, mesmo que seja alterado futuramente, esse comportamente é normal do componente e caso o desenvolvedor queira modificar o nome da raiz o componente deve ser excluido.
 
-  ![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/orgicon10.png)
+  ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/orgicon10.png)
 
   No webrun o Organograma irá se apresentar da seguinte forma.
 
-  ![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/orgicon11.png)
+  ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/orgicon11.png)
 - Consulta SQL
 
   A consulta SQL do Organograma deve ser feita baseada na lógica da sua estrutura, selecionando primeiro o campo pai e depois o campo filho.
 
-  ![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/orgicon12.png)
+  ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/orgicon12.png)
 
   Lembrando que ao criar o formulário de dados que irá popular o Organograma os campos Pai e Filho não podem ser obrigatorios pois
   o primeiro nó do Organograma deve ter o Pai nulo.
 
-  ![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/orgicon13.png)
+  ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/orgicon13.png)
 
   Ao registrar os dados do organograma o nome do Pai de cada nó deve ter exatamente o mesmo nome de como foi registrado de acordo com a forma hierarquica.
 
-  ![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/orgicon14.png)
+  ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/orgicon14.png)
 
   No webrun o Organograma irá se apresentar da seguinte forma.
 
-  ![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/orgicon15.png)
+  ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/orgicon15.png)
 - Função "Organograma - Novo"
 
   Com essa função é possivel criar um organograma dinâmico de acordo com a lógica do desenvolvedor.
@@ -78,7 +78,7 @@ O componente Organograma tem a funcionalidade de criar um gráfico de estrutura 
 
 No webrun o Organograma irá se apresentar da seguinte forma.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/orgicon17.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/orgicon17.png)
 
 ### Eventos do Componente Organograma
 

@@ -7,7 +7,7 @@ Ao tentar utilizar o [Identificador Biométrico](../../maker_2/instalacoes/como_
 
 Erro: Erro ao tentar iniciar dispositivo de leitura!
 
-![](https://suporte.softwell.com.br/Manual/Maker2_6/image827.jpg),
+![Imagem do manual](https://suporte.softwell.com.br/Manual/Maker2_6/image827.jpg),
 
 pois a dll (biblioteca) do Identificador já está instanciada para um outro sistema da jvm (servidor tomcat).
 

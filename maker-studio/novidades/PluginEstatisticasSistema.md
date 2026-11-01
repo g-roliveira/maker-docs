@@ -9,4 +9,4 @@ A partir da versão 3.9, o Maker terá um novo plugin para melhor visualização
 
 A visualização desses dados podem ser acessadas diretamente na aplicação, além de poderem ser exportadas para os mais variados formatos de padrão aberto como JSON e XML.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/EstatisticasDoSistema.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/EstatisticasDoSistema.png)

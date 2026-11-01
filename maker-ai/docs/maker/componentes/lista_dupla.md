@@ -81,6 +81,6 @@ Acesse o exemplo [Utilizando o componente Lista Dupla](../../dicas-e-truques/com
 
 É possível selecionar múltiplos itens da lista, através da combinação CTRL + clique. O utilizador pode também filtrar os resultados realizando uma busca no campo de filtro. Assim, poderá incluir um novo item a sua lista de seleção ou iniciar uma nova lista de seleção se apenas fizer um clique, sem utilizar o control.
 
-![](https://manual.softwell.com.br/assets/images/lista_dupla_filtros_e_selecao_multipla-1e01210762d378c504926175c3bc37e7.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/lista_dupla_filtros_e_selecao_multipla-1e01210762d378c504926175c3bc37e7.png)
 
 - [Propriedades e Eventos em comum aos Objetos](../propriedades_e_eventos_comum)

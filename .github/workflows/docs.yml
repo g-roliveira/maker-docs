@@ -9,10 +9,12 @@ concurrency:
   group: docs-${{ github.ref }}
   cancel-in-progress: true
 
+permissions:
+  contents: read
+
 jobs:
   mintlify:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -21,6 +23,10 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
 
       - name: Install Mintlify CLI
         run: npm install --global mint
@@ -31,12 +37,91 @@ jobs:
       - name: Check broken links
         run: mint broken-links
 
+      - name: Check accessibility
+        run: mint a11y
+
       - name: Reject internal links ending in .md
-        shell: bash
+        run: npm run docs:guard
+
+      - name: Check site config formatting
+        run: npm run format:site
+
+      - name: Install Playwright browser
+        run: npx playwright install --with-deps chromium
+
+      - name: Visual and rendering tests
+        run: npm run test:visual
+
+      - name: Upload Playwright report
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: playwright-report
+          path: playwright-report/
+          if-no-files-found: ignore
+
+  changed-files:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Lint changed Markdown
+        run: npm run lint:changed -- "origin/${{ github.base_ref }}"
+
+  audit:
+    runs-on: ubuntu-latest
+    continue-on-error: true
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Install Mintlify CLI
+        run: npm install --global mint
+
+      - name: Full Markdownlint audit
         run: |
-          if grep -RIn --include='*.md' -E '\]\([^)]*\.md(#[^)]*)?( "[^"]*")?\)' .; then
-            echo
-            echo "Erro: links internos não devem terminar em .md."
-            echo "Use a rota sem extensão: /pagina em vez de /pagina.md."
-            exit 1
-          fi
+          mkdir -p reports
+          npx markdownlint-cli2 "**/*.{md,mdx}" > reports/markdownlint.txt 2>&1 || true
+          tail -20 reports/markdownlint.txt
+
+      - name: Full Prettier audit
+        run: |
+          mkdir -p reports
+          npx prettier --check "**/*.{md,mdx,json,yml,yaml}" > reports/prettier.txt 2>&1 || true
+          tail -20 reports/prettier.txt
+
+      - name: Anchor and snippet audit
+        run: |
+          mkdir -p reports
+          mint broken-links --check-anchors --check-snippets > reports/anchors.txt 2>&1 || true
+          tail -20 reports/anchors.txt
+
+      - name: Upload audit reports
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: docs-audit
+          path: reports/
+          if-no-files-found: ignore

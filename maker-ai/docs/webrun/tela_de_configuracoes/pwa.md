@@ -11,8 +11,8 @@ A partir da versão **Maker 5**, o **Webrun 5** dará suporte ao **PWA** nativam
 
 A solicitação para instalação é acionada na tela de login e ao clicar no botão adicionar aparecerá um banner de instalação. Veja como funciona abaixo:
 
-![](https://manual.softwell.com.br/assets/images/PWA1-b2228ae6dd284554c5ba9e2123dc10b5.png)
-![](https://manual.softwell.com.br/assets/images/PWA2-df253e852c6df2f397a38aeff0c28a52.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/PWA1-b2228ae6dd284554c5ba9e2123dc10b5.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/PWA2-df253e852c6df2f397a38aeff0c28a52.png)
 
 *Imagem 1 e 2 - Interface do sistema sendo configurado com PWA.*
 
@@ -30,7 +30,7 @@ Para personalizar ou atualizar alguma informação no PWA como por exemplo, o í
 2. Defina um [propriedades_e_eventos_da_area_de_trabalho](../../maker/propriedades_e_eventos_da_area_de_trabalho) ícone da aplicação no Projeto. A imagem deverá ter **dimensões iguais**, exemplo 512x512, para que a imagem padrão seja substituida.
 3. Se desejar, é possivel mudar a tela em que seu sistema iniciará. Para modificar, é necessário ir em [Parâmetro de Configuração](Parametros_de_configuracao/parametro_de_configuracao), clicar em PWA e definir um valor para o parâmetro **URL**, caso o grupo **PWA** não exista, basta criar, conforme o exemplo a seguir:
 
-![](https://manual.softwell.com.br/assets/images/PWA4-bdedf1130f0ccea8badc4b0a056dc601.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/PWA4-bdedf1130f0ccea8badc4b0a056dc601.png)
 
 *Imagem 3 - Interface das configurações do Webrun.*
 
@@ -38,11 +38,11 @@ Para personalizar ou atualizar alguma informação no PWA como por exemplo, o í
 
 Assim, o PWA estará configurado de forma personalizada.
 
-![](https://manual.softwell.com.br/assets/images/PWA5-2b6aa3a86df6033958d72db411549e50.png)
-![](https://manual.softwell.com.br/assets/images/PWA6-3f4476bd227ef0a28faa28aa9b14c56c.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/PWA5-2b6aa3a86df6033958d72db411549e50.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/PWA6-3f4476bd227ef0a28faa28aa9b14c56c.png)
 
 *Imagem 4 e 5 - Interface do sistema sendo configurado com PWA.*
-![](https://manual.softwell.com.br/assets/images/PWA8-1764a92ed086e2c5c2c1f32c06f7b89f.gif)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/PWA8-1764a92ed086e2c5c2c1f32c06f7b89f.gif)
 
 *Gif 1 - Interface do sistema carregado com PWA.*
 
@@ -51,7 +51,7 @@ Assim, o PWA estará configurado de forma personalizada.
 Atualmente, o iOS não tem suporte para o prompt de instalação de PWAs, mas tem suporte para instalar um aplicativo Web na tela inicial. Nos dispositivos da Apple, é necessário clicar no botão compartilhar na parte inferior e rolando até o botão Adicionar à Tela inicial.
 Como no exemplo abaixo:
 
-![](https://manual.softwell.com.br/assets/images/PWA9-65a2f19cd41f21c78c29e205c1df3d3c.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/PWA9-65a2f19cd41f21c78c29e205c1df3d3c.png)
 
 *Imagem 6 - Interface do IOS sendo configurado o PWA.*
 
@@ -59,7 +59,7 @@ Observações:
 
 1. Para desabilitar, use a [propriedades_e_eventos_da_area_de_trabalho](../../maker/propriedades_e_eventos_da_area_de_trabalho) Propriedade Avançada PWA e defina o valor false para o parâmetro, dessa forma será desabilitado o recurso de **PWA** para todos os sistemas. Conforme no exemplo abaixo:
 
-![](https://manual.softwell.com.br/assets/images/PWA7-c67f9e26fb09988d9fa9c5bc07ad4822.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/PWA7-c67f9e26fb09988d9fa9c5bc07ad4822.png)
 
 *Imagem 7 - Interface das configurações do Webrun.*
 

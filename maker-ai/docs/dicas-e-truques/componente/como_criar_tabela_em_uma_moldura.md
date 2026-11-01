@@ -21,35 +21,35 @@ Neste tópico, será demonstrada a criação de uma tabela no componente **Moldu
 
 ![image695.jpg](https://manual.softwell.com.br/assets/images/image695-427fcaa7ffc1d1b31a19be47d92aba3e.jpg)
 
-5. Insira um Processamento ![](../../../assets/images/legacy/image696.jpg) para criar uma tabela no componente **[Moldura](como_criar_tabela_em_uma_moldura)**. No **[Montador de Expressão](../../maker/montador_de_expressoes)**, na aba **Fluxos e Funções**, localize a função **Tabela - Criar tabela em uma moldura**:
+5. Insira um Processamento ![Imagem do manual](../../../assets/images/legacy/image696.jpg) para criar uma tabela no componente **[Moldura](como_criar_tabela_em_uma_moldura)**. No **[Montador de Expressão](../../maker/montador_de_expressoes)**, na aba **Fluxos e Funções**, localize a função **Tabela - Criar tabela em uma moldura**:
 
 ![image1236.jpg](https://manual.softwell.com.br/assets/images/image1236-cda882dc1b7b076be29a9897f4212bd8.jpg)
 
-6. Insira uma Decisão ![](../../../assets/images/legacy/image698.jpg) para verificar a quantidade de linha. Com isso será feito o controle de linhas inseridas na **Moldura**. No **[Montador de Expressão](../../maker/montador_de_expressoes)**, na aba **Fluxos e Funções**, localize a função **Menor**:
+6. Insira uma Decisão ![Imagem do manual](../../../assets/images/legacy/image698.jpg) para verificar a quantidade de linha. Com isso será feito o controle de linhas inseridas na **Moldura**. No **[Montador de Expressão](../../maker/montador_de_expressoes)**, na aba **Fluxos e Funções**, localize a função **Menor**:
 
 ![image777.jpg](https://manual.softwell.com.br/assets/images/image777-1c935169a8d1a8d79dc9c5ff67e971b8.jpg)
 
-7. Insira um Processamento ![](../../../assets/images/legacy/image696.jpg) para inserir linha em uma tabela. No **[Montador de Expressão](../../maker/montador_de_expressoes)**, na aba **Fluxos e Funções**, localize a função **Tabela - Inserir linha em uma tabela**:
+7. Insira um Processamento ![Imagem do manual](../../../assets/images/legacy/image696.jpg) para inserir linha em uma tabela. No **[Montador de Expressão](../../maker/montador_de_expressoes)**, na aba **Fluxos e Funções**, localize a função **Tabela - Inserir linha em uma tabela**:
 
 ![image700.jpg](https://manual.softwell.com.br/assets/images/image700-1192e239310a43b5fc1ba11c28c76ef9.jpg)
 
-8. Insira um Processamento ![](../../../assets/images/legacy/image696.jpg) para inicializar a variável **Contador de Célula**. No **[Montador de Expressão](../../maker/montador_de_expressoes)**, na aba **Identificadores**, tipo **Inteiro,** adicione **1**:
+8. Insira um Processamento ![Imagem do manual](../../../assets/images/legacy/image696.jpg) para inicializar a variável **Contador de Célula**. No **[Montador de Expressão](../../maker/montador_de_expressoes)**, na aba **Identificadores**, tipo **Inteiro,** adicione **1**:
 
 ![image1380.jpg](https://manual.softwell.com.br/assets/images/image1380-2b70204d0366e99f4443abc87291c80a.jpg)
 
-9. Insira uma Decisão ![](../../../assets/images/legacy/image698.jpg) para verificar a quantidade de células. Com isso será feito o controle de células inseridas na **Moldura**. No **[Montador de Expressão](../../maker/montador_de_expressoes)**, na aba **Fluxos e Funções**, localize a função **Menor**:
+9. Insira uma Decisão ![Imagem do manual](../../../assets/images/legacy/image698.jpg) para verificar a quantidade de células. Com isso será feito o controle de células inseridas na **Moldura**. No **[Montador de Expressão](../../maker/montador_de_expressoes)**, na aba **Fluxos e Funções**, localize a função **Menor**:
 
 ![image778.jpg](https://manual.softwell.com.br/assets/images/image778-71f2571ef91c053404672141d64b9eb5.jpg)
 
-10. Insira um Processamento ![](../../../assets/images/legacy/image696.jpg) para inserir células em uma linha. No **[Montador de Expressão](../../maker/montador_de_expressoes)**, na aba **Fluxos e Funções**, localize a função **Tabela - Inserir célula em uma linha**:
+10. Insira um Processamento ![Imagem do manual](../../../assets/images/legacy/image696.jpg) para inserir células em uma linha. No **[Montador de Expressão](../../maker/montador_de_expressoes)**, na aba **Fluxos e Funções**, localize a função **Tabela - Inserir célula em uma linha**:
 
 ![image1205.jpg](https://manual.softwell.com.br/assets/images/image1205-f163bbb7a3a9c7b1701493f4204d4ce9.jpg)
 
-11. Insira um Processamento ![](../../../assets/images/legacy/image696.jpg) para incrementar a variável **Contador de Célula**. No **[Montador de Expressão](../../maker/montador_de_expressoes)**, na aba **Fluxos e Funções**, localize a função **Soma**:
+11. Insira um Processamento ![Imagem do manual](../../../assets/images/legacy/image696.jpg) para incrementar a variável **Contador de Célula**. No **[Montador de Expressão](../../maker/montador_de_expressoes)**, na aba **Fluxos e Funções**, localize a função **Soma**:
 
 ![image779.jpg](https://manual.softwell.com.br/assets/images/image779-9dca27ca5cc906b66e665f0fffcf2328.jpg)
 
-Insira um Processamento ![](../../../assets/images/legacy/image696.jpg) para incrementar a variável **Contador de Linha**. No **[Montador de Expressão](../../maker/montador_de_expressoes)**, na aba **Fluxos e Funções**, localize a função **Soma**:
+Insira um Processamento ![Imagem do manual](../../../assets/images/legacy/image696.jpg) para incrementar a variável **Contador de Linha**. No **[Montador de Expressão](../../maker/montador_de_expressoes)**, na aba **Fluxos e Funções**, localize a função **Soma**:
 
 ![imageex2.jpg](https://manual.softwell.com.br/assets/images/imageex2-ee4f8f8c29d16cebe8707b213a1d07d9.jpg)
 

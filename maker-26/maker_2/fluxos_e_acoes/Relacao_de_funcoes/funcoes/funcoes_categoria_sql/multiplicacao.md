@@ -16,7 +16,7 @@ multiplicado.
 2. Valor a ser
 multiplicado pelo 1° parâmetro.
 
-![](../../../../../image1237.gif)
+![Imagem do manual](../../../../../image1237.gif)
 
 Retorno:
 

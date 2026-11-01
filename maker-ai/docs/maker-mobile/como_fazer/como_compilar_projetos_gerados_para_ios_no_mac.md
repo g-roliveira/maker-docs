@@ -32,10 +32,10 @@ Nos passos abaixo, será demonstrado a compilação manual de um projeto para a 
     pod install
 - Após a execução destes passos, abra o arquivo **MakerMobile.xcworkspace**. O Xcode automaticamente entrará em execução.
 
-  ![](https://manual.softwell.com.br/assets/images/ios_1-fdba604596d5599817d2fb4d38895739.png) ![](https://manual.softwell.com.br/assets/images/ios_3-f0895bab44a3bb1824470f3ab5ff2f21.png)
+  ![Imagem do manual](https://manual.softwell.com.br/assets/images/ios_1-fdba604596d5599817d2fb4d38895739.png) ![Imagem do manual](https://manual.softwell.com.br/assets/images/ios_3-f0895bab44a3bb1824470f3ab5ff2f21.png)
 - Selecione o dispositivo onde será executada a aplicação e em seguida clique no botão **Run**.
   A aplicação será disparada automaticamente após a compilação.
 
-  ![](https://manual.softwell.com.br/assets/images/ios_2-657de8dc67f976ca480bf620ad9c4533.png)
+  ![Imagem do manual](https://manual.softwell.com.br/assets/images/ios_2-657de8dc67f976ca480bf620ad9c4533.png)
 
 A documentação do Homebrew está disponível [aqui.](https://docs.brew.sh/)

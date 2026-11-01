@@ -12,7 +12,7 @@ Parâmetros:
 
 1. Campo a ser somado.
 
-![](../../../../../image1241.gif)
+![Imagem do manual](../../../../../image1241.gif)
 
 Retorno:
 

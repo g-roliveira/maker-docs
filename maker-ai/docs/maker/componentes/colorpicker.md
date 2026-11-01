@@ -7,7 +7,7 @@ O Componente ColorPicker tem como funcionalidade mostrar um seletor de cores no 
 
 ColorPicker:
 
-![](https://manual.softwell.com.br/assets/images/colorpicker_image-ef2e19442fcd43db66a611c46c203666.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/colorpicker_image-ef2e19442fcd43db66a611c46c203666.png)
 *Imagem 1 - Interface Componente ColorPicker*
 
 **Propriedades em comum:**

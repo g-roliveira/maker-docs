@@ -23,7 +23,7 @@ O Webrun disponibiliza através da **API de Funções**, diversas funções de *
 
 Por padrão, o Webrun já possui **5 endpoints** alocados com o prefixo **WS** mas essa quantidade pode ser alterada pela tela de **Parâmetros de Configuração**.
 
-![](https://manual.softwell.com.br/assets/images/websocket_01-13282096bdf733f3fe886cd0937141f7.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/websocket_01-13282096bdf733f3fe886cd0937141f7.png)
 
 No grupo **Websocket**, são especificados dois parâmetros, onde o primeiro é o **Prefixo dos Endpoints** e o segundo é a **Quantidade de Endpoints** que serão alocados. Por definição, os endpoins são alocados **somente durante a inicialização do Tomcat**. Após alterar esses valores é necessário reiniciar o mesmo para que as alterações sejam realizadas.
 

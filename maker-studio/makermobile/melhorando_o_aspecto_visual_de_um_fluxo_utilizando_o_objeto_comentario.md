@@ -13,12 +13,12 @@ Neste exemplo, o objeto Conector será utilizado com a finalidade de melhorar o 
 
 Veja abaixo um fluxo com aspecto visual inadequado.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/melhorando_aspecto_visual.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/melhorando_aspecto_visual.jpg)
 
 Agora veja abaixo o mesmo fluxo, só que organizado, note a utilização do Conector para melhorar seu aspecto visual.
  Observe que após organização, o fluxo ficou com uma aparência amigável.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/melhorando_aspecto_visual_2.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/melhorando_aspecto_visual_2.jpg)
 
 Observe também que o tamanho do componente foi reduzido para não interferir na visualização entre os processamentos.
  Dessa forma podemos visualizar todo o trajeto de cada decisão sem causar problemas a funcionalidade do fluxo.

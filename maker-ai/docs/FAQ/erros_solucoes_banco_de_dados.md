@@ -138,11 +138,11 @@ Executando o script abaixo é possível fazer com que haja uma conversão de tip
 
 1. No projeto selecionado, abra o menu **Utilitários;**
 
-![](https://manual.softwell.com.br/assets/images/erros_solucoes_1-030f2c43dbb4008f3950b7a4a340963c.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/erros_solucoes_1-030f2c43dbb4008f3950b7a4a340963c.png)
 
 2. Selecione a opção **Executor de Scripts SQL...**
 
-![](https://manual.softwell.com.br/assets/images/erros_solucoes_2-5fb65c1f9f223516720aded5c73a5dac.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/erros_solucoes_2-5fb65c1f9f223516720aded5c73a5dac.png)
 
 3. **Insira o script abaixo:**
 

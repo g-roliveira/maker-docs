@@ -29,28 +29,28 @@ Funções que serão utilizadas:
 
 ### Fluxo 1
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/estrutura.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/estrutura.png)
 
 1. Utilizamos a função **Upload** para que seja informado o arquivo a terá o texto obtido, informando no terceiro parâmetro o fluxo que será executado quando o upload estiver finalizado.
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/OCRUpload.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/OCRUpload.png)
 
 ### Fluxo 2
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/estrutura1.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/estrutura1.png)
 
 1. No primeiro processamento utilizamos a função **OCR - Obter Texto de Arquivo** informando como primeiro parâmetro o caminho do arquivo enviado para o servidor e segundo parâmetro o idioma do arquivo, obtendo o texto.
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/OCRFuncao.png)2. No segundo processamento iremos tratar o texto para que seja retornado uma lista de informações para que futuramente possamos alterar os campos do formulário.
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/ocr_proc2.png)3. No subfluxo iremos passar como parâmetro a lista obtida.
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/ocr_proc3.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/OCRFuncao.png)2. No segundo processamento iremos tratar o texto para que seja retornado uma lista de informações para que futuramente possamos alterar os campos do formulário.
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/ocr_proc2.png)3. No subfluxo iremos passar como parâmetro a lista obtida.
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/ocr_proc3.png)
 
 ### Fluxo 3
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/estrutura2.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/estrutura2.png)
 
 O fluxo 3 é o responsável por realizar a modificação do formulário com as informações obtidas, como o mesmo segue a mesma sequência lógica de alteração, apenas o primeiro processamento será demonstrado.
 Para maior esclarecimento basta realizar o download do exemplo [**clicando aqui.**](http://download.softwell.com.br/suporte/exemplos/frz/Exemplo_OCR.zip).
 
 1. No primeiro processamento utilizamos a função **Alterar Valor do Componente** obtendo a informação referente ao nome a ser cadastrado conforme o arquivo que teve o texto extraído.
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/ocr_proc4.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/ocr_proc4.png)
 
 Assista o vídeo do exemplo:

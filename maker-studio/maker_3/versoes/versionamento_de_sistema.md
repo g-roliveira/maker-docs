@@ -48,4 +48,4 @@ Utilizando Versionamento do Sistema- Esse exemplo demonstra a utilização do ve
 
 ____________________________________________________________________________
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)

@@ -11,10 +11,10 @@ A propriedade Texto da Pesquisa permite ao usuário personalizar o texto de exib
 
 Para configurar, basta acessar a aba **Propriedades** do componente e em seguida, alterar o valor da propriedade **Texto da Pesquisa**.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/texto_da_pesquisa.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/texto_da_pesquisa.png)
 
 Veja abaixo:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/texto_da_pesquisa_webrun.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/imagemnovos/texto_da_pesquisa_webrun.png)
 
 **Confira abaixo um vídeo demonstrando a funcionalidade da nova propriedade do Menu:**

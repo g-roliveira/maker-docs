@@ -17,31 +17,31 @@ O componente Grade foi atualizado e funcionalidades novas foram inseridas:
 
 - Novo layout - O componente está de cara nova, seguindo as tendências do mercado, com um visual limpo e sofisticado, a nova grade cumpre o compromisso de proporcionar uma melhor experiência para o usuário, facilitando a interação e proporcionando uma maior funcionalidade do componente.
 
-  ![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/grade1.PNG)
+  ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/grade1.PNG)
 - Performance - O componente recebeu uma melhoria na performance, tornando o processamento de dados mais rápido e objetivo, facilitando o seu uso, gerando otimização de tempo.
 
-  ![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/performance.gif)
+  ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/performance.gif)
 - Congelamento de colunas  diretamente do menu de contexto da Grade - Com a atualização, é possível realizar o congelamento das colunas, que resulta em uma melhor visualização de dados e busca de informações;
 
-  ![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/congelar.gif)
+  ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/congelar.gif)
 - Ocultamento de colunas  diretamente do menu de contexto da Grade - Com a atualização, é possível realizar o ocultamento das colunas de forma prática, que resulta em uma busca de dados com maior precisão.
 
-  ![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/ocultar.gif)
+  ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/ocultar.gif)
 
-  ![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/ocultarantigo.gif)
+  ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/ocultarantigo.gif)
 - Exportar os dados em diversos formatos - É possível exportar os dados da grade para as principais plataformas da atualidade, com isso, os dados podem ser consultados nos formatos disponíveis facilitando a análise dos mesmos.
 
-  ![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/export.gif)
+  ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/export.gif)
 - Novos recursos de ajustes e otimização na visualização dos dados:
 
   - Ordenar os registros da grade a partir das colunas diretamente do menu de contexto da Grade;
 
-    ![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/ordenarcontexto.gif)
+    ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/ordenarcontexto.gif)
   - Definir a ordem das colunas diretamente da grade, com a praticidade de apenas arrastar a coluna desejada;
 
-    ![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/reordenar.gif)
+    ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/reordenar.gif)
 
-    ![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/reordenarantigo.gif)
+    ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/reordenarantigo.gif)
 
 A Grade possui algumas propriedades particulares, que serão detalhadas a seguir:
 
@@ -302,22 +302,22 @@ Ao clicar no botão ![....png](https://suporte.softwell.com.br/Manual/MakerStudi
 
 1. Habilitar Agrupamento - Ao marcar essa opção, será permitido agrupar os registros utilizando o menu de contexto de uma das colunas da grade. Assim os registros aparecerão dentro de cada linha contida na coluna selecionada.
 
-   ![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/agrupamento-habilitar_agrupamento.gif)
+   ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/agrupamento-habilitar_agrupamento.gif)
 2. Agrupamento Múltiplo - Ao marcar essa opção, será permitido realizar o agrupamento, aninhando uma coluna dentro da outra.
 
-   ![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/agrupamento-agrupamento_multiplo.gif)
+   ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/agrupamento-agrupamento_multiplo.gif)
 3. Exibir Sumário no Agrupamento - Ao marcar essa opção será mostrado o resultado de uma operação da(s) coluna(s) selecionada(s) no Sumário do Grupo ou no Sumário Geral.
 
-   ![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/agrupamento-exibir_sumario.gif)
+   ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/agrupamento-exibir_sumario.gif)
 4. Exibir Sumário no Cabeçalho - Ao marcar essa opção, será mostrado o resultado de uma operação da(s) coluna(s) selecionada(s) na mesma linha que for exibida o nome do grupo sem a necessidade de expandi-lo.
 
-   ![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/agrupamento-exibir_sumario_cabecalho.gif)
+   ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/agrupamento-exibir_sumario_cabecalho.gif)
 5. Exibir Sumário em Grupos Contraídos - Ao marcar essa opção, será mostrado o resultado de uma operação da(s) coluna(s) selecionada(s) uma linha abaixo dos respectivos grupos.
 
-   ![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/agrupamento-exibir_sumario_grupos_contraidos.gif)
+   ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/agrupamento-exibir_sumario_grupos_contraidos.gif)
 6. Exibir Sumário Geral - Ao marcar essa opção será mostrado o resultado da quantidade de todos os registros das colunas do tipo inteiro abaixo da grade. Também é possível definir as colunas para serem sumarizadas a operação e o fluxo que irá receber o resultado do sumário. (Ver Observação 4)
 
-   ![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/agrupamento-exibir_sumario_geral.gif)
+   ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/agrupamento-exibir_sumario_geral.gif)
 
 Observações:
 
@@ -333,10 +333,10 @@ Observações:
    - Operadores: com o clique direito do mouse sobre a opção de busca, serão apresentadas as condicionais/operadores de acordo com o tipo do dado da coluna. Assim o usuário terá maior controle na obtenção da informação.
    - Cláusula: nesse modelo de filtro, ao inserir mais de um campo para busca o valor será agregado ao operador lógico E (AND).
 
-   ![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/grid/grid_filter.png)
+   ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/grid/grid_filter.png)
 2. Filtro avançado: ativo por meio do menu de contexto do componente esta opção permitirá o carregamento do editor de filtro, permitindo assim a cobinação de expressões.
 
-   ![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/grid/grid_advanced_filter.png)
+   ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/grid/grid_advanced_filter.png)
 
    Operadores suportados:
 
@@ -346,7 +346,7 @@ Observações:
 
    Com os operadores supracitados o usuário terá a possibilidade de montar diversas expressões complexas (por exemplo BI), combinando operadores para a obtenção da informação.
 
-   ![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/grid/grid_advanced_editor.png)
+   ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/grid/grid_advanced_editor.png)
 
 - Modo do Filtro - Possibilita o desenvolvedor escolher o modo de obtenção dos dados na realização do filtro:
 
@@ -362,4 +362,4 @@ O evento é executado quando o usuário executa duplo clique com o botão esquer
 
 ____________________________________________________________________________
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)

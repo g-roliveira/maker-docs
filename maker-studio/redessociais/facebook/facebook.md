@@ -31,15 +31,15 @@ Em um projeto pré-existente, crie um novo formulário.
 
 - Com o Maker aberto, expanda o gerenciador de objetos e clique com o botão direito no grupo ‘Formulários’ e clique em **Novo,** conforme imagem abaixo**:**
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/redessociais/facebook/apiFb/form_a.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/redessociais/facebook/apiFb/form_a.png)
 
 1. No assistente de criação, defina o nome do seu formulário e clique em OK. Em seguida, configure as propriedades do formulário, clicando com o botão direito do  *mouse* de acordo com as imagens abaixo:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/redessociais/facebook/apiFb/form_0.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/redessociais/facebook/apiFb/form_0.png)
 
 Criando e nomeando um novo formulário.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/redessociais/facebook/apiFb/form_23.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/redessociais/facebook/apiFb/form_23.png)
 
 Configurando as propriedades do formulário.
 
@@ -47,11 +47,11 @@ Configurando as propriedades do formulário.
 
 3. Clique com o botão direito do *mouse* sobre o botão **exibir** e escolha o evento **Ao Clicar**
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/redessociais/facebook/apiFb/form_c.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/redessociais/facebook/apiFb/form_c.png)
 
 4. Neste exemplo, criamos 6 processos até aqui. Observe abaixo:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/redessociais/facebook/apiFb/form_d.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/redessociais/facebook/apiFb/form_d.png)
 
 ##
 
@@ -79,7 +79,7 @@ Não possui.
 
 2. Caso o 6º parâmetro não seja informado, o valor padrão adotado é "social";
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/redessociais/facebook/apiFb/form_6.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/redessociais/facebook/apiFb/form_6.png)
 
 -Facebook Comentários
 
@@ -98,7 +98,7 @@ Não Possui.
  **Observações:**
 
 A altura do botão "compartilhar" é determinada pelo layout escolhido no 2º parâmetro. A largura do botão será determinada pela largura do componente moldura.
-![](https://suporte.softwell.com.br/Manual/MakerStudio/redessociais/facebook/apiFb/form_5.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/redessociais/facebook/apiFb/form_5.png)
 
 ##
 
@@ -120,7 +120,7 @@ Não possui.
 
 Não possui.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/redessociais/facebook/apiFb/form_7.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/redessociais/facebook/apiFb/form_7.png)
 
 Facebook - Exibir Postagem
 
@@ -151,7 +151,7 @@ Não possui.
 
 2. Caso o 5º parâmetro não seja informado, a página atual será adotada.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/redessociais/facebook/apiFb/form_8.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/redessociais/facebook/apiFb/form_8.png)
 
 ##
 
@@ -185,7 +185,7 @@ Não possui.
 
 2. As seguintes opções são válidas para o 8º parâmetro: "small", "medium", "large" ou "xlarge";
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/redessociais/facebook/apiFb/form_9.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/redessociais/facebook/apiFb/form_9.png)
 
 ##
 
@@ -203,7 +203,7 @@ Não possui.
 
 1. O fluxo chamado no primeiro parâmetro receberá o Status do aplicativo. O status pode ser "connected" quando o usuário autenticou a permissão do aplicativo no Facebook, "not_authorized" quando está logado no Facebook mas não autenticado no Aplicativo ou "unknown" quando não está logado no Facebook, então não se sabe se está autenticado no Aplicativo.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/redessociais/facebook/apiFb/form_10.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/redessociais/facebook/apiFb/form_10.png)
 
 ##
 
@@ -229,7 +229,7 @@ Não possui.
 
 1. App ID é obtido no link do  [Facebook Developers](https://developers.facebook.com/apps), após criar um novo App.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/redessociais/facebook/apiFb/form_11.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/redessociais/facebook/apiFb/form_11.png)
 
 ##
 
@@ -261,7 +261,7 @@ Não possui.
 
 3. Por padrão, as últimas postagens da página não são exibidas (7º parâmetro);
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/redessociais/facebook/apiFb/form_12.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/redessociais/facebook/apiFb/form_12.png)
 
 Ao inserir em seu projeto as funções necessárias, salve todo o projeto e execute-o no Webrun
 
@@ -269,13 +269,13 @@ Ao inserir em seu projeto as funções necessárias, salve todo o projeto e exec
 
 Ao executar o projeto no Webrun, o mesmo ficará assim:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/redessociais/facebook/apiFb/form_16.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/redessociais/facebook/apiFb/form_16.png)
 
 Neste exemplo o parâmetro APP ID foi passado manualmente e para que as outras funções que precise do mesmo funcione, foi preciso digitá-lo no campo APP ID.
 
 Mesmo com o Facebook logado, será necessário que o usuário dê permissão ao aplicativo criado.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/redessociais/facebook/apiFb/form_17.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/redessociais/facebook/apiFb/form_17.png)
 
 [Voltar](../../novidades/releasecompleto)
 

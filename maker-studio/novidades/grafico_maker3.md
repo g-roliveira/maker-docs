@@ -3,7 +3,7 @@ title: "Gráfico Maker 3.8"
 source_url: "https://suporte.softwell.com.br/Manual/MakerStudio/novidades/grafico_maker3.html"
 ---
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/icongrafico.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/icongrafico.png)
 
 O Maker 3.8 traz, de forma nativa, integração com a API do GoogleCharts contendo uma variadade de customizações.
 
@@ -37,7 +37,7 @@ O Maker 3.8 traz, de forma nativa, integração com a API do GoogleCharts conten
 
   A consulta SQL deve ser feita manualmente selecionando 3 campos: etiqueta, valor e cor (opcional).
 
-  ![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/sqlgrafico.png)
+  ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/sqlgrafico.png)
 
   Depois de fazer manualmente o SQL e selecionar o tipo do gráfico, ao clicar no botão "Modificar Campos" a ordem dos campos devem ser selecionadas respeitando a sua ordem respectivamente.
 - **Campo Etiqueta:** Campo onde se espera os dados que seram a referência do gráfico. Ex: Setores, meses, produtos.
@@ -48,11 +48,11 @@ Observações :
 
 Essa informações só são válidas para os tipos Barra, Barra Horizontal, Lista e Área e Área Horizontal. O tipo GANTT e GAUGE tem um comportamente diferente dos outros, [mais informações aqui.](#GANTT )
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/sqlgrafico10.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/sqlgrafico10.png)
 
 No Webrun o Gráfico irá se apresentar da seguinte forma.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/sqlgrafico11.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/sqlgrafico11.png)
 
 ### Função "Gráfico - Novo"
 
@@ -83,7 +83,7 @@ No Webrun o Gráfico irá se apresentar da seguinte forma.
 
   No Webrun o Gráfico irá se apresentar da seguinte forma.
 
-  ![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/sqlgrafico14.png)
+  ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/sqlgrafico14.png)
 
 ### Eventos
 

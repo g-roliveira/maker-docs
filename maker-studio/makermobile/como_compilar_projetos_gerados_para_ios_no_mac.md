@@ -39,11 +39,11 @@ Nos passos abaixo, será demonstrado a compilação manual de um projeto para a 
     ```
 - Após a execução destes passos, abra o arquivo **MakerMobile.xcworkspace**. O Xcode automaticamente entrará em execução.
 
-  ![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/ios_1.png)
-  ![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/ios_3.png)
+  ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/ios_1.png)
+  ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/ios_3.png)
 - Selecione o dispositivo onde será executada a aplicação e em seguida clique no botão **Run**.
    A aplicação será disparada automaticamente após a compilação.
 
-  ![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/ios_2.png)
+  ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/ios_2.png)
 
 A documentação do Homebrew está disponível [aqui.](https://docs.brew.sh/)

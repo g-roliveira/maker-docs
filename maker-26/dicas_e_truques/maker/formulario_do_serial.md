@@ -19,14 +19,14 @@ Siga os passos:
 
 create table TabSerial(codigo serial,expira date)
 
-![](../../assets/images/legacy/image611.jpg)
+![Imagem do manual](../../assets/images/legacy/image611.jpg)
 
 2. Vincule o formulário à propriedade Formulário do Serial: clique com o botão direito do mouse sobre a Área de Trabalho do Maker e selecione a Propriedade contida no menu pop-up .
 3. Crie um fluxo para Verificar Serial;
 
 1. Variável local - resultado, armazena o valor de retorno ao Webrun:
 
-![](../../assets/images/legacy/image612.jpg)
+![Imagem do manual](../../assets/images/legacy/image612.jpg)
 
 2. Fluxo tipo Servidor:
 
@@ -34,7 +34,7 @@ create table TabSerial(codigo serial,expira date)
 
 3. Decisão: Data Atual&lt;= Data de Expiração?
 
-![](../../assets/images/legacy/image739.gif)
+![Imagem do manual](../../assets/images/legacy/image739.gif)
 
 4. Caso a data seja válida:Resultado:=True;
 
@@ -42,7 +42,7 @@ create table TabSerial(codigo serial,expira date)
 
 5. Caso a data não seja válida:Resultado:=False;
 
-![](../../assets/images/legacy/image741.gif)
+![Imagem do manual](../../assets/images/legacy/image741.gif)
 
 4. Crie o fluxo para alterar o critério.
 

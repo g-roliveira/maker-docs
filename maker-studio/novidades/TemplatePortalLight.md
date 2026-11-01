@@ -12,12 +12,12 @@ source_url: "https://suporte.softwell.com.br/Manual/MakerStudio/novidades/Templa
 ##
 
 - **Tela de login.**
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/TemplatePortalLightLogin.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/TemplatePortalLightLogin.png)
 
 ##
 
 - **Tela principal do novo template.**
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/TemplatePortalLight.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/TemplatePortalLight.png)
 
 ##
 

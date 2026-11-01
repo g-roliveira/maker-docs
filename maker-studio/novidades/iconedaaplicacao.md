@@ -16,11 +16,11 @@ Abra o projeto no Maker 3;
 
 1. Clique com o botão direito do mouse na área de trabalho do Maker 3 e escolha a Propriedade Ícone da Aplicação;
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/IconeAplicacao_1.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/IconeAplicacao_1.png)
 
 2. Selecione a imagem desejada da Galeria de Imagens;
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/IconeAplicacao_2.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/IconeAplicacao_2.png)
 
 3. Salve o projeto;
 
@@ -28,4 +28,4 @@ Abra o projeto no Maker 3;
 
 Ao executar o projeto no Webrun, o mesmo ficará assim:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/IconeAplicacao_3.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/novidades/IconeAplicacao_3.png)

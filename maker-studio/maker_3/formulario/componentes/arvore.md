@@ -290,4 +290,4 @@ Aplicado aos componentes [Caixa de Texto](caixa_de_texto), [Lista](lista), [List
 
 ____________________________________________________________________________
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)

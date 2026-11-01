@@ -65,11 +65,11 @@ Filtro da Grade:
 
 - Filtro Simples
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/filtro-grade/filtroSimples.gif)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/filtro-grade/filtroSimples.gif)
 
 - Filtro Avançado
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/filtro-grade/filtroAvancado.gif)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/filtro-grade/filtroAvancado.gif)
 
 Para mais detalhes [clique aqui](maker_3/formulario/componentes/grade#filtroGrade)
 
@@ -160,19 +160,19 @@ Agrupamento da Grade:
 
 - Agrupamento
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/Agrupamento.PNG)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/Agrupamento.PNG)
 
 - Exibição de Sumário
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/Agrupamento-Sumario.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/Agrupamento-Sumario.png)
 
 - Agrupamento Múltiplo
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/Agrupamento-Multiplo.PNG)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/Agrupamento-Multiplo.PNG)
 
 - Novas propriedades para exibição do agrupamento e sumarização na grade
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/Agrupamento-propriedade.PNG)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/Agrupamento-propriedade.PNG)
 
 Para mais detalhes [clique aqui](maker_3/formulario/componentes/grade#grade-agrupamento)
 
@@ -270,7 +270,7 @@ API de Funções:
 
 **- Novas funções para manipulações de arquivos Office (Excel e Word).**
 
-[![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/icon_download.png "Download do Exemplo")](http://download.softwell.com.br/suporte/exemplos/frz/Exemplo_Excel.frz)
+[![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/icon_download.png "Download do Exemplo")](http://download.softwell.com.br/suporte/exemplos/frz/Exemplo_Excel.frz)
 **[Excel](novidades/funcoes_excel)**
 
 - Excel - Abrir Arquivo
@@ -281,7 +281,7 @@ API de Funções:
 - Excel - Preencher Arquivo
 - Excel - Salvar Arquivo
 
-[![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/icon_download.png "Download do Exemplo")](http://download.softwell.com.br/suporte/exemplos/frz/Exemplo_Word.zip)
+[![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/icon_download.png "Download do Exemplo")](http://download.softwell.com.br/suporte/exemplos/frz/Exemplo_Word.zip)
 **[Word](novidades/funcoes_word)**
 
 - Word - Abrir Arquivo
@@ -756,59 +756,59 @@ Agora, o desenvolvedor possui uma infinita gama de configurações, possibilidad
 
 O Maker 3 possui uma interface mais fácil e intuitiva que auxilia o desenvolvedor no momento de criação de seus projetos, com um preview de formulários e fluxos, uma nova árvore de objetos e muito mais!
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/tela_inicial.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/tela_inicial.png)
 
 #### Repositório de objetos categorizado e moderno
 
 Agora o repositórios de objetos é categorizado e possui um visual mais moderno.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/controledeobjetos.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/controledeobjetos.jpg)
 
 #### Pré-visualização do formulário ou fluxo sem a necessidade de abri-los
 
 Nesta versão os formulários e fluxos podem ser pré-visualizados com a combinação SHIFT + passar o mouse.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/pre_visualizacao_objetos.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/pre_visualizacao_objetos.jpg)
 
 #### Visualize o projeto diretamente do Maker!
 
 Com a Aba visualização é possível observar o sistema dentro da própria IDE.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/preview_maker3.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/preview_maker3.jpg)
 
 ## Nova paleta de objetos
 
 No Maker 3 foi adicionada uma nova paleta de objetos versátil, que pode ser acessada a qualquer momento com apenas um clique (botão direito) sobre qualquer área do formulário.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/paleta_objetos_new.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/paleta_objetos_new.png)
 
 **Novos componentes**
 
 Nesta versão foram inseridos 8 novos componentes que auxiliam no desenvolvimento dos projetos, tais como: Aba, Ação, Accordion, Galeria de Imagens, Menu, Slider, Slider Panel e Timer. Além do componente "ColorPicker" da biblioteca jQuery.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/componentes_novos.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/componentes_novos.png)
 
 #### Acessar as propriedades dos componentes ficou mais rápido
 
 Com o conceito de aperfeiçoar e melhorar a usabilidade da IDE, no Maker 3 é possível alterar todas as propriedades dos componentes em apenas um único lugar.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/localizador_de_propriedades.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/localizador_de_propriedades.png)
 
 #### Definições acoplada ao formulário
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/definicoes.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/definicoes.jpg)
 
 #### Possibilidade de copiar eventos de um componente para outros, utilizando as teclas **CTRL+C** e **CTRL+V**
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/copiar_eventos_de_um_componente.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/copiar_eventos_de_um_componente.jpg)
 
 #### Possibilidade de copiar fluxos e seus parâmetros associados aos eventos para outros eventos
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/copiar.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/copiar.jpg)
 
 #### Diretório para listagem do skin.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/listagem_de_diretorios.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/listagem_de_diretorios.jpg)
 
 #### Adição de novas funcionalidades na área de trabalho
 
@@ -821,19 +821,19 @@ Com o conceito de aperfeiçoar e melhorar a usabilidade da IDE, no Maker 3 é po
 
 **Sendo os formulários de "login" e "principal" essenciais para execução do projeto no Webrun.**
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/parametros_da_area_de_trabalho.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/parametros_da_area_de_trabalho.jpg)
 
 ### Adição de Plug-ins
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/plugin2.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/plugin2.png)
 
 #### Busca Textual
 
 Este plug-in permite localizar qualquer objeto pré-existente no projeto a partir de uma palava chave. Após localizado, é possível ainda executar o objeto selecionado.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/busca_plugin.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/busca_plugin.png)
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/busca_textual.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/busca_textual.png)
 
 #### Ficha Técnica
 
@@ -847,9 +847,9 @@ Este plug-in apresenta um resumo do sistema provendo informações como média g
 
 Com este plugin, o usuário poderá personalizar todo visual do seu sistema, sem a necessidade de um alto conhecimento em HTML e CSS.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/skin_master_plugin.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/skin_master_plugin.png)
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/makerskin.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/makerskin.png)
 
 #### Visão Hierárquica
 
@@ -863,19 +863,19 @@ Este plugin, lista todos os fluxos vinculados aos componentes dos formulários.
 
 Ao selecionar objetos .FRZ que estejam em alguma pasta e arrastá-los para a área de trabalho do Maker, a janela de Importação será aberta para que os arquivos sejam importados.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/importacao.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/importacao.jpg)
 
 #### Portal de acessibilidade
 
 Permite acesso ao fórum, manual e outras opções dentro da própria IDE.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/imagem_212.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/imagem_212.png)
 
 ####
 
 O Maker e Webrun nunca foram tão unidos, a partir desta versão as configurações do Webrun poderão ser feitas na própria IDE e o status de conexão será apresentado continuamente.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/unificacao_webrun.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/unificacao_webrun.jpg)
 
 É necessário salientar que nesta versão será necessário
 que o webrun esteja instalado na máquina onde o maker será executado para garantir o perfeito funcionamento da IDE.
@@ -884,20 +884,20 @@ que o webrun esteja instalado na máquina onde o maker será executado para gara
 
 Propriedade **AUTO COMPLETAR** do componente Caixa de Texto: Ao definir esta propriedade como SIM, ao digitar sobre o mesmo será apresentado uma lista com os valores que foram digitados anteriormente.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/funcionalidade_auto_completar.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/funcionalidade_auto_completar.png)
 
 **Propriedade Ao clicar na aba do formulário**: Ao definir um evento a esta propriedade, o mesmo será executado toda vez que o usuário clicar sobre uma aba do formulário.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/ao_clicar_aba.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/ao_clicar_aba.png)
 
 **Propriedade para adição e remoção de botões da aba localizar** : O usuário poderá definir as configurações da aba localizar
 .
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/aba_localizar.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/aba_localizar.jpg)
 
 Propriedade **EDITAR NO DUPLO CLIQUE** do formulário: Com esta propriedade o usuário poderá determinar a possibilidade de entrar em modo de edição ao executar o duplo clique sobre o formulário no Webrun.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/editar_duplo_clique.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/editar_duplo_clique.jpg)
 
 Novas Propriedades do componente Grade:
 
@@ -906,13 +906,13 @@ Novas Propriedades do componente Grade:
 - Propriedade **EXECUTAR APENAS DUPLO CLIQUE** do componente Grade: Ao definir está propriedade apenas o evento ao duplo clicar será habilitado no componente;
 - Propriedade **ATIVAR AO MODIFICAR DA PÁGINA** no componente Grade : Ao definir está propriedade como SIM, o evento associado será disparado toda vez que o usuário paginar o componente.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/novas_propriedades_grade.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/novas_propriedades_grade.jpg)
 
 #### Possibilidade de configurar todos os objetos do fluxograma
 
 A partir de agora todos os objetos do fluxo de ações podem ser reconfigurados.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/confg_fluxo.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/confg_fluxo.jpg)
 
 ## Novas funcionalidades no Editor de fluxo de ações
 
@@ -942,103 +942,103 @@ O Editor de fluxo de ações sofreu uma grande reformulação nesta versão, com
 
 **Grade de posicionamento de objetos para facilitar a organização dos mesmos**:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/posicionamento_grade.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/posicionamento_grade.jpg)
 
 Nova paleta de objetos para o editor de fluxo. Todas funcionalides em um só lugar!
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/orbitaljpg.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/orbitaljpg.jpg)
 
 **Zoom**:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/maker3_zoom.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/maker3_zoom.jpg)
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/fluxo_1.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/fluxo_1.jpg)
 
 **Criação de fluxos templates para facilitar utilização de rotinas:**
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/fluxo_1.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/fluxo_1.jpg)
 
 **Busca de fluxos, variáveis e constantes****nos objetos**:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/fluxo_busca.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/fluxo_busca.jpg)
 
 **Traçar rota para facilitar a visualização do trajeto que o fluxo executará:**
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/maker3_6.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/maker3_6.png)
 
 ### Novo montador de expressões
 
 Agora o montador de expressões é mais inteligente e intuitivo com funcionalidades que auxiliam no aumento da produtividade no momento de desenvolvimento.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/montador_new_2.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/montador_new_2.jpg)
 
 #### Atalhos para adicionar parâmetros e copiar/colar um nó da árvore do montador de expressões
 
 Possibilidade de copiar um nó criado e colar em outro parâmetro, através das teclas de atalho.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/concatenacao.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/concatenacao.jpg)
 
 #### Acesso a Funções e fluxos, Parâmetros e Variáveis
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/menu_flutuante.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/menu_flutuante.png)
 
 #### Possibilidade de rotacionar a expressão
 
 Há a possibilidade de rotacionar os objetos do **Montador de Expressão**, para uma melhor visualização conforme o gosto do usuário
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/rotacionar_montador.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/rotacionar_montador.png)
 
 #### Zoom na expressão
 
 É possível visualizar toda a expressão sem precisar utilizar a barra de rolagem.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/zoom_expressao.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/zoom_expressao.png)
 
 **Vinculação automática do formulário em uso com o formulário de trabalho de fluxos internos**
 
 Ao criar um fluxo interno, o formulário utilizado ja é apresentado como formulário de trabalho no editor de fluxo de ações.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/formulario_principal.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/formulario_principal.jpg)
 
 **Novo tipo (Formulário) utilizado nos parâmetros de entrada das definições de ações**
 
 É apresentado um novo tipo formulário na listagem de objetos que podem ser passados como parâmetros de entrada.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/parametro_de_entrada_formulario.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/parametro_de_entrada_formulario.jpg)
 
 #### **Desfazer do posicionamento dos objetos do fluxo**
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/desfazer_fluxo.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/desfazer_fluxo.jpg)
 
 #### **Editor de variáveis retrátil**
 
 **O editor de variáveis permanece na tela, podendo ser visualizado apenas com o passar do mouse no canto direito da tela do Editor de Fluxo de Ações.**
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/variaveis_retratil.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/variaveis_retratil.png)
 
 #### **Ligação automática de objetos utilizando a tecla ctrl**
 
 Agora é possível ligar objetos desconectados, apenas clicando sobre os mesmos e pressionando a tecla ctrl.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/desfazer_fluxo.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/desfazer_fluxo.jpg)
 
 #### **Avaliação de Fluxograma**
 
 Nesta versão, foi implementado uma funcionalidade que permite ao desenvolvedor garantir a utilização das boas práticas no momento de criação de suas regras, permitindo-se assim a garantia dos conceitos definidos na engenharia de software, tais como: funcionalidade, manutenabilidade, eficiência, funcionalidade e portabilidade.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/avaliacao.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/avaliacao.jpg)
 
 No canto superior direito é possível observar a nota do fluxo avaliado e ao passar o mouse será apresentado os pontos em que as boas práticas não foram introduzidas:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/observacoes_fluxo.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/observacoes_fluxo.jpg)
 
 Ao modificar os pontos que estão divergentes as boas práticas, automaticamente a avaliação do fluxo será modificada, conforme apresentado abaixo:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/fluxo_nota_10.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/fluxo_nota_10.jpg)
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/fluxo_100_okjpg.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/fluxo_100_okjpg.jpg)
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/avaliacao_total.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/avaliacao_total.jpg)
 
 Segue abaixo a pontuação da avaliação:
 
@@ -1096,19 +1096,19 @@ Crie formulários ou fluxos a partir da área de trabalho
 
 Para Melhorar
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/area_de_trabalho_novo.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/area_de_trabalho_novo.jpg)
 
 Acesso às funcionalidades do Maker com apenas um clique
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/acessibilidade.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/acessibilidade.jpg)
 
 Ligação de objetos, no editor de fluxos, com **CTRL + CLIQUE**
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/ctrl_clique.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/ctrl_clique.png)
 
 Atalhos no Montador de Expressão
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/montador_1.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/montador_1.jpg)
 
 1. **ENTER**: Abre o menu flutuante para acesso às variáveis, fluxos e funções que serão utilizadas na expressão;
 2. **CTRL + S**: Salva a expressão e fecha o montador de expressão;
@@ -1127,7 +1127,7 @@ Atalhos no Montador de Expressão
 
 O compartilhamento de formulários tem como finalidade reaproveitar um ou mais formulários de um projeto (na mesma base) para outros projetos na mesma base. Desta forma, a manutenção do formulário será realizada apenas uma vez e todos os outros projetos terão a alteração replicada automaticamente. Crie um template único para todos os seus sistemas na mesma base e compartilhe os formulários entre os sistemas, isso facilitará no desenvolvimento de novos sistemas e baseado em reuso de software você poderá aproveitar suas telas mais complexas desenvolvidos em outros sistemas Maker, tendo ainda mais produtividade no desenvolvimento de suas soluções.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/repositorio.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/repositorio.png)
 
 ## Redirecionamento automático para página de login ao expirar a sessão
 
@@ -1145,13 +1145,13 @@ Com o Maker 3.6 é possível criar dinamicamente a maioria dos componente da cat
 
 Implementado o botão de minimizar para formulários flutuantes, onde os mesmos ficam agrupados na parte inferior do formulário principal.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/minimizados.JPG)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/minimizados.JPG)
 
 ## Abrir formulários em aba a partir do menu
 
 Possibilidade de abrir os formulários através do menu, utilizando o componente aba, havendo maior controle de todos os formulários abertos.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/abas.JPG)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/abas.JPG)
 
 - [Utilizando o Menu com Abas](novidades/menuaba)
 
@@ -1159,7 +1159,7 @@ Possibilidade de abrir os formulários através do menu, utilizando o componente
 
 Com a finalidade de melhorar a usabilidade e facilitar a manutenção do menu, foi implementado a busca para os formulários, fluxos e relatórios na versão 3.6 do Maker. Para acessar essa funcionalidade, basta acessar a Estrutura do Menu que se localiza no componente Menu do formulário principal do projeto.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/MenuBusca.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/MenuBusca.png)
 
 Realizando uma busca na estrutura do menu
 
@@ -1167,7 +1167,7 @@ Para realizar a pesquisa basta acessar a Estrutura do Menu, acima da árvore à 
 
 Observe na imagem abaixo o uso da busca em um sistema com diversos formulários:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/BuscaMenuSistema.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/BuscaMenuSistema.png)
 Opção de Busca no componente Menu
 
 ## Atualização do Assistente SQL
@@ -1176,11 +1176,11 @@ Para facilitar a utilização do Join no Assistente SQL, foi implementado a adi�
 
 #### **Observe nas imagens abaixo como utilizar o Add Linked Object:**
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/AssistenteSqlLink.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/AssistenteSqlLink.png)
 
 Observe nessa imagem que ao clicar na tabela, a opção da âncora (localizada na parte superior direita da tabela) permite escolher outra tabela que possua vínculo com a mesma. Após selecionar uma das opções, a tabela escolhida será aberta com o Join setado, conforme imagem abaixo.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/AssistenteSqlLinkJoin.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/AssistenteSqlLinkJoin.png)
 
 ## Atualização do JasperReports
 
@@ -1394,15 +1394,15 @@ Função XPath - Obter Nós
 
 Nesta versão é possível configurar todo o ambiente externo da aplicação, podendo assim ser definido os formulário de Login, Formulário de Grupo , Formulário de senha, Formulário de Log e Formulário do Serial.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/tela_login_webrun.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/tela_login_webrun.jpg)
 
 ##
 
 ##
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/m1.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/m1.png)
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/m3.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/m3.png)
 
 ## Novos Componentes
 

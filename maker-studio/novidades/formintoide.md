@@ -9,4 +9,4 @@ Confira o exemplo abaixo
 
 Clicando no botão Visualizar ou apertar o F9 no seu teclado
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/formintoide.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/formintoide.png)

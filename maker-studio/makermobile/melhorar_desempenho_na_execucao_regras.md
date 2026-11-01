@@ -29,15 +29,15 @@ Abaixo, temos um exemplo de como realizar a troca das funções Concatenação p
 - Dentro do montador de expressões clicamos em cima da função Concatenação, e na barra
   de propriedades clicamos em Edição, e logo após em Trocar Item, conforme imagem abaixo:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/melhorar_desempenho_1.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/melhorar_desempenho_1.jpg)
 
 - Digite o nome da função que deseja para substituir a antiga, neste caso "Append", e clique em Salvar:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/melhorar_desempenho_2.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/melhorar_desempenho_2.jpg)
 
 - A função Append, assim como Concatenação, pode ter "*n*" parâmetros, por tanto não haverá problemas de "compatibilidade" entre as funções no caso da troca:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/melhorar_desempenho_3.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/melhorar_desempenho_3.jpg)
 
 Utilizando Try-Catch e funções de Semáforo
 
@@ -56,7 +56,7 @@ da aplicação. Por isso uma das recomendações para melhoria de desempenho é 
 de semáforos com try-catch, pois assim quando houver uma situação semelhante a supracitada,
 tais interrupções não ocorrerão. Veja o exemplo abaixo:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/melhorar_desempenho_3jpg.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/melhorar_desempenho_3jpg.jpg)
 
 Desta forma se ocorrer alguma falha na execução da regra o semáforo não ficará travado,
 pois a exceção será capturada e logo em seguida liberando o semáforo.

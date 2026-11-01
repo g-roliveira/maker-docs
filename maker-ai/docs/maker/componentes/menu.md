@@ -57,15 +57,15 @@ Um dos componentes mais aperfeiçoados pelos designers no desenvolvimento web, �
 
 É importante observar que a estrutura do Menu utiliza um processo de compressão para otimização do conteúdo gerado (XML). Desta forma, os fluxos associados a um ou mais itens do Menu não são reconhecidos como dependência do componente em questão.
 
-Ao selecionar a propriedade *Estrutura do Menu* no *Inspetor de Objetos* do Maker, note que irá aparecer o botão ![](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/4QCqRXhpZgAATU0AKgAAAAgACQEaAAUAAAABAAAAegEbAAUAAAABAAAAggEoAAMAAAABAAIAAAExAAIAAAAQAAAAigMBAAUAAAABAAAAmgMDAAEAAAABAAAAAFEQAAEAAAABAQAAAFERAAQAAAABAAAOw1ESAAQAAAABAAAOwwAAAAAAAXbyAAAD6AABdvIAAAPocGFpbnQubmV0IDQuMS42AAABhqAAALGP/9sAQwABAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB/9sAQwEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB/8AAEQgAEAAQAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A/oh0LQvhZ4W+FnwCVfgF8A/EF74g+Afws8T6xrHif4WeHdV1nUdZ1Xw7CNQvb3UBDby3c93Lb/arm5uvOu7i6muJ57iRpPlNd0L4WeKfhZ8fVb4BfAPw/e+H/gH8U/E+j6x4Y+Fnh3StZ07WdK8OzDT72y1Aw3EtpPaS3H2q2ubXybu3uobeeC4jaP5uk8CfEH4WXvwl+B0a/F/9l+C90v4H/BHRNY0z4ieP/DsXiDRNZ8H6ZBqGoaQbIXry6bFdy3H9keI7C6Ed3PFDcWE8Vs0e9jx38QfhZZfCX44xt8X/ANl+e91T4H/G7RNH0z4d+P8Aw7L4g1vWfGGmT6hp+kCyN6kupRWktv8A2R4csLUSXcEU1vYQRXLSb1AP/9k=). Pressione nele para abrir o formulário de edição do menu.
+Ao selecionar a propriedade *Estrutura do Menu* no *Inspetor de Objetos* do Maker, note que irá aparecer o botão ![Imagem do manual](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/4QCqRXhpZgAATU0AKgAAAAgACQEaAAUAAAABAAAAegEbAAUAAAABAAAAggEoAAMAAAABAAIAAAExAAIAAAAQAAAAigMBAAUAAAABAAAAmgMDAAEAAAABAAAAAFEQAAEAAAABAQAAAFERAAQAAAABAAAOw1ESAAQAAAABAAAOwwAAAAAAAXbyAAAD6AABdvIAAAPocGFpbnQubmV0IDQuMS42AAABhqAAALGP/9sAQwABAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB/9sAQwEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB/8AAEQgAEAAQAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A/oh0LQvhZ4W+FnwCVfgF8A/EF74g+Afws8T6xrHif4WeHdV1nUdZ1Xw7CNQvb3UBDby3c93Lb/arm5uvOu7i6muJ57iRpPlNd0L4WeKfhZ8fVb4BfAPw/e+H/gH8U/E+j6x4Y+Fnh3StZ07WdK8OzDT72y1Aw3EtpPaS3H2q2ubXybu3uobeeC4jaP5uk8CfEH4WXvwl+B0a/F/9l+C90v4H/BHRNY0z4ieP/DsXiDRNZ8H6ZBqGoaQbIXry6bFdy3H9keI7C6Ed3PFDcWE8Vs0e9jx38QfhZZfCX44xt8X/ANl+e91T4H/G7RNH0z4d+P8Aw7L4g1vWfGGmT6hp+kCyN6kupRWktv8A2R4csLUSXcEU1vYQRXLSb1AP/9k=). Pressione nele para abrir o formulário de edição do menu.
 
-![](https://manual.softwell.com.br/assets/images/montar_menu-1327f08822b4cb8ab94da183498865e3.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/montar_menu-1327f08822b4cb8ab94da183498865e3.png)
 
 No formulário que compõe a estrutura do menu, selecione a categoria desejada e arraste e solte o objeto sobre a árvore ao lado esquerdo na posição desejada. Observe que na primeira edição da estrutura existe somente a opção de adicionar o objeto na raiz.
 
-![](https://manual.softwell.com.br/assets/images/estrutura_menu-4ea6e8a4d0a2cb481055ab10a391efa4.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/estrutura_menu-4ea6e8a4d0a2cb481055ab10a391efa4.png)
 
-![](https://manual.softwell.com.br/assets/images/form_com_menu-e4903e24a8c7404b6267493060633f84.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/form_com_menu-e4903e24a8c7404b6267493060633f84.png)
 
 Após a finalização da edição, pressione o botão OK na parte inferior da janela para aplicar a estrutura no menu.
 
@@ -73,7 +73,7 @@ Após a finalização da edição, pressione o botão OK na parte inferior da ja
 
 Ao pressionar botão direito sob um item na árvore, um menu de contexto com as seguintes opções irá aparecer:
 
-![](https://manual.softwell.com.br/assets/images/estrutura_menu_2-a3d023571a0798aa9e9f70ec3a32b847.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/estrutura_menu_2-a3d023571a0798aa9e9f70ec3a32b847.png)
 
 Elemento Selecionado:
 
@@ -88,20 +88,20 @@ Inserir Submenu:
 
 Para definir um ícone no item basta clicar no item *Definir Ícone...* no menu de contexto. A tela de escolha de ícone irá aparecer e você poderá escolher um ícone clicando nele e poderá também estar personalizando a cor e tamanho na aba *Estilo*.
 
-![](https://manual.softwell.com.br/assets/images/estrutura_menu_3-1c8cb27539d947113de81d740f82bbb9.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/estrutura_menu_3-1c8cb27539d947113de81d740f82bbb9.png)
 
 **Personalizando Tema do Menu Horizontal:**
 
 O menu horizontal utiliza a *navbar* do Bootstrap que tem a possibilidade de escolha de temas. Para escolher um tema para o menu horizontal, clique com o botão direito do mouse no elemento *Raiz* na árvore e clique no item *Definir Tema...*
 
-![](https://manual.softwell.com.br/assets/images/estrutura_menu_4-8d653e3ca44fcb4c63d9ffa3ad7092f5.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/estrutura_menu_4-8d653e3ca44fcb4c63d9ffa3ad7092f5.png)
 
-![](https://manual.softwell.com.br/assets/images/estrutura_menu_5-462787311064da338d2ce5d609c165f2.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/estrutura_menu_5-462787311064da338d2ce5d609c165f2.png)
 
 **Visualizando Alterações:**
 
 Para visualizar as alterações na estrutura do menu, pressione no botão *Preview* na parte inferior do formulário.
 
-![](https://manual.softwell.com.br/assets/images/estrutura_menu_6-c801b7f87fc17a5eb9bdfa318f0a85ea.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/estrutura_menu_6-c801b7f87fc17a5eb9bdfa318f0a85ea.png)
 
 - [Propriedades e Eventos em comum aos Objetos](../propriedades_e_eventos_comum)

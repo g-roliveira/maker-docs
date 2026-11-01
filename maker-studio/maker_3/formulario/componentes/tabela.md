@@ -13,7 +13,7 @@ O componente tabela permite que os dados sejam representados em formato "Grade" 
 
 O componente Tabela possui as seguintes propriedades:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/TabelaPropriedades.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/TabelaPropriedades.png)
 
 **- Propriedade SQL:**
 
@@ -33,13 +33,13 @@ Após definir essas opções, basta clicar em Ok para inserir a coluna na grade 
 
 **Tabela - Tela do cabeçalho**
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/comp2.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/comp2.png)
 
 **- Ativar Pesquisa:** Essa propriedade permite mostrar/ocultar a opção da pesquisa que se localiza acima da tabela. Vem setado como "Sim" por Default.
 
 **- Acessível Todos os Modos:** Essa propriedade tem como finalidade definir se o componente ficará acessível ou não nos modos de alteração e/ou inclusão.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/TabelaWebrun.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/TabelaWebrun.png)
 
 As propriedades abaixo foram adicionadas a partir do Maker 3.8
 
@@ -73,7 +73,7 @@ As propriedades abaixo foram adicionadas a partir do Maker 3.8
 
 **O componente Tabela possui os seguintes eventos:**
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/TabelaEventos.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/TabelaEventos.png)
 
 **- Ao Clicar:** Este evento executará o fluxo informado quando for efetuado um clique na linha do componente.
 **- Ao Duplo Clique:** O evento será executado ao realizar o duplo clique na linha do componente.
@@ -96,20 +96,20 @@ Com isso, diversas melhorias foram realizadas para melhor atendimento a usabilid
 
 Entre as melhorias realizadas destacamos:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/maker_3/formulario/imagens/TabelaEditando.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/maker_3/formulario/imagens/TabelaEditando.png)
 
 - As colunas podem ser do tipo: Lista, Lista Dinâmica, Botão, Imagem ou Caixa de Texto.
 
-  ![](https://suporte.softwell.com.br/Manual/MakerStudio/maker_3/formulario/imagens/TabelaCrudInterfaceTipo.png)
+  ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/maker_3/formulario/imagens/TabelaCrudInterfaceTipo.png)
 - Suporte a eventos nas colunas (Em modo de Inclusão ou Edição) de acordo com o tipo.
 
-  ![](https://suporte.softwell.com.br/Manual/MakerStudio/maker_3/formulario/imagens/TabelaCRUDInterfaceEventosCampos.png)
+  ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/maker_3/formulario/imagens/TabelaCRUDInterfaceEventosCampos.png)
 - Suporte aos eventos Antes de Alterar, Antes de Inserir, Antes de Excluir, Depois de Alterar, Depois de Inserir e Depois de Excluir.
 
-  ![](https://suporte.softwell.com.br/Manual/MakerStudio/maker_3/formulario/imagens/TabelaCRUDEventos.png)
+  ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/maker_3/formulario/imagens/TabelaCRUDEventos.png)
 - A edição do cabeçalho foi reestruturada:
 
-  ![](https://suporte.softwell.com.br/Manual/MakerStudio/maker_3/formulario/imagens/TabelaCRUDInterface.png)
+  ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/maker_3/formulario/imagens/TabelaCRUDInterface.png)
   - **Formatação (Máscara):** Permite aplicar uma máscara na coluna selecionada.
   - **Tipo:** Define o tipo do componente que será usado ao editar ou incluir um registro.
   - **Ordenação:** Permite selecionar a ordem de exibição das colunas.
@@ -121,4 +121,4 @@ Entre as melhorias realizadas destacamos:
 
 ________________________________________________________________________________________
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)

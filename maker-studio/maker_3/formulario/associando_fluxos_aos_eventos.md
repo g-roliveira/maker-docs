@@ -77,7 +77,7 @@ Para informações detalhadas sobre Ações do Formulário, [clique aqui](evento
 
 A partir da versão 3 do Maker é possivel associar fluxos, a formulários e seus componentes através do inspetor de objetos , como demonstra a figura abaixo:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image275.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image275.png)
 
 Observações:
 
@@ -90,4 +90,4 @@ Observações:
 
 ____________________________________________________________________________
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)

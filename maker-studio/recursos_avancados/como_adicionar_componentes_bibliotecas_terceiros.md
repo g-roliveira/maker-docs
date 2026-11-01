@@ -145,13 +145,13 @@ Faremos agora um fluxo e o colocaremos no evento "Ao Entrar" de um formulário. 
 
 Primeiro deveram ser criadas as seguintes variáveis.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/recursos_avancados/imagens/dialog.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/recursos_avancados/imagens/dialog.png)
 
 Logo após deveram ser adicionados os seguintes processamentos.
 
 Processamento 1:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/recursos_avancados/imagens/dialog13.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/recursos_avancados/imagens/dialog13.png)
 
 Nesse processamento deve ser feito o includ das bibliotecas no webrun com o seguinte código.
 
@@ -161,67 +161,67 @@ webrun.include('MeusJS/dialog/jquery-ui-1.8.24.custom.min.js');
 
 Processamento 2:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/recursos_avancados/imagens/dialog2.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/recursos_avancados/imagens/dialog2.png)
 
 O CSS deve ser importado da seguinte forma, basta copiar todo o código do arquivo dialog.css que foi disponibilizado no download acima.
 
 Processamento 3:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/recursos_avancados/imagens/dialog3.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/recursos_avancados/imagens/dialog3.png)
 
 O elemento &lt;lay&gt; deve ser obtido para a sua utilização posteriormente.
 
 Processamento 4:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/recursos_avancados/imagens/dialog4.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/recursos_avancados/imagens/dialog4.png)
 
 O elemento &lt;a&gt; deve ser criada passando os parâmetros acima.
 
 Processamento 5:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/recursos_avancados/imagens/dialog5.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/recursos_avancados/imagens/dialog5.png)
 
 Criar um elemento &lt;p&gt; para utilização conjunta ao próximo elemento.
 
 Processamento 6:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/recursos_avancados/imagens/dialog6.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/recursos_avancados/imagens/dialog6.png)
 
 Um elemento &lt;div&gt; deve ser criado com os seguintes parâmetros.
 
 Processamento 7:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/recursos_avancados/imagens/dialog7.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/recursos_avancados/imagens/dialog7.png)
 
 É preciso definir o conteúdo que irá ficar dentro do dialog.
 
 Processamento 8:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/recursos_avancados/imagens/dialog8.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/recursos_avancados/imagens/dialog8.png)
 
 Aqui é definido o conteúdo que irá ficar dentro do elemento &lt;a"o mesmo será o botão que abrirá o dialog.
 
 Processamento 9:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/recursos_avancados/imagens/dialog9.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/recursos_avancados/imagens/dialog9.png)
 
 Depois basta anexar o elemento &lt;p&gt; dentro do elemento &lt;div&gt;.
 
 Processamento 10:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/recursos_avancados/imagens/dialog10.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/recursos_avancados/imagens/dialog10.png)
 
 Anexar o elemento &lt;a&gt; ao nosso &lt;lay&gt;.
 
 Processamento 11:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/recursos_avancados/imagens/dialog11.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/recursos_avancados/imagens/dialog11.png)
 
 E anexar a &lt;div&gt; a &lt;lay&gt;.
 
 Processamento 12:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/recursos_avancados/imagens/dialog12.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/recursos_avancados/imagens/dialog12.png)
 
 Esse é o script que irá fazer o dialog funcionar, sem ele a nossa caixa de dialog é uma simples &lt;div&gt;, o código é da seguinte forma.
 
@@ -259,6 +259,6 @@ return false;
 
 No webrun o seguinte resultado será apresentado.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/recursos_avancados/imagens/dialog14.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/recursos_avancados/imagens/dialog14.png)
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/recursos_avancados/imagens/dialog15.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/recursos_avancados/imagens/dialog15.png)

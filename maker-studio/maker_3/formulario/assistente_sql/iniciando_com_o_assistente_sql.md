@@ -66,4 +66,4 @@ Observações:
 8. Ao utilizar as telas do Maker em uma determinada resolução, o tamanho e posições das janelas são salvas. Logo, se a resolução for diminuída, as janelas aparecerão com os tamanhos da última vez em que foram acessadas. O tamanho delas independe da resolução atual do monitor.
 9. Assistente SQL não suporta o "Distinct ON". Como alternativa, utilize o recurso VIEW do banco de dados.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)

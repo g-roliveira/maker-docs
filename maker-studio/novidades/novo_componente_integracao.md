@@ -34,7 +34,7 @@ Confira as funcionalidades do mesmo:
 
 ### Para configurar o componente, utilize a propriedade "Estrutura" do mesmo:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/integracao_prop.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/integracao_prop.png)
 
 - Na propriedade estrutura, uma tela de edição do componente Integração é aberta, onde na mesma é possivel a configuração de toda estrutura.
 
@@ -44,37 +44,37 @@ Segue imagens de um componente já configurado.
 
 Aba onde será inserido o conteúdo HTML do componente desejado, é recomendável que se insira apenas o conteúdo dentro do "body do documento, pois o cabeçalho é tratado automaticamente pelo Integração
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/integracao_HTML.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/integracao_HTML.png)
 
 - CSS.
 
 Aba onde será inserido o conteúdo CSS do componente.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/integracao_CSS.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/integracao_CSS.png)
 
 - Java Script.
 
 Aba onde se insere o código JavaScript do componente, ao utilizar códigos de frameworks de terceiros, deve-se importar a biblioteca na tela seguinte para o devido funcionamento.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/integracao_JS.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/integracao_JS.png)
 
 - Bibliotecas.
 
 Aqui serão inseridas as bibliotecas para framework JavaScript e CSS, deve ser passado o endereço CDN da biblioteca, o mesmo deve ser passado com o prefixo completo do endereço (http://).
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/integracao_Library.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/integracao_Library.png)
 
 - Eventos.
 
 Nesta aba é possível vincular eventos Maker à elementos específicos do HTML inserido. Para ser possível vincular os eventos, estes elementos (tags) devem possuir um ID, no caso de tags "button" e "a", caso não possuam ID, serão adicionados automaticamente pelo Integração. Os fluxos serão executados por eventos DOM pre-definidos no componente, deve-se ficar atento às restrições de eventos para certos tipos de elemento. Poderá também ser passado parâmetros (em forma de Constante) para os fluxos, desde que esses sejam feitos para recebê-los.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/integracao_Events.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/integracao_Events.png)
 
 - Visualização.
 
 A aba de pré-visualização estará sempre exibindo o seu componente já estruturado e com eventos vinculados. OBS.: Alguns eventos javascript podem não ocorrer na tela de pré-visualização, porém funcionar normalmente no Webrun.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/integracao_Visual.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/integracao_Visual.png)
 
 ### Exemplo de Frameworks suportados pelo componente.
 

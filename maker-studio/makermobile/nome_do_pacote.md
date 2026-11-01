@@ -7,4 +7,4 @@ source_url: "https://suporte.softwell.com.br/Manual/MakerStudio/makermobile/nome
 
 - Para definir o pacote do seu projeto, basta inserir o nome desejado no campo "**Nome do pacote**" encontrado na tela de exportação do projeto.
 
-  ![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/nomedopacote.png)
+  ![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/nomedopacote.png)

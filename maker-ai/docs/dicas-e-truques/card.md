@@ -3,7 +3,7 @@ title: "Card"
 source_url: "https://manual.softwell.com.br/docs/dicas-e-truques/card"
 ---
 
-![](data:image/bmp;base64,Qk02DAAAAAAAADYAAAAoAAAAIAAAACAAAAABABgAAAAAAAAMAAASCwAAEgsAAAAAAAAAAAAAf39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/xcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFf39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/xcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFf39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/xcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFf39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/xcXFxcXFf39/f39/f39/f39/f39/f39/f39/xcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFf39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/xcXFxcXFf39/f39/f39/f39/f39/f39/f39/xcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFf39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/xcXFxcXFxcXFf39/f39/f39/f39/f39/xcXFxcXFxcXFf39/f39/f39/f39/f39/xcXFxcXFf39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/xcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFf39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/xcXFxcXFxcXFxcXFf39/f39/f39/xcXFxcXFxcXFxcXFf39/f39/f39/f39/f39/xcXFxcXFf39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/xcXFxcXFxcXFxcXFf39/f39/f39/xcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFf39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/xcXFxcXFxcXFxcXFf39/f39/f39/xcXFxcXFxcXFxcXFf39/f39/f39/f39/f39/xcXFxcXFf39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/xcXFxcXFxcXFxcXFf39/f39/f39/xcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFf39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/xcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFf39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/xcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFf39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/xcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFf39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/)
+![Imagem do manual](data:image/bmp;base64,Qk02DAAAAAAAADYAAAAoAAAAIAAAACAAAAABABgAAAAAAAAMAAASCwAAEgsAAAAAAAAAAAAAf39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/xcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFf39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/xcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFf39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/xcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFf39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/xcXFxcXFf39/f39/f39/f39/f39/f39/f39/xcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFf39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/xcXFxcXFf39/f39/f39/f39/f39/f39/f39/xcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFf39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/xcXFxcXFxcXFf39/f39/f39/f39/f39/xcXFxcXFxcXFf39/f39/f39/f39/f39/xcXFxcXFf39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/xcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFf39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/xcXFxcXFxcXFxcXFf39/f39/f39/xcXFxcXFxcXFxcXFf39/f39/f39/f39/f39/xcXFxcXFf39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/xcXFxcXFxcXFxcXFf39/f39/f39/xcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFf39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/xcXFxcXFxcXFxcXFf39/f39/f39/xcXFxcXFxcXFxcXFf39/f39/f39/f39/f39/xcXFxcXFf39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/xcXFxcXFxcXFxcXFf39/f39/f39/xcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFf39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/xcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFf39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/xcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFf39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/xcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFxcXFf39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/)
 
 O Card é um componente bastante versátil que pode ser utilizado para exibir informações diversas, como lista de produtos, informações, etc., tornando a interação com os dados em tela mais objetiva e detalhista, sendo possível organizar cada card de acordo com a necessidade do usuário.
 
@@ -13,11 +13,11 @@ Suporta a utilização de imagens, formatação de texto e alinhamento, eventos 
 O preenchimento de dados no Card pode ocorrer através da função Card - Preencher, na qual deve ser passado o componente no primeiro parâmetro e os demais dados de cabeçalho, título do corpo, texto do corpo, rodapé e/ou imagem, sendo estes parâmetros opcionais, exceto o primeiro (componente).
 O componente suporta também a criação de múltiplos cards, cujo preenchimento é feito através de registros retornados através de consulta definida pelo usuário.
 
-![](https://manual.softwell.com.br/assets/images/exemplo_card-4621fa6603abcdddbc6ec884a901fba4.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/exemplo_card-4621fa6603abcdddbc6ec884a901fba4.png)
 
 *Imagem 1 - Interface do componente carregado no Webrun.*
 
-![](https://manual.softwell.com.br/assets/images/card_ecommerce-436eff459ce91dbb3783960b443ae9f2.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/card_ecommerce-436eff459ce91dbb3783960b443ae9f2.png)
 
 *Imagem 2 - Interface do componente carregado no Webrun.*
 
@@ -72,12 +72,12 @@ O componente suporta também a criação de múltiplos cards, cujo preenchimento
 1. A propriedade Consulta SQL ativa o modo de múltiplos cards;
 
    a. Não Editável:
-   ![](https://manual.softwell.com.br/assets/images/exemplo_card_agrupamento_sem_edicao-ef34c6d107566d217828313ecbc0d35b.jpeg)
+   ![Imagem do manual](https://manual.softwell.com.br/assets/images/exemplo_card_agrupamento_sem_edicao-ef34c6d107566d217828313ecbc0d35b.jpeg)
 
    *Imagem 3 - Interface do componente carregado no Webrun não editável.*
 
    b. Editável:
-   ![](https://manual.softwell.com.br/assets/images/exemplo_card_agrupamento_com_edicao-fa3f67ccfe400adf4838471df66ee57b.jpeg)
+   ![Imagem do manual](https://manual.softwell.com.br/assets/images/exemplo_card_agrupamento_com_edicao-fa3f67ccfe400adf4838471df66ee57b.jpeg)
 
    *Imagem 4 - Interface do componente carregado no Webrun editável.*
 2. Se a propriedade Cor de Fundo for definida a propriedade Estilo Bootstrap é ignorada;
@@ -88,17 +88,17 @@ O componente suporta também a criação de múltiplos cards, cujo preenchimento
 7. A propriedade Estilo CSS deve ser utilizada para formatações mais específicas do componente;
 8. É possível utilizar HTML nos campos do card do tipo Letras. Como no exemplo abaixo:
 
-![](https://manual.softwell.com.br/assets/images/exemplo_card_sem_agrupamento_com_html-cbf1b36f2f8cf4d7644e2d255671600d.jpeg)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/exemplo_card_sem_agrupamento_com_html-cbf1b36f2f8cf4d7644e2d255671600d.jpeg)
 
 *Imagem 5 - Interface do componente carregado com HTML.*
 
 9. É possivel preencher o card utilizando a função "Criar lista a partir dos Elementos" em um fluxo vinculado ao evento Ao Preencher. Como pode ser visto no fluxo criado abaixo:
 
-![](https://manual.softwell.com.br/assets/images/exemplo_card_aoPreencher-8e86410525cafbc7bdbde3d6842acd85.gif)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/exemplo_card_aoPreencher-8e86410525cafbc7bdbde3d6842acd85.gif)
 
 *Gif 1 - Interface de fluxo no Maker Studio.*
 
-![](https://manual.softwell.com.br/assets/images/exemplo_card_ao_preencher-534086829ca68108c6b36cf7757e6387.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/exemplo_card_ao_preencher-534086829ca68108c6b36cf7757e6387.png)
 
 *Imagem 6 - Interface do componente utilizando ao preencher.*
 
@@ -107,11 +107,11 @@ O componente suporta também a criação de múltiplos cards, cujo preenchimento
     b. Com imagem em Acima ou Abaixo ocupando 50% do card: tamanho 353 por 329 de Altura;
     c. Sem imagem: tamanho 169 por 113 de Altura;
 
-    ![](https://manual.softwell.com.br/assets/images/exemplo_card_imagem_vertical-c9cac3ff8a285a77c341b4e0d875e68b.png)
+    ![Imagem do manual](https://manual.softwell.com.br/assets/images/exemplo_card_imagem_vertical-c9cac3ff8a285a77c341b4e0d875e68b.png)
 
     *Imagem 7 - Interface do componente com altura modificada.*
 
-    ![](https://manual.softwell.com.br/assets/images/exemplo_card_imagem_horizontal-41ff58ff7b9baee6acb774f7e4822fbb.png)
+    ![Imagem do manual](https://manual.softwell.com.br/assets/images/exemplo_card_imagem_horizontal-41ff58ff7b9baee6acb774f7e4822fbb.png)
 
     *Imagem 8 - Interface do componente com largura modificada.*
 11. **Quantidade de Colunas**:
@@ -120,16 +120,16 @@ O componente suporta também a criação de múltiplos cards, cujo preenchimento
 
        1. Quando não definida a **Altura dos Cartões**, o cartão terá sua altura de acordo ao tamanho máximo do componente;
        2. O **Tamanho dos Cartões** será proporcional ao numero de colunas aplicada ao Componente.
-          ![](/img/dicas-e-truques/exemplo card agrupamento alterando o altura1.jpg)
-          ![](/img/dicas-e-truques/exemplo card agrupamento alterando o altura2.jpg)
+          ![Imagem do manual](/img/dicas-e-truques/exemplo card agrupamento alterando o altura1.jpg)
+          ![Imagem do manual](/img/dicas-e-truques/exemplo card agrupamento alterando o altura2.jpg)
 
        *Imagem 9 e 10 - Interface do componente definindo quantidade de colunas.*
     2. **Não definida:** Todos os cartões ficarão na mesma linha e sua altura e largura se comportará com base nas propriedades abaixo:
 
        1. A **Altura dos Cartões** será de acordo ao tamanho máximo do componente.
        2. Quando não definida o **Tamanho dos Cartões**, o cartão terá seu tamanho de acordo o seu conteúdo.
-          ![](https://manual.softwell.com.br/assets/images/exemplo_card_agrupamento_alterando_o_tamanho1-9f0b05845fe470d5b626d942e6ddfbe5.jpg)
-          ![](https://manual.softwell.com.br/assets/images/exemplo_card_agrupamento_alterando_o_tamanho2-928b40d73fc3f030a58bf28f821573ba.jpg)
+          ![Imagem do manual](https://manual.softwell.com.br/assets/images/exemplo_card_agrupamento_alterando_o_tamanho1-9f0b05845fe470d5b626d942e6ddfbe5.jpg)
+          ![Imagem do manual](https://manual.softwell.com.br/assets/images/exemplo_card_agrupamento_alterando_o_tamanho2-928b40d73fc3f030a58bf28f821573ba.jpg)
 
 *Imagem 11 e 12 - Interface do componente sem definição de quantidade das colunas.*
 
@@ -146,7 +146,7 @@ O componente suporta também a criação de múltiplos cards, cujo preenchimento
 
   É importante seguir a ordem dos parâmetros para que a função tenha o resultado esperado. Conforme exemplo abaixo:
 
-  ![](https://manual.softwell.com.br/assets/images/card_preencher_card-7fcc9f1cfa77660c582939d9f424ae17.png)
+  ![Imagem do manual](https://manual.softwell.com.br/assets/images/card_preencher_card-7fcc9f1cfa77660c582939d9f424ae17.png)
 
 *Imagem 13 - Interface do componente definindo quantidade de colunas.*
 

@@ -7,4 +7,4 @@ source_url: "https://suporte.softwell.com.br/Manual/MakerStudio/novidades/Propri
 
 Agora é possível Abrir um formulário no componente Moldura através da propriedade Formulário, eliminando a necessidade de criar fluxos realização do mesmo.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/PropriedadeFormularioMoldura.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/PropriedadeFormularioMoldura.png)

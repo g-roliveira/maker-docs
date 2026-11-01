@@ -11,13 +11,13 @@ O exemplo listará o Departamento e, em seguida, listará todos os Funcionários
 
 Siga os passos abaixo:
 
-1º passo - Na aba Relatório, clique em ![](https://suporte.softwell.com.br/Manual/Maker2_6/image136.jpg)
+1º passo - Na aba Relatório, clique em ![Imagem do manual](https://suporte.softwell.com.br/Manual/Maker2_6/image136.jpg)
 
-Na tela acima, clique em ![](https://suporte.softwell.com.br/Manual/Maker2_6/image818.gif)
+Na tela acima, clique em ![Imagem do manual](https://suporte.softwell.com.br/Manual/Maker2_6/image818.gif)
 
 Observações:
 
-1. No campo ![](https://suporte.softwell.com.br/Manual/Maker2_6/image819.gif)
+1. No campo ![Imagem do manual](https://suporte.softwell.com.br/Manual/Maker2_6/image819.gif)
 
    2. Após seleção da tabela SIG_DEPARTAMENTO, confirme a tela;
    3. Na tela Maker Params e no campo Campo selecione a opção dep_cod.
@@ -26,12 +26,12 @@ Observações:
 
    4º passo - Continuando na tela Maker Params, selecione o parâmetro acao2:
 
-   ![](https://suporte.softwell.com.br/Manual/Maker2_6/image904.jpg)
+   ![Imagem do manual](https://suporte.softwell.com.br/Manual/Maker2_6/image904.jpg)
 
    defina os dados do parâmetro acao2:
 
-![](https://suporte.softwell.com.br/Manual/Maker2_6/image905.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/Maker2_6/image905.jpg)
 
 na área Detalhes. Para cada componente associe aos campos selecionados no Passo 3 (DEP_NOME, FUN_NOME e FUN_SALARIO):
 
-![](https://suporte.softwell.com.br/Manual/Maker2_6/image908.jpg)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/Maker2_6/image908.jpg)

@@ -9,7 +9,7 @@ Por exemplo:
 
 1. Abra um fluxo, selecione os objetos e clique com o botão direito na área de trabalho do Editor de Fluxo de Ações e selecione a opção refatorar:
 
-![](https://manual.softwell.com.br/assets/images/re1-453c7a7f17e526042042c58dbf3fa47f.png)
+![Imagem do manual](https://manual.softwell.com.br/assets/images/re1-453c7a7f17e526042042c58dbf3fa47f.png)
 
 2. Observe que será feita, uma espécie de cópia dos objetos selecionados
 

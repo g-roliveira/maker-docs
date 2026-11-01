@@ -1,0 +1,23 @@
+{
+  "name": "maker-docs",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "lint:md": "markdownlint-cli2 \"**/*.{md,mdx}\"",
+    "format:check": "prettier --check \"**/*.{md,mdx,json,yml,yaml}\"",
+    "format:site": "prettier --check \"*.{md,mdx,json}\" \".github/**/*.{yml,yaml}\"",
+    "docs:validate": "mint validate",
+    "docs:links": "mint broken-links --check-anchors --check-snippets",
+    "docs:a11y": "mint a11y",
+    "docs:qa": "npm run docs:validate && npm run docs:links && npm run docs:a11y",
+    "test:visual": "playwright test",
+    "docs:guard": "bash scripts/check-md-links.sh",
+    "lint:changed": "bash scripts/lint-changed.sh",
+    "test:visual:update": "playwright test --update-snapshots"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "markdownlint-cli2": "^0.24.0",
+    "prettier": "^3.9.10"
+  }
+}

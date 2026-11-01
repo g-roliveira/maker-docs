@@ -20,4 +20,4 @@ Erro: Não foi possível excluir o sistema, certifique-se que não haja nenhum M
 
 ____________________________________________________________________________
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)

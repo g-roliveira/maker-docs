@@ -14,7 +14,7 @@ Parâmetros:
 1. Recebe valores
 ou funções que retornem valores lógicos.
 
-![](../../../../../image1234.gif)
+![Imagem do manual](../../../../../image1234.gif)
 
 Retorno:
 

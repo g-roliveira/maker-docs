@@ -123,9 +123,9 @@ Para executar o script, siga os seguintes passos
 
 No projeto selecionado, abra o menu Utilitários, selecione a opção Executor de Scripts SQL... e insira o script abaixo:
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/banco4.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/banco4.png)
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/banco5.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/banco5.png)
 
 Script:
 

@@ -7,7 +7,7 @@ source_url: "https://suporte.softwell.com.br/Manual/MakerStudio/maker_3/formular
 
 Componente desenvolvido para facilitar a criação de múltiplos formulários dentro de um formulário pai.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image1.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image1.png)
 
 Ao selecionar uma lista de formulários os mesmos serão associados as abas.
 
@@ -19,7 +19,7 @@ O componente **Aba** possui 3 propriedades específicas, são elas:
 
 Nesta propriedade serão informados todos os formulários que serão representados por abas no formulário de trabalho. Para tal tarefa existe uma tela de escolha, que permite selecioná-los.
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image2.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image2.png)
 
 Através do seletor de formulário (componente lista no formulário acima) serão escolhidos os formulários que serão representados nas abas. A grade serve para visualizar os formulários escolhidos e também excluí-los. Com um simples clique sobre um item da grade será removida a aba referente ao formulário.
 
@@ -34,4 +34,4 @@ Essa propriedade indicará se a opção fechar aba será ou não disponibilizada
 
 ____________________________________________________________________________
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/image16.png)

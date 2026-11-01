@@ -5,7 +5,7 @@ source_url: "https://suporte.softwell.com.br/Manual/MakerStudio/novidades/novata
 
 # Componente Tabela 2.0 (Nova Grade)
 
-![](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/novagrade1.png)
+![Imagem do manual](https://suporte.softwell.com.br/Manual/MakerStudio/imagens/novagrade1.png)
 
 O componente Tabela versão 2.0 foi redesenhado, trazendo nova funcionalidades que darão mais poder para o desenvolvedor Maker.
 Confira as novas funcionalidades do mesmo:
